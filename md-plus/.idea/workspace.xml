@@ -15,7 +15,7 @@
     <file path="$PROJECT_DIR$/../../zhaoy/dqy-html/template/application/费用预支.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1381243029308" ignored="false" />
     <file path="$PROJECT_DIR$/../../zhaoy/dqy-html/css/bootstrap.css" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1381243029308" ignored="false" />
     <file path="/doc-set.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1382197019050" ignored="false" />
-    <file path="/md-plus-style.css" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1387285053442" ignored="false" />
+    <file path="/md-plus-style.css" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1387285775693" ignored="false" />
     <file path="/theme1-style.css" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1387270045670" ignored="false" />
     <file path="/doc-req-index.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1387262945830" ignored="false" />
     <file path="/my-doc.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1382506970103" ignored="false" />
@@ -125,10 +125,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="md-plus-style.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="md-plus-style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/md-plus-style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="676" column="91" selection-start="43957" selection-end="43957" vertical-scroll-proportion="0.33238232">
+            <state line="680" column="53" selection-start="44202" selection-end="44202" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -166,10 +166,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="doc-req-index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="doc-req-index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/template/doc-req/doc-req-index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="90" column="36" selection-start="3710" selection-end="3710" vertical-scroll-proportion="-12.8">
+            <state line="105" column="40" selection-start="4602" selection-end="4602" vertical-scroll-proportion="0.78070176">
               <folding>
                 <element signature="tag#div#2;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
                 <element signature="tag#ul#0;tag#div#0;tag#div#4;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
@@ -222,8 +222,8 @@
         <option value="$PROJECT_DIR$/css/theme6-style.css" />
         <option value="$PROJECT_DIR$/css/theme1-style.css" />
         <option value="$PROJECT_DIR$/template/doc-req/填写加班记录.html" />
-        <option value="$PROJECT_DIR$/template/doc-req/doc-req-index.html" />
         <option value="$PROJECT_DIR$/css/md-plus-style.css" />
+        <option value="$PROJECT_DIR$/template/doc-req/doc-req-index.html" />
       </list>
     </option>
   </component>
@@ -470,22 +470,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/md-plus-style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="680" column="53" selection-start="44202" selection-end="44202" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/template/doc-req/doc-req-index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="90" column="36" selection-start="3710" selection-end="3710" vertical-scroll-proportion="-12.8">
+        <state line="105" column="40" selection-start="4602" selection-end="4602" vertical-scroll-proportion="0.78070176">
           <folding>
             <element signature="tag#div#2;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#ul#0;tag#div#0;tag#div#4;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#div#1;tag#div#4;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="n#style#0;n#div#2;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/md-plus-style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="676" column="91" selection-start="43957" selection-end="43957" vertical-scroll-proportion="0.33238232">
-          <folding />
         </state>
       </provider>
     </entry>

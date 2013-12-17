@@ -674,17 +674,11 @@ li:hover .txt-ico-19,.txt-ico-19{background-position: 0 -252px;}
 .overtime table{margin-left:10px;}
 .overmake{position:absolute;right:-100px;top:85px;z-index:100;transition:0.2s;}
 .overtime:hover .overmake{right:20px;transition:0.2s;}
-.SearchResults{border:1px solid #E7E7E7;width:400px;padding:5px 0;position: absolute;top:30px;right:-1px;background:#fff;z-index:20;box-shadow:0px 2px 5px #e5e5e5;max-height:138px;overflow-x:hidden;overflow-y: scroll;}
-.SearchResults dl{width:100%;position: relative;z-index:20;}
-.SearchResults dd a,.SearchResults dd{display:block;}
-.SearchResults dd{padding:0 10px;}
-.SearchResults dd a{height:25px;line-height:25px;border-bottom:1px dashed #e7e7e7;width:366px;padding:0 10px 0 4px;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;display:inline-block;color:#333;}
-.SearchResults dd:last-child a{border:0;}
-.SearchResults dd a:hover{background-color:#EBEBEB;text-decoration: none;}
-
-
-
-
+.md-plus-ser .md-result-user{top:30px;left:-43px;}
+.md-plus-ser .md-result-user .md-results,.md-plus-ser .md-result-user .md-results span{height:30px;line-height:30px;}
+.md-plus-ser .md-result-user .md-results span{}
+.md-plus-ser .md-result-user .md-results.txt_hidden{width:235px;}
+.md-plus-ser .md-result-user .md-name.txt_hidden{max-width:150px;}
 
 
 
