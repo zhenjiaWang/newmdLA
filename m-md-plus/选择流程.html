@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0，user-scalable=0">
+    <title>选择流程</title>
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="css/md-plus-style.css">
+    <link rel="stylesheet" type="text/css" href="css/m-plus-style.css">
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <script type="text/javascript" src="js/bootstrap.js"></script>
+</head>
+<body>
+<div class="container">
+  <!--导航条begin-->
+  <div class="navbar">
+      <div class="navbar-inner">
+          <a class="brand" href="index.html"><img src="img/plus-logo.png"/>流程审批</a>
+          <ul class="nav">
+              <li class="active"><a href="index.html">单据申请</a></li>
+              <li><a href="#">我的单据</a></li>
+              <li><a href="#">单据审批<span class="badge badge-important">6</span></a></li>
+              <li><a href="#">个人设置</a></li>
+              <li><a href="#">环境设置</a></li>
+              <li><a href="#"><i class="icon-off"></i> 退出</a></li>
+          </ul>
+          <!--小于480时显示的导航beign-->
+          <div class="btn-group">
+              <button class="btn">单据审批</button>
+              <button class="btn dropdown-toggle" data-toggle="dropdown">
+                  <span class="caret"></span>
+              </button>
+              <ul class="dropdown-menu">
+                <li><a href="index.html">单据申请</a></li>
+                <li><a href="">我的单据</a></li>
+                <li><a href="">单据审批<span class="badge badge-important">6</span></a></li>
+                <li><a href="">个人设置</a></li>
+                <li><a href="#">环境设置</a></li>
+                <li><a href="#"><i class="icon-off"></i> 退出</a></li>
+              </ul>
+          </div>
+          <!--小于480时显示的导航over-->
+      </div>
+  </div>
+  <!--导航条over-->
+  <div class="container-fluid">
+     <p class="text-info text-center">岗位薪资调整申请</p>
+     <div class="content">
+       <p>选择一种审批流程</p>
+       <select style="width:auto;">
+                 <option>
+                     刘德华 -&gt;王振佳 -&gt;赵阳 -&gt;刘德华 -&gt;刘德华 -&gt;
+                     刘德华 -&gt;王振佳 -&gt;刘德华 -&gt;刘德华 -&gt;
+                 </option>
+       </select>
+       <p class="p-line"><a href="#">增加自定义流程</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="#"> 删除当前选择的流程</a></p>
+       <!--详细流程begin-->
+       <table class="process-table">
+          <tbody>
+              <tr>
+                  <th valign="top" rowspan="4">详细流程</th>
+                  <td>第1步 审批 <span class="color-p">刘德华</span></td>
+              </tr>
+              <tr><td>第2步 审批 <span class="color-p">王振佳</span></td></tr>
+              <tr><td>第3步 审批 <span class="color-p">王振佳</span></td></tr>
+              <tr><td>经办执行人 <span class="color-p">赵阳</span></td></tr>
+          </tbody>
+       </table>
+       <!--详细流程over-->
+       <div class="container-fluid">
+           <a href="#">返回上一步</a>
+           <button class="btn btn-primary pull-right">完成提交</button>
+       </div>
+     </div>
+  </div>
+</div>
+</body>
+</html>

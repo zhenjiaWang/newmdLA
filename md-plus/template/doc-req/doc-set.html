@@ -1,0 +1,349 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>单据申请首页</title>
+    <link rel="stylesheet" href="../../css/global.css" type="text/css">
+    <link rel="stylesheet" href="../../css/md-plus-style.css" type="text/css">
+    <link rel="stylesheet" href="../../css/theme1-style.css" type="text/css">
+</head>
+<body style="margin:0;padding:0;">
+<div class="md-plus">
+    <div class="md-plus-inner mart30">
+        <!--the inner nav begin-->
+        <div class="md-p-nav Noprint">
+            <ul class="clearfix">
+                <li class="current"><a href="#"class="m-first-a">单据申请</a></li>
+                <li><a href="#">我的单据</a></li>
+                <li><a href="#">单据审批</a></li>
+                <li><a href="#">个人设置</a></li>
+                <li><a href="#" class="m-last-a">环境设置</a></li>
+            </ul>
+        </div>
+        <!--the inner nav over-->
+        <!--the main beign-->
+        <div class="md-plus-main">
+            <div class="md-plus-main-inner md-new-form">
+                <h2 class="md-doc-title clearfix aligncenter">
+                    <span class="font16">考勤申请单</span>
+                    <em class="md-doc-num">单据编号：<a href="#">01-103974738</a></em>
+                </h2>
+                <div class="md-doc-set-box">
+                    <table class="md-set-table">
+                        <tr>
+                            <th><span class="font14">审批流程</span></th>
+                            <td>
+                                <select class="ma-select-f">
+                                    <option>考勤审批流程考勤审批流程考勤审批流程考勤审批流程</option>
+                                    <option>考勤审批流程</option>
+                                    <option>考勤审批流程</option>
+                                    <option>考勤审批流程</option>
+                                </select>
+                            </td>
+                            <td><a href="#">新建流程</a></td>
+                        </tr>
+                    </table>
+                </div>
+                <!--审批流程 beign-->
+                 <div class="md-ap-pro">
+                     <ul class="clearfix">
+                             <li class="the-first">
+                                 <span class="md-num-ico"></span>
+                                 <span class="md-pro-user">
+                                     <em>何苗</em>
+                                     <a href="#" class="md-delect" title="删除此审批人"></a>
+                                 </span>
+                             </li>
+                             <li><em class="md-r-arrow"></em></li>
+                             <li>
+                                 <span class="md-num-ico">2</span>
+                                 <span class="md-pro-user">
+                                     <em>王振佳</em>
+                                     <a href="#" class="md-delect" title="删除此审批人"></a>
+                                 </span>
+                             </li>
+                             <li><em class="md-r-arrow"></em></li>
+                             <li>
+                                 <span class="md-num-ico">4</span>
+                                 <span class="md-pro-user">
+                                     <em>赵阳</em>
+                                     <a href="#" class="md-delect" title="删除此审批人"></a>
+                                 </span>
+                             </li>
+                             <li><em class="md-r-arrow"></em></li>
+                             <li class="current">
+                                 <span class="md-num-ico">5</span>
+                                 <span class="md-pro-user">
+                                     <em>赵阳</em>
+                                     <a href="#" class="md-delect" title="删除此审批人"></a>
+                                 </span>
+                             </li>
+                             <li><em class="md-r-arrow"></em></li>
+                             <li class="no-ok">
+                                 <span class="md-num-ico">6</span>
+                                 <span class="md-pro-user">
+                                     <em>赵阳</em>
+                                     <a href="#" class="md-delect" title="删除此审批人"></a>
+                                 </span>
+                             </li>
+                     </ul>
+                 </div>
+                <!--审批流程 over-->
+                <div class="md-doc-set-box">
+                    <table class="md-set-table">
+                        <tr>
+                            <th><span class="font14">标题</span></th>
+                            <td><input type="text" class="md-int-lang"> </td>
+                        </tr>
+                    </table>
+                    <table class="md-set-table">
+                        <tr>
+                            <th><span class="font14">标题</span></th>
+                            <td>
+                                <div class="int-div md-int-lang clearfix">
+                                    <input type="text" />
+                                    <input type="text" value="病假"/>
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+                <div class="md-doc-set-box">
+                    <table class="md-set-table">
+                        <tr><th clospan="2"><span class="font14">申请人信息</span></th></tr>
+                        <tr>
+                            <th>部门</th>
+                            <td>
+                               <div class="has-success">
+                                 <input type="text" class="md-int-short" id="inputSuccess">
+                                 <label class="control-label" for="inputSuccess">填写正确</label>
+                               </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <th>工作地点</th>
+                            <td>
+                               <div class="has-warning">
+                                <input type="text" class="md-int-short" id="inputWarning">
+                                <label class="control-label" for="inputWarning">填写格式不合规范</label>
+                               </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <th>姓名</th>
+                            <td>
+                               <div class="has-error">
+                                <input type="text" class="md-int-short" id="inputError">
+                                <label class="control-label" for="inputError">填写错误</label>
+                               </div>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+                <div class="md-doc-set-box">
+                    <table class="md-set-table">
+                        <tr><th clospan="2"><span class="font14">考勤信息</span></th></tr>
+                        <tr>
+                            <th>类型</th>
+                            <td>
+                                <select class="ma-select-f">
+                                    <option>考勤审批流程</option>
+                                    <option>考勤审批流程</option>
+                                    <option>考勤审批流程</option>
+                                    <option>考勤审批流程</option>
+                                </select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <th>开始时间</th>
+                            <td>
+                                <div class="md-clander">
+                                   <input type="text" class="md-int-short">
+                                   <a href="#" class="md-cl-ico"></a>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <th>结束时间</th>
+                            <td>
+                                <div class="md-clander">
+                                  <input type="text" class="md-int-short">
+                                  <a href="#" class="md-cl-ico"></a>
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+                <div class="md-doc-set-box">
+                    <table class="md-set-table">
+                        <tr>
+                            <th><span class="font14">备注信息</span></th>
+                            <td><input type="text" class="md-int-lang"></td>
+                            <td>
+                                <div  class="md-attachment">
+                                    <a><em class="md-mi-attachment"></em>下载附件</a>
+                                    <ul class="all-att">
+                                        <li><span class="docimg"><img src="../../images/xlsx.png"></span><span class="txt_hidden">加班申请表请</span><a href="#">下载</a></li>
+                                        <li><span class="docimg"><img src="../../images/xlsx.png"></span><span class="txt_hidden">加班申请表</span><a href="#">下载</a></li>
+                                        <li><span class="docimg"><img src="../../images/xlsx.png"></span><span class="txt_hidden">加班申请表</span><a href="#">下载</a></li>
+                                    </ul>
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+                <p class="mart10 marr15 clearfix Noprint"><a href="#" class="md-plus-btn floatright color-white">保  存<em class="md-plus-btn-r"></em></a></p>
+                <!--操作日志begin-->
+                <table class="make-logs" width="100%">
+                    <tr>
+                        <th width="80">操作人</th>
+                        <th>操作</th>
+                        <th>操作时间</th>
+                        <th>备注</th>
+                    </tr>
+                    <tr>
+                        <td>王振佳</td>
+                        <td>提交申请</td>
+                        <td>2013-8-11</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>赵阳</td>
+                        <td>更新申请</td>
+                        <td>2013-8-11</td>
+                        <td>修改了xxx.</td>
+                    </tr>
+                </table>
+                <!--操作日志over-->
+                <!--费用日志begin-->
+                <table class="make-logs" width="100%">
+                    <tr>
+                        <th>发生日期</th>
+                        <th>事项</th>
+                        <th>金额</th>
+                        <th>金额大写</th>
+                        <th class="make-ico-th">备注
+                           <span class="floatright  clearfix">
+                               <a title="添加一条" class="md-add-ico" href="#"></a>
+                               <a title="删除最后一条" class="md-minus-ico" href="#"></a>
+                           </span>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div class="md-clander">
+                                <input type="text" class="md-int-short width-60">
+                                <a href="#" class="md-cl-ico"></a>
+                            </div>
+                        </td>
+                        <td><input type="text" class="md-int-short width-80"></td>
+                        <td width=""><input type="text" class="md-int-short width-60"></td>
+                        <td><input type="text" class="md-int-short width-60"></td>
+                        <td width="200"><input type="text" class="md-int-short"></td>
+                    </tr>
+                </table>
+                <!--费用日志over-->
+                <!--操作按钮组begin-->
+                <div class="mart20 alignright clearfix">
+                     <a href="#" class="make-btn btn-print">打 印</a>
+                     <a href="#" class="make-btn btn-export">导 出</a>
+                     <a href="#" class="make-btn btn-return">返 回</a>
+                     <a href="#" class="make-btn btn-back">回 退</a>
+                     <a href="#" class="make-btn btn-reapply">转 申</a>
+                     <a href="#" class="make-btn btn-no">否 决</a>
+                     <a href="#" class="make-btn btn-ok">同 意</a>
+              </div>
+                <!--操作按钮组over-->
+            </div>
+            <!--遮罩加loading beign-->
+            <div class="mask" style="display:none;">
+                <span class="mask-x">努力加载中，请稍后...</span>
+            </div>
+            <!--遮罩加loading over-->
+            <!--新建流程弹出框 begin-->
+            <div class="md-plus-pop" style="display:block;width:400px;top:50%;left:50%;margin:-206px 0 0 -205px;">
+                <div class="md-plus-pop-inner">
+                    <a href="#" class="md-delect"></a>
+                    <p class="font18 md-title">新建流程</p>
+                    <div class="md-pop-main">
+                       <div class="md-doc-set-box">
+                           <table>
+                               <tr>
+                                   <th><span class="font14">流程名称</span></th>
+                                   <td><input type="text" class="md-int-mid"></td>
+                               </tr>
+                           </table>
+                       </div>
+                       <div class="md-doc-set-box">
+                           <table>
+                               <tr>
+                                   <th><span class="font14">流程名称</span></th>
+                                   <td><input type="text" class="md-int-mid"></td>
+                               </tr>
+                           </table>
+                       </div>
+                       <div class="md-doc-set-box" >
+                            <table style="*width:90%;">
+                                <tr>
+                                    <th><span class="font14">审批人1</span></th>
+                                    <td class="clearfix">
+                                        <div class="md-clander floatleft">
+                                            <input type="text" class="md-int-mid">
+                                            <a href="#" class="md-ser-ico"></a>
+                                        </div>
+                                        <!--添加审批人begin-->
+                                        <a href="#"class="md-minus-ico" title="删除审批人"></a>
+                                        <a href="#"class="md-add-ico" title="添加审批人"></a>
+                                        <!--添加审批人over-->
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <th><span class="font14">审批人2</span></th>
+                                    <td>
+                                        <div class="md-clander floatleft">
+                                            <input type="text" class="md-int-mid">
+                                            <a href="#" class="md-ser-ico"></a>
+                                        </div>
+                                        <!--删除审批人begin-->
+                                        <a href="#"class="md-minus-ico" title="删除审批人"></a>
+                                        <!--删除审批人over-->
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <th><span class="font14">审批人3</span></th>
+                                    <td>
+                                        <div class="md-clander floatleft">
+                                            <input type="text" class="md-int-mid">
+                                            <a href="#" class="md-ser-ico"></a>
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <th><span class="font14">审批人4</span></th>
+                                    <td>
+                                        <div class="md-clander floatleft">
+                                            <input type="text" class="md-int-mid">
+                                            <a href="#" class="md-ser-ico"></a>
+                                        </div>
+                                    </td>
+                                </tr>
+                            </table>
+                       </div>
+                       <form class="marl30 mart10">
+                          <p class="marl20"><input type="radio" id="chose1"><label for="chose1" class="marl5">适用于全体人员</label></p>
+                          <p class="marl20"><input type="radio" id="chose2"><label for="chose2" class="marl5">适用于自己</label></p>
+                       </form>
+                       <p class="alignright Noprint">
+                           <button class="md-plus-btn color-white">保  存<em class="md-plus-btn-r"></em></button>
+                           <button href="#" class="md-plus-btn2">取  消<em class="md-plus-btn-r"></em></button>
+                       </p>
+                    </div>
+                </div>
+            </div>
+            <!--新建流程弹出框 over-->
+        </div>
+        <!--the main over-->
+    </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,82 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>框架</title>
+    <link rel="stylesheet" href="../../css/global.css" type="text/css">
+    <link rel="stylesheet" href="../../css/md-plus-style.css" type="text/css">
+    <link rel="stylesheet" href="../../css/theme1-style.css" type="text/css">
+</head>
+<body>
+<div id="Container">
+  <div id="header" class="head"></div>
+  <div class="content">
+      <div class="innercontent clearfix">
+          <div class="widget_Left" id="leftmenu"></div>
+          <div id="mainIframeDiv" class="main ThemeShaBorder">
+                 这里是我们的
+          </div>
+          <div class="Clear"></div>
+      </div>
+      <div class="Clear"></div>
+  </div>
+  <!--footer begin-->
+  <div id="footer">
+
+  </div>
+  <!--footer over-->
+</div>
+<script type="text/javascript" src="../../js/jquery.js"></script>
+    <script type="text/javascript">
+
+    var MDobj = {
+    paras:{ access_token:""},
+    baseUrl:"https://api.mingdao.com/",
+    //获取明道头部的html
+    GetHeader:function (callback) {
+    var ajaxUrl = MDobj.baseUrl + "md/header.aspx?jsoncallback=?";
+
+    $.getJSON(ajaxUrl,
+    { u_key:MDobj.paras.access_token },
+    function (data) {
+    callback(data);
+    });
+
+    },
+
+    //获取明道左侧菜单栏html
+    GetLeftMenu:function (callback) {
+    var ajaxUrl = MDobj.baseUrl + "md/leftmenu.aspx?jsoncallback=?";
+    $.getJSON(ajaxUrl,
+    { u_key:MDobj.paras.access_token },
+    function (data) {
+    callback(data);
+    });
+    },
+
+    //获取明道底部html
+    GetFooter:function (callback) {
+    var ajaxUrl = MDobj.baseUrl + "md/footer.aspx?jsoncallback=?";
+    $.getJSON(ajaxUrl,
+    function (data) {
+    callback(data);
+    });
+    }
+
+    }
+
+    $(document).ready(function () {
+    MDobj.paras.access_token = ""; //访问临牌access_token
+    MDobj.GetHeader(function (data) {
+    $("#header").html(data.result);
+    });
+    MDobj.GetLeftMenu(function (data) {
+    $("#leftmenu").html(data.result);
+    });
+    MDobj.GetFooter(function (data) {
+    $("#footer").html(data.result);
+    });
+    });
+    </script>
+</body>
+</html>

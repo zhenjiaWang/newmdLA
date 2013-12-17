@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0，user-scalable=0">
+    <title>选择流程</title>
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="css/md-plus-style.css">
+    <link rel="stylesheet" type="text/css" href="css/m-plus-style.css">
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <script type="text/javascript" src="js/bootstrap.js"></script>
+</head>
+<body>
+<div class="container">
+  <!--导航条begin-->
+  <div class="navbar">
+      <div class="navbar-inner">
+          <a class="brand" href="template/index.html"><img src="img/plus-logo.png"/>流程审批</a>
+          <ul class="nav">
+              <li class="active"><a href="template/index.html">单据申请</a></li>
+              <li><a href="#">我的单据</a></li>
+              <li><a href="#">单据审批<span class="badge badge-important">6</span></a></li>
+              <li><a href="#">个人设置</a></li>
+              <li><a href="#">环境设置</a></li>
+              <li><a href="#"><i class="icon-off"></i> 退出</a></li>
+          </ul>
+          <!--小于480时显示的导航beign-->
+          <div class="btn-group">
+              <button class="btn">单据审批</button>
+              <button class="btn dropdown-toggle" data-toggle="dropdown">
+                  <span class="caret"></span>
+              </button>
+              <ul class="dropdown-menu">
+                <li><a href="template/index.html">单据申请</a></li>
+                <li><a href="">我的单据</a></li>
+                <li><a href="">单据审批<span class="badge badge-important">6</span></a></li>
+                <li><a href="">个人设置</a></li>
+                <li><a href="#">环境设置</a></li>
+                <li><a href="#"><i class="icon-off"></i> 退出</a></li>
+              </ul>
+          </div>
+          <!--小于480时显示的导航over-->
+      </div>
+  </div>
+  <!--导航条over-->
+  <div class="container-fluid">
+     <div class="content">
+        <a class="md-delect" href="#"></a>
+        <p class="md-title clearfix">
+            <span class="floatleft">为 采购申请 添加流程</span>
+            <em class="pro-edit">
+               <button class="btn" type="button"><i class="icon-edit"></i></button>
+               <button class="btn" type="button"><i class="icon-trash"></i></button>
+            </em>
+        </p>
+        <div class="md-pop-main">
+          <div class="md-doc-set-box">
+              <p><input type="text" value="流程名称"></p>
+              <table class="process-table">
+                  <tbody>
+                    <tr>
+                      <th>第1步 审批</th>
+                      <td>
+                          <div class="btn-group">
+                            <button class="btn btn-small dropdown-toggle" data-toggle="dropdown">刘德华<span class="caret"></span></button>
+                            <ul class="dropdown-menu">
+                              <li><a href="#">王振佳</a></li>
+                              <li><a href="#">赵阳</a></li>
+                              <li><a href="#">王振佳</a></li>
+                            </ul>
+                          </div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <th>第2步 审批</th>
+                      <td>
+                          <div class="btn-group">
+                            <button class="btn btn-small dropdown-toggle" data-toggle="dropdown">赵阳<span class="caret"></span></button>
+                            <ul class="dropdown-menu">
+                              <li><a href="#">王振佳</a></li>
+                              <li><a href="#">赵阳</a></li>
+                              <li><a href="#">王振佳</a></li>
+                            </ul>
+                          </div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <th>第1步 审批</th>
+                      <td>
+                          <div>
+                              <div class="input-append">
+                                  <input class="span2" id="appendedInputButton" type="text">
+                                  <button class="btn" type="button"><i class="icon-search"></i></button>
+                              </div>
+                          </div>
+                      </td>
+                    </tr>
+                    <tr>
+                        <th></th>
+                        <td>
+                              <button class="btn btn-info" type="button"><i class="icon-plus icon-white"></i> 添加</button>
+                              <button class="btn btn-danger" type="button"><i class="icon-minus icon-white"></i> 删除</button>
+                        </td>
+                    </tr>
+                  </tbody>
+              </table>
+          </div>
+          <h5>所有审批通过后，交由经办人执行</h5>
+          <table class="process-table">
+              <tbody>
+                <tr>
+                  <th>经办执行人</th>
+                  <td>
+                      <div class="btn-group">
+                        <button class="btn btn-small dropdown-toggle" data-toggle="dropdown">刘德华<span class="caret"></span></button>
+                        <ul class="dropdown-menu">
+                          <li><a href="#">王振佳</a></li>
+                          <li><a href="#">赵阳</a></li>
+                          <li><a href="#">王振佳</a></li>
+                        </ul>
+                      </div>
+                  </td>
+                </tr>
+              </tbody>
+          </table>
+          <p class="text-right mart20">
+              <button type="button" class="btn btn-primary">保 存</button>
+              <button type="button" class="btn">取 消</button>
+          </p>
+        </div>
+       </div>
+  </div>
+</div>
+</body>
+</html>
