@@ -82,6 +82,8 @@ textarea{padding:3px;}
  .width-80{width:80px!important;}
  .width-90{width:90px!important;}
  .width-100{width:100px!important;}
+ .width-110{width:110px!important;}
+ .width-120{width:120px!important;}
  .width-60{width:60px!important;}
  .width-240{width:240px!important;}
  .width-200{width:200px!important;}
@@ -668,6 +670,26 @@ li:hover .txt-ico-19,.txt-ico-19{background-position: 0 -252px;}
 .process-table .md-make-pro dd a{color:#2c2c2c;display:block;padding-left:5px;}
 .process-table .md-make-pro dd{line-height:22px;display:block;margin-bottom:3px;}
 .process-table .md-make-pro dd a:hover{color:#fff;text-decoration:none;}
+.overtime{border-bottom:1px dotted;width:550px;padding:10px 0;position:relative;overflow:hidden;}
+.overtime table{margin-left:10px;}
+.overmake{position:absolute;right:-100px;top:85px;z-index:100;transition:0.2s;}
+.overtime:hover .overmake{right:20px;transition:0.2s;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
