@@ -471,7 +471,7 @@ table.md-forms .ma-select-f{margin:0;}
 .md-result-user{background:#FFF;border:1px solid #E3E3E3;padding:5px 0;position:absolute;z-index:101;box-shadow:0 2px 5px rgba(0, 0, 0, 0.15);width:260px;border-radius:5px;}
 .md-result-user .current{border-color:#d2ea00;}
 .md-results{cursor:pointer;padding:0 20px 0 5px;line-height:36px;height:36px;}
-.md-results:hover,.md-results.active{background:#F5F5F5;}
+.md-results:hover,.md-results.current{background:#F5F5F5;}
 .md-results span{display: block;float: left;color: #333;line-height:36px;height:36px;margin-right:3px;}
 .md-results span img{width:26px;height:26px;margin:5px 5px 0 0;border-radius:3px;}
 .md-results .txt_hidden{max-width:70px;}
@@ -674,7 +674,13 @@ li:hover .txt-ico-19,.txt-ico-19{background-position: 0 -252px;}
 .overtime table{margin-left:10px;}
 .overmake{position:absolute;right:-100px;top:85px;z-index:100;transition:0.2s;}
 .overtime:hover .overmake{right:20px;transition:0.2s;}
-
+.SearchResults{border:1px solid #E7E7E7;width:400px;padding:5px 0;position: absolute;top:30px;right:-1px;background:#fff;z-index:20;box-shadow:0px 2px 5px #e5e5e5;max-height:138px;overflow-x:hidden;overflow-y: scroll;}
+.SearchResults dl{width:100%;position: relative;z-index:20;}
+.SearchResults dd a,.SearchResults dd{display:block;}
+.SearchResults dd{padding:0 10px;}
+.SearchResults dd a{height:25px;line-height:25px;border-bottom:1px dashed #e7e7e7;width:366px;padding:0 10px 0 4px;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;display:inline-block;color:#333;}
+.SearchResults dd:last-child a{border:0;}
+.SearchResults dd a:hover{background-color:#EBEBEB;text-decoration: none;}
 
 
 

@@ -15,7 +15,7 @@
     <file path="$PROJECT_DIR$/../../zhaoy/dqy-html/template/application/费用预支.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1381243029308" ignored="false" />
     <file path="$PROJECT_DIR$/../../zhaoy/dqy-html/css/bootstrap.css" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1381243029308" ignored="false" />
     <file path="/doc-set.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1382197019050" ignored="false" />
-    <file path="/md-plus-style.css" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1387271111686" ignored="false" />
+    <file path="/md-plus-style.css" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1387285053442" ignored="false" />
     <file path="/theme1-style.css" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1387270045670" ignored="false" />
     <file path="/doc-req-index.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1387262945830" ignored="false" />
     <file path="/my-doc.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1382506970103" ignored="false" />
@@ -50,7 +50,7 @@
     <file path="/timeline.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1384493502750" ignored="false" />
     <file path="D:/kuanpan/标致/10月份/301/css/style.css" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1384494061604" ignored="false" />
     <file path="/theme1-ico.css" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1384486723220" ignored="false" />
-    <file path="/Dummy.txt" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1386213767044" ignored="false" />
+    <file path="/Dummy.txt" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1387284780810" ignored="false" />
     <file path="D:/mdplus/HR/css/global.css" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1385545131897" ignored="false" />
     <file path="D:/mdplus/HR/css/styles.css" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1385692608635" ignored="false" />
     <file path="/styles.css" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1385692603646" ignored="false" />
@@ -125,10 +125,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="md-plus-style.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="md-plus-style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/md-plus-style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="674" column="0" selection-start="43730" selection-end="43739" vertical-scroll-proportion="0.0">
+            <state line="676" column="91" selection-start="43957" selection-end="43957" vertical-scroll-proportion="0.33238232">
               <folding />
             </state>
           </provider>
@@ -137,7 +137,7 @@
       <file leaf-file-name="process-set-pop.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/template/doc-req/process-set-pop.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="42" selection-start="1538" selection-end="1538" vertical-scroll-proportion="-0.84375">
+            <state line="30" column="42" selection-start="1538" selection-end="1538" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -152,10 +152,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="填写加班记录.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="填写加班记录.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/template/doc-req/填写加班记录.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="73" column="53" selection-start="3468" selection-end="3468" vertical-scroll-proportion="0.6963636">
+            <state line="73" column="53" selection-start="3468" selection-end="3468" vertical-scroll-proportion="-2.8666666">
               <folding>
                 <element signature="tag#tr#0;tag#table#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
                 <element signature="tag#tr#1;tag#table#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
@@ -169,8 +169,13 @@
       <file leaf-file-name="doc-req-index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/template/doc-req/doc-req-index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="10" selection-start="1287" selection-end="1287" vertical-scroll-proportion="-0.84375">
-              <folding />
+            <state line="90" column="36" selection-start="3710" selection-end="3710" vertical-scroll-proportion="-12.8">
+              <folding>
+                <element signature="tag#div#2;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#ul#0;tag#div#0;tag#div#4;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#div#1;tag#div#4;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="n#style#0;n#div#2;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -179,9 +184,7 @@
         <entry file="file://$PROJECT_DIR$/css/global.css">
           <provider selected="true" editor-type-id="text-editor">
             <state line="8" column="17" selection-start="441" selection-end="441" vertical-scroll-proportion="0.0">
-              <folding>
-                <marker date="1384394721849" expanded="true" signature="1123:1147" placeholder="{...}" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -217,18 +220,18 @@
         <option value="$PROJECT_DIR$/css/theme3-style.css" />
         <option value="$PROJECT_DIR$/css/theme5-style.css" />
         <option value="$PROJECT_DIR$/css/theme6-style.css" />
-        <option value="$PROJECT_DIR$/template/doc-req/doc-req-index.html" />
         <option value="$PROJECT_DIR$/css/theme1-style.css" />
-        <option value="$PROJECT_DIR$/css/md-plus-style.css" />
         <option value="$PROJECT_DIR$/template/doc-req/填写加班记录.html" />
+        <option value="$PROJECT_DIR$/template/doc-req/doc-req-index.html" />
+        <option value="$PROJECT_DIR$/css/md-plus-style.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -244,7 +247,7 @@
     <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+    <navigator proportions="" version="1" splitterProportion="0.5">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -255,57 +258,17 @@
       <autoscrollFromSource />
       <sortByType />
     </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="md-plus" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="md-plus" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="md-plus" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="template" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="doc-req" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="md-plus" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="md-plus" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="xml.catalog" />
-    <property name="last_opened_file_path" value="D:/mdplus/HR" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../HR" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -340,7 +303,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -477,29 +440,13 @@
     <entry file="file://$PROJECT_DIR$/css/global.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="17" selection-start="441" selection-end="441" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1384394721849" expanded="true" signature="1123:1147" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/doc-req/doc-req-index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="10" selection-start="1287" selection-end="1287" vertical-scroll-proportion="-0.84375">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/template/doc-req/process-set-pop.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="42" selection-start="1538" selection-end="1538" vertical-scroll-proportion="-0.84375">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/md-plus-style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="674" column="0" selection-start="43730" selection-end="43739" vertical-scroll-proportion="0.0">
+        <state line="30" column="42" selection-start="1538" selection-end="1538" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -513,13 +460,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/template/doc-req/填写加班记录.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="73" column="53" selection-start="3468" selection-end="3468" vertical-scroll-proportion="0.6963636">
+        <state line="73" column="53" selection-start="3468" selection-end="3468" vertical-scroll-proportion="-2.8666666">
           <folding>
             <element signature="tag#tr#0;tag#table#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#tr#1;tag#table#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#tr#0;tag#table#0;tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#tr#1;tag#table#0;tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/doc-req/doc-req-index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="90" column="36" selection-start="3710" selection-end="3710" vertical-scroll-proportion="-12.8">
+          <folding>
+            <element signature="tag#div#2;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#ul#0;tag#div#0;tag#div#4;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#1;tag#div#4;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="n#style#0;n#div#2;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/md-plus-style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="676" column="91" selection-start="43957" selection-end="43957" vertical-scroll-proportion="0.33238232">
+          <folding />
         </state>
       </provider>
     </entry>
