@@ -15,7 +15,7 @@
     <file path="$PROJECT_DIR$/../../zhaoy/dqy-html/template/application/费用预支.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1381243029308" ignored="false" />
     <file path="$PROJECT_DIR$/../../zhaoy/dqy-html/css/bootstrap.css" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1381243029308" ignored="false" />
     <file path="/doc-set.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1382197019050" ignored="false" />
-    <file path="/md-plus-style.css" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1387332253182" ignored="false" />
+    <file path="/md-plus-style.css" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1388635424137" ignored="false" />
     <file path="/theme1-style.css" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1387270045670" ignored="false" />
     <file path="/doc-req-index.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1387262945830" ignored="false" />
     <file path="/my-doc.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1382506970103" ignored="false" />
@@ -50,7 +50,7 @@
     <file path="/timeline.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1384493502750" ignored="false" />
     <file path="D:/kuanpan/标致/10月份/301/css/style.css" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1384494061604" ignored="false" />
     <file path="/theme1-ico.css" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1384486723220" ignored="false" />
-    <file path="/Dummy.txt" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1387284780810" ignored="false" />
+    <file path="/Dummy.txt" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1387345479533" ignored="false" />
     <file path="D:/mdplus/HR/css/global.css" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1385545131897" ignored="false" />
     <file path="D:/mdplus/HR/css/styles.css" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1385692608635" ignored="false" />
     <file path="/styles.css" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1385692603646" ignored="false" />
@@ -106,6 +106,7 @@
     <file path="D:/work/Vjifen/20131129/newvppt/给你更多.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1386224230277" ignored="false" />
     <file path="D:/work/Vjifen/20131129/newvppt/重塑消费者关系.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1386224269587" ignored="false" />
     <file path="/填写加班记录.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1387271471907" ignored="false" />
+    <file path="/buy.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1388635299269" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,8 +129,21 @@
       <file leaf-file-name="md-plus-style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/md-plus-style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="350" column="140" selection-start="20806" selection-end="20806" vertical-scroll-proportion="0.80667835">
+            <state line="683" column="21" selection-start="44308" selection-end="44308" vertical-scroll-proportion="0.28822497">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="buy.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template/doc-req/buy.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="59" column="42" selection-start="3450" selection-end="3450" vertical-scroll-proportion="-7.90625">
+              <folding>
+                <element signature="tag#div#0;tag#div#0;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#div#1;tag#div#0;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -146,8 +160,15 @@
       <file leaf-file-name="填写加班记录.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/template/doc-req/填写加班记录.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="73" column="53" selection-start="3468" selection-end="3468" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="0" column="0" selection-start="0" selection-end="654" vertical-scroll-proportion="-0.0">
+              <folding>
+                <element signature="tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#div#0;tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#table#0;tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -155,7 +176,7 @@
       <file leaf-file-name="doc-req-index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/template/doc-req/doc-req-index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="91" column="96" selection-start="3877" selection-end="3877" vertical-scroll-proportion="-11.90625">
+            <state line="98" column="16" selection-start="4062" selection-end="4062" vertical-scroll-proportion="-80.15625">
               <folding />
             </state>
           </provider>
@@ -165,15 +186,6 @@
         <entry file="file://$PROJECT_DIR$/css/theme1-style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state line="4" column="107" selection-start="449" selection-end="459" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="theme4-style.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/theme4-style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="0" selection-start="1301" selection-end="1301" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -189,7 +201,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/css/theme3-ico.css" />
         <option value="$PROJECT_DIR$/css/theme4-ico.css" />
         <option value="$PROJECT_DIR$/css/theme5-ico.css" />
         <option value="$PROJECT_DIR$/template/doc-req/my-doc.html" />
@@ -197,13 +208,14 @@
         <option value="$PROJECT_DIR$/template/doc-req/process-set.html" />
         <option value="$PROJECT_DIR$/template/doc-req/new-doc-set.html" />
         <option value="$PROJECT_DIR$/css/theme1-style.css" />
-        <option value="$PROJECT_DIR$/template/doc-req/填写加班记录.html" />
         <option value="$PROJECT_DIR$/css/theme2-style.css" />
         <option value="$PROJECT_DIR$/css/theme3-style.css" />
         <option value="$PROJECT_DIR$/css/theme4-style.css" />
         <option value="$PROJECT_DIR$/css/theme5-style.css" />
         <option value="$PROJECT_DIR$/css/theme6-style.css" />
         <option value="$PROJECT_DIR$/template/doc-req/doc-req-index.html" />
+        <option value="$PROJECT_DIR$/template/doc-req/填写加班记录.html" />
+        <option value="$PROJECT_DIR$/template/doc-req/buy.html" />
         <option value="$PROJECT_DIR$/css/md-plus-style.css" />
       </list>
     </option>
@@ -228,7 +240,7 @@
     <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1" splitterProportion="0.5">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -239,7 +251,47 @@
       <autoscrollFromSource />
       <sortByType />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="md-plus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="md-plus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="md-plus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="doc-req" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="md-plus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="md-plus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
@@ -248,8 +300,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../HR" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -290,7 +342,7 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15979709" sideWeight="0.6707153" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15934475" sideWeight="0.6707153" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32928476" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -366,16 +418,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/template/doc-req/create-form.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="242" column="61" selection-start="19880" selection-end="19894" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/doc-req/process-set.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="108" column="76" selection-start="5313" selection-end="5313" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/template/doc-req/new-step1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="31" column="48" selection-start="1563" selection-end="1563" vertical-scroll-proportion="0.0" />
@@ -388,28 +430,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/template/doc-req/new-step2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="3306" vertical-scroll-proportion="-0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="3306" vertical-scroll-proportion="-0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/global.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="17" selection-start="441" selection-end="441" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="8" column="17" selection-start="441" selection-end="441" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/template/doc-req/process-set-pop.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="30" column="42" selection-start="1538" selection-end="1538" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/doc-req/填写加班记录.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="73" column="53" selection-start="3468" selection-end="3468" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -423,30 +454,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/theme2-style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="117" selection-start="459" selection-end="459" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="4" column="117" selection-start="459" selection-end="459" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/theme3-style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="117" selection-start="459" selection-end="459" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="4" column="117" selection-start="459" selection-end="459" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/theme6-style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="62" selection-start="1149" selection-end="1149" vertical-scroll-proportion="0.04745167">
-          <folding />
-        </state>
+        <state line="11" column="62" selection-start="1149" selection-end="1149" vertical-scroll-proportion="0.04745167" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/theme5-style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="117" selection-start="459" selection-end="459" vertical-scroll-proportion="0.04745167">
-          <folding />
-        </state>
+        <state line="4" column="117" selection-start="459" selection-end="459" vertical-scroll-proportion="0.04745167" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/theme4-style.css">
@@ -456,16 +479,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/template/doc-req/填写加班记录.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="654" vertical-scroll-proportion="-0.0">
+          <folding>
+            <element signature="tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#0;tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#table#0;tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/doc-req/doc-set.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="346" column="6" selection-start="545" selection-end="17589" vertical-scroll-proportion="-8.4375">
+          <folding>
+            <element signature="tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/template/doc-req/doc-req-index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="91" column="96" selection-start="3877" selection-end="3877" vertical-scroll-proportion="-11.90625">
+        <state line="98" column="16" selection-start="4062" selection-end="4062" vertical-scroll-proportion="-80.15625">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/doc-req/buy.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="42" selection-start="3450" selection-end="3450" vertical-scroll-proportion="-7.90625">
+          <folding>
+            <element signature="tag#div#0;tag#div#0;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#1;tag#div#0;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/md-plus-style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="350" column="140" selection-start="20806" selection-end="20806" vertical-scroll-proportion="0.80667835">
+        <state line="683" column="21" selection-start="44308" selection-end="44308" vertical-scroll-proportion="0.28822497">
           <folding />
         </state>
       </provider>
