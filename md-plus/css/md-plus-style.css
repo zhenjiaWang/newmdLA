@@ -511,7 +511,7 @@ a.btn-ok{background-color: #54a954;}
 a.btn-print{background-color: #2d2d2d;}
 a.btn-export{background-color: #3a87ad;}
 a.btn-return{background-color: #626262;}
-.mask{width:100%;height:100%;position: fixed;left:0;top:0;text-align: center;background:url(../images/mask-bg.png) repeat;z-index: 9999;}
+.mask{width:100%;height:100%;position: fixed;left:0;top:0;text-align: center;background:url(../images/mask-bg.png) repeat;z-index: 9999;display: none;}
 .mask-x{display:inline-block;position: absolute;top:50%;left:50%;margin:-10px 0 0 -60px;z-index: 100;color:#000;
     background-image: url(../images/loading-ico.gif);background-position:left center;background-repeat:no-repeat; background-color:#fff;padding-left:25px;padding:2px 25px;}
 .md-mail{display:inline-block;height:18px;font-size: 0;line-height: 0;width:14px;background: url(../images/md-p-ico.png);margin-top:-1px;}
@@ -678,6 +678,14 @@ li:hover .txt-ico-19,.txt-ico-19{background-position: 0 -252px;}
 .overtime table{margin-left:0px;}
 .overmake{position:absolute;right:-100px;top:95px;z-index:100;transition:0.2s;}
 .overtime:hover .overmake{right:20px;transition:0.2s;}
+
+
+
+
+
+
+
+
 
 
 
