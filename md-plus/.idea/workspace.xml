@@ -4,109 +4,6 @@
     <list default="true" id="3276063f-e7eb-4555-84dd-bdd894eef59c" name="Default" comment="" />
     <ignored path="md-plus.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/forms-maget.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1381243039287" ignored="false" />
-    <file path="$PROJECT_DIR$/../../zhaoy/dqy-html/css/dqy-style.css" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1385359693120" ignored="false" />
-    <file path="$PROJECT_DIR$/../../zhaoy/dqy-html/css/global.css" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1385359693120" ignored="false" />
-    <file path="$PROJECT_DIR$/../../zhaoy/dqy-html/template/application/流程设置.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1381395380573" ignored="false" />
-    <file path="$PROJECT_DIR$/../../zhaoy/dqy-html/template/application/预算管理-new4.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1381243029308" ignored="false" />
-    <file path="$PROJECT_DIR$/../../zhaoy/dqy-html/template/application/预算管理-new2.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1381243029308" ignored="false" />
-    <file path="$PROJECT_DIR$/../../zhaoy/dqy-html/template/application/预算管理-new.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1385359693120" ignored="false" />
-    <file path="$PROJECT_DIR$/../../zhaoy/dqy-html/template/application/费用预算.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1381243029308" ignored="false" />
-    <file path="$PROJECT_DIR$/../../zhaoy/dqy-html/template/application/费用预支.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1381243029308" ignored="false" />
-    <file path="$PROJECT_DIR$/../../zhaoy/dqy-html/css/bootstrap.css" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1381243029308" ignored="false" />
-    <file path="/doc-set.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1382197019050" ignored="false" />
-    <file path="/md-plus-style.css" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1388635424137" ignored="false" />
-    <file path="/theme1-style.css" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1387270045670" ignored="false" />
-    <file path="/doc-req-index.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1387262945830" ignored="false" />
-    <file path="/my-doc.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1382506970103" ignored="false" />
-    <file path="D:/kuanpan/标致/1012/css/style.css" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1382083424919" ignored="false" />
-    <file path="/style.css" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1386221797703" ignored="false" />
-    <file path="D:/kuanpan/标致/1012/js/imgauto.js" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1382082062469" ignored="false" />
-    <file path="D:/kuanpan/标致/1012/index.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1382090614781" ignored="false" />
-    <file path="/index.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1386224649630" ignored="false" />
-    <file path="D:/kuanpan/标致/1012/js/fk-ie8.js" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1382089655252" ignored="false" />
-    <file path="/fk-ie8.js" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1382089551690" ignored="false" />
-    <file path="/new-step1.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1384394916825" ignored="false" />
-    <file path="/new-step2.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1382940440382" ignored="false" />
-    <file path="/new-step3.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1382940153029" ignored="false" />
-    <file path="/new-doc-set.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1384765709518" ignored="false" />
-    <file path="/process-set.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1384764262994" ignored="false" />
-    <file path="/process-set-pop.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1384331507238" ignored="false" />
-    <file path="/theme5-style.css" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1382508629384" ignored="false" />
-    <file path="D:/work/jiahe/WebContent/css/style.css" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1382490992149" ignored="false" />
-    <file path="D:/work/jiahe/WebContent/script/zy.js" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1382490992149" ignored="false" />
-    <file path="D:/work/jiahe/WebContent/template/pop-items.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1382490992149" ignored="false" />
-    <file path="D:/work/jiahe/WebContent/template/auction-detail.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1382490992149" ignored="false" />
-    <file path="/theme2-style.css" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1384324982897" ignored="false" />
-    <file path="/theme3-style.css" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1383023887264" ignored="false" />
-    <file path="/theme4-style.css" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1383024127660" ignored="false" />
-    <file path="/theme6-style.css" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1382508662613" ignored="false" />
-    <file path="/职位审批.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1382495801370" ignored="false" />
-    <file path="E:/mywork/WebContent/template/index.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1382791635096" ignored="false" />
-    <file path="E:/mywork/WebContent/template/regist.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1382791635096" ignored="false" />
-    <file path="/create-form.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1384397688947" ignored="false" />
-    <file path="/price.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1384414690823" ignored="false" />
-    <file path="D:/kuanpan/标致/10月份/301/timeline.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1384493502750" ignored="false" />
-    <file path="/timeline.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1384493502750" ignored="false" />
-    <file path="D:/kuanpan/标致/10月份/301/css/style.css" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1384494061604" ignored="false" />
-    <file path="/theme1-ico.css" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1384486723220" ignored="false" />
-    <file path="/Dummy.txt" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1387345479533" ignored="false" />
-    <file path="D:/mdplus/HR/css/global.css" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1385545131897" ignored="false" />
-    <file path="D:/mdplus/HR/css/styles.css" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1385692608635" ignored="false" />
-    <file path="/styles.css" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1385692603646" ignored="false" />
-    <file path="D:/mdplus/HR/template/personnel-files.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1385621476516" ignored="false" />
-    <file path="/personnel-files.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1385621110357" ignored="false" />
-    <file path="D:/mdplus/HR/css/theme1.css" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1385693105227" ignored="false" />
-    <file path="/theme1.css" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1385693104844" ignored="false" />
-    <file path="/global.css" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1385537522886" ignored="false" />
-    <file path="$PROJECT_DIR$/../../zhaoy/dqy-html/template/application/预算管理-5.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1385360244483" ignored="false" />
-    <file path="D:/mdplus/HR/css/per-style.css" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1385631274732" ignored="false" />
-    <file path="D:/mdplus/HR/template/信息修改弹出.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1385608918379" ignored="false" />
-    <file path="/per-style.css" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1385631264760" ignored="false" />
-    <file path="D:/mdplus/HR/template/工作经历.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1385618786674" ignored="false" />
-    <file path="/工作经历.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1385618770140" ignored="false" />
-    <file path="/信息修改弹出.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1385544542296" ignored="false" />
-    <file path="D:/mdplus/HR/template/新增员工.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1385631345088" ignored="false" />
-    <file path="/新增员工.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1385618441294" ignored="false" />
-    <file path="D:/mdplus/HR/template/院校经历.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1385618920827" ignored="false" />
-    <file path="/院校经历.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1385618920827" ignored="false" />
-    <file path="D:/mdplus/HR/template/我的档案.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1385693076371" ignored="false" />
-    <file path="/我的档案.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1385693075813" ignored="false" />
-    <file path="D:/mdplus/HR/template/社会信息.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1385631216963" ignored="false" />
-    <file path="/社会信息.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1385631204133" ignored="false" />
-    <file path="D:/kuanpan/标致/12-1/301 12-1/css/style.css" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1386151482719" ignored="false" />
-    <file path="D:/work/Vjifen/20131129/newvppt/part1.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1386221768769" ignored="false" />
-    <file path="/part1.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1386152825791" ignored="false" />
-    <file path="D:/work/Vjifen/20131129/newvppt/css/style.css" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1386221850128" ignored="false" />
-    <file path="D:/work/Vjifen/20131129/newvppt/js/demo.js" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1386215038404" ignored="false" />
-    <file path="/demo.js" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1386210357230" ignored="false" />
-    <file path="D:/work/Vjifen/20131129/newvppt/js/slides.min.jquery.js" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1386215612074" ignored="false" />
-    <file path="/slides.min.jquery.js" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1386215612074" ignored="false" />
-    <file path="D:/kuanpan/标致/12-1/301 12-1/index.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1386150988135" ignored="false" />
-    <file path="D:/kuanpan/标致/12-1/301 12-1/智雅设计.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1386150998193" ignored="false" />
-    <file path="D:/kuanpan/标致/12-1/301 12-1/先锋配置.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1386151009053" ignored="false" />
-    <file path="D:/kuanpan/标致/12-1/301 12-1/全球品质.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1386151016308" ignored="false" />
-    <file path="D:/work/Vjifen/20131129/newvppt/index.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1386226068334" ignored="false" />
-    <file path="D:/work/Vjifen/20131129/newvppt/part2.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1386215965001" ignored="false" />
-    <file path="D:/work/Vjifen/20131129/newvppt/part3.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1386223755028" ignored="false" />
-    <file path="/part2.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1386152719413" ignored="false" />
-    <file path="/part3.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1386152738015" ignored="false" />
-    <file path="D:/work/Vjifen/20131129/newvppt/part4.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1386223762230" ignored="false" />
-    <file path="/part4.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1386214317061" ignored="false" />
-    <file path="D:/work/Vjifen/20131129/newvppt/part6.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1386223684730" ignored="false" />
-    <file path="/part6.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1386213593147" ignored="false" />
-    <file path="D:/work/Vjifen/20131129/newvppt/part5.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1386223695556" ignored="false" />
-    <file path="/part5.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1386214350806" ignored="false" />
-    <file path="D:/work/Vjifen/20131129/newvppt/V积分.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1386224000097" ignored="false" />
-    <file path="/V积分.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1386223997880" ignored="false" />
-    <file path="D:/work/Vjifen/20131129/newvppt/困惑.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1386224048409" ignored="false" />
-    <file path="D:/work/Vjifen/20131129/newvppt/改变.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1386224093789" ignored="false" />
-    <file path="/改变.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1386224092573" ignored="false" />
-    <file path="D:/work/Vjifen/20131129/newvppt/改变从合作开始.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1386224131514" ignored="false" />
-    <file path="D:/work/Vjifen/20131129/newvppt/给你更多.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1386224230277" ignored="false" />
-    <file path="D:/work/Vjifen/20131129/newvppt/重塑消费者关系.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1386224269587" ignored="false" />
-    <file path="/填写加班记录.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1387271471907" ignored="false" />
-    <file path="/buy.html" changelist="3276063f-e7eb-4555-84dd-bdd894eef59c" time="1388635299269" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +26,7 @@
       <file leaf-file-name="md-plus-style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/md-plus-style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="687" column="0" selection-start="44559" selection-end="44559" vertical-scroll-proportion="0.0">
+            <state line="687" column="0" selection-start="44559" selection-end="44559" vertical-scroll-proportion="0.0" vertical-offset="16488" max-vertical-offset="17256">
               <folding />
             </state>
           </provider>
@@ -138,7 +35,7 @@
       <file leaf-file-name="md-plus-style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/Desktop/md-plus-style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="696" column="43" selection-start="45816" selection-end="45816" vertical-scroll-proportion="0.0">
+            <state line="696" column="43" selection-start="45444" selection-end="45444" vertical-scroll-proportion="0.0" vertical-offset="16704" max-vertical-offset="17448">
               <folding />
             </state>
           </provider>
@@ -147,7 +44,7 @@
       <file leaf-file-name="buy.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/template/doc-req/buy.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="43" selection-start="384" selection-end="401" vertical-scroll-proportion="0.29454544">
+            <state line="6" column="43" selection-start="384" selection-end="401" vertical-scroll-proportion="0.0" vertical-offset="144" max-vertical-offset="1752">
               <folding />
             </state>
           </provider>
@@ -156,7 +53,7 @@
       <file leaf-file-name="process-set-pop.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/template/doc-req/process-set-pop.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="42" selection-start="1538" selection-end="1538" vertical-scroll-proportion="0.0">
+            <state line="30" column="42" selection-start="1538" selection-end="1538" vertical-scroll-proportion="0.0" vertical-offset="720" max-vertical-offset="2304">
               <folding />
             </state>
           </provider>
@@ -165,7 +62,7 @@
       <file leaf-file-name="填写加班记录.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/template/doc-req/填写加班记录.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="654" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="654" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3360">
               <folding />
             </state>
           </provider>
@@ -174,7 +71,7 @@
       <file leaf-file-name="doc-req-index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/template/doc-req/doc-req-index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="98" column="16" selection-start="4062" selection-end="4062" vertical-scroll-proportion="0.0">
+            <state line="98" column="16" selection-start="4062" selection-end="4062" vertical-scroll-proportion="0.0" vertical-offset="2352" max-vertical-offset="5616">
               <folding />
             </state>
           </provider>
@@ -183,7 +80,7 @@
       <file leaf-file-name="theme1-style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/theme1-style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="107" selection-start="449" selection-end="459" vertical-scroll-proportion="0.0">
+            <state line="4" column="107" selection-start="449" selection-end="459" vertical-scroll-proportion="0.0" vertical-offset="96" max-vertical-offset="1920">
               <folding />
             </state>
           </provider>
@@ -221,8 +118,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -275,13 +172,6 @@
       <option name="testName" />
       <method />
     </configuration>
-    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
-      <JSDebuggerConfigurationSettings>
-        <option name="engineId" value="embedded" />
-        <option name="fileUrl" />
-      </JSDebuggerConfigurationSettings>
-      <method />
-    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -294,10 +184,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15934475" sideWeight="0.6707153" order="0" side_tool="false" content_ui="combo" />
@@ -315,157 +206,163 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USERS">
+      <collection />
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <option name="CHECK_NEW_TODO" value="true" />
     <option name="myTodoPanelSettings">
-      <value>
-        <are-packages-shown value="false" />
-        <are-modules-shown value="false" />
-        <flatten-packages value="false" />
-        <is-autoscroll-to-source value="false" />
-      </value>
+      <TodoPanelSettings />
     </option>
-    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
-    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
-    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
-    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
-    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
-    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
-    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
-    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
-    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
-    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
-    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
-    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
-    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
-    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
-    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
-    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
-    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
-    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
-    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
-    <option name="LIMIT_HISTORY" value="true" />
-    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
-    <option name="UPDATE_FILTER_SCOPE_NAME" />
-    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
-    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
-    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
-    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
-    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" />
-    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
-    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
-    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
-    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
-    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
-    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
-    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
-    <option name="ACTIVE_VCS_NAME" />
-    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
-    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
-    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
-    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
-    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/template/doc-req/new-doc-set.html">
+    <entry file="file://$PROJECT_DIR$/css/md-plus-style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="90" selection-start="2722" selection-end="2722" vertical-scroll-proportion="-46.40625" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/doc-req/new-step2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="3306" vertical-scroll-proportion="-0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/global.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="17" selection-start="441" selection-end="441" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/doc-req/process-set-pop.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="42" selection-start="1538" selection-end="1538" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/theme1-style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="107" selection-start="449" selection-end="459" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/theme2-style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="117" selection-start="459" selection-end="459" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/theme3-style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="117" selection-start="459" selection-end="459" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/theme6-style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="62" selection-start="1149" selection-end="1149" vertical-scroll-proportion="0.04745167" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/theme5-style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="117" selection-start="459" selection-end="459" vertical-scroll-proportion="0.04745167" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/theme4-style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="1301" selection-end="1301" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/doc-req/填写加班记录.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="654" vertical-scroll-proportion="-0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/doc-req/doc-set.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="346" column="6" selection-start="545" selection-end="17589" vertical-scroll-proportion="-8.4375" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/doc-req/doc-req-index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="98" column="16" selection-start="4062" selection-end="4062" vertical-scroll-proportion="0.0">
+        <state line="687" column="0" selection-start="44559" selection-end="44559" vertical-scroll-proportion="0.0" vertical-offset="16488" max-vertical-offset="17256">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Desktop/md-plus-style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="696" column="43" selection-start="45816" selection-end="45816" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/md-plus-style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="687" column="0" selection-start="44559" selection-end="44559" vertical-scroll-proportion="0.0">
+        <state line="696" column="43" selection-start="45444" selection-end="45444" vertical-scroll-proportion="0.0" vertical-offset="16704" max-vertical-offset="17448">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/template/doc-req/buy.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="43" selection-start="384" selection-end="401" vertical-scroll-proportion="0.29454544">
+        <state line="6" column="43" selection-start="384" selection-end="401" vertical-scroll-proportion="0.0" vertical-offset="144" max-vertical-offset="1752">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/doc-req/process-set-pop.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="42" selection-start="1538" selection-end="1538" vertical-scroll-proportion="0.0" vertical-offset="720" max-vertical-offset="2304">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/doc-req/填写加班记录.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="654" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3360">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/doc-req/doc-req-index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="98" column="16" selection-start="4062" selection-end="4062" vertical-scroll-proportion="0.0" vertical-offset="2352" max-vertical-offset="5616">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/theme1-style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="107" selection-start="449" selection-end="449" vertical-scroll-proportion="0.0" vertical-offset="96" max-vertical-offset="1920">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/doc-req/new-doc-set.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="63" column="90" selection-start="2722" selection-end="2722" vertical-scroll-proportion="-46.40625" vertical-offset="0" max-vertical-offset="0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/doc-req/new-step2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="3306" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/global.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="17" selection-start="441" selection-end="441" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/doc-req/process-set-pop.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="42" selection-start="1538" selection-end="1538" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/theme1-style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="107" selection-start="449" selection-end="459" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/theme2-style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="117" selection-start="459" selection-end="459" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/theme3-style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="117" selection-start="459" selection-end="459" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/theme6-style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="62" selection-start="1149" selection-end="1149" vertical-scroll-proportion="0.04745167" vertical-offset="0" max-vertical-offset="0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/theme5-style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="117" selection-start="459" selection-end="459" vertical-scroll-proportion="0.04745167" vertical-offset="0" max-vertical-offset="0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/theme4-style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="1301" selection-end="1301" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/doc-req/填写加班记录.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="654" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/doc-req/doc-set.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="346" column="6" selection-start="545" selection-end="17589" vertical-scroll-proportion="-8.4375" vertical-offset="0" max-vertical-offset="0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/doc-req/doc-req-index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="98" column="16" selection-start="4062" selection-end="4062" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/md-plus-style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="696" column="43" selection-start="45444" selection-end="45444" vertical-scroll-proportion="0.0" vertical-offset="16704" max-vertical-offset="17448">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/md-plus-style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="687" column="0" selection-start="44559" selection-end="44559" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/doc-req/buy.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="43" selection-start="384" selection-end="401" vertical-scroll-proportion="0.0" vertical-offset="144" max-vertical-offset="1752">
           <folding />
         </state>
       </provider>
