@@ -682,11 +682,8 @@ li:hover .txt-ico-19,.txt-ico-19{background-position: 0 -252px;}
 .expansionProduct{margin:30px 20px;}
 .expansionProduct li{line-height:40px;}
 .expansionProduct li .phone-number{width:130px;line-height:40px;}
-<<<<<<< HEAD
 .unClick{color:#ddd}
-=======
 .unClick{color:#ddd;}
->>>>>>> md-plus-style.css
 .expansionProduct li .middle{
     *background: #fff;
     filter:alpha(opacity=100 finishopacity=50 style=1 startx=0,starty=0,finishx=0,finishy=150) progid:DXImageTransform.Microsoft.gradient(startcolorstr=#FEFEFE,endcolorstr=#F2F2F2,gradientType=0);
@@ -698,24 +695,10 @@ li:hover .txt-ico-19,.txt-ico-19{background-position: 0 -252px;}
 .expansionProduct li .middleTip{width:250px;padding-left:10px;line-height:20px;float:left;color:#999;}
 .expansionProduct li .middleTip .red{color:#008000;}
 .expansionProduct li .right{color:#008000;font-size:16px;float: right;font-weight: 700;}
-<<<<<<< HEAD
 .expansionProduct li .right span{margin:0;}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-=======
 .expansionProduct li .right span{margin:0;}
->>>>>>> md-plus-style.css
+.gray .big-add{background:url("../images/gray.png")!important;height:10px;margin-bottom:20px;}
+.gray a span{color:#585858!important;}
+.gray .md-doc-item,.gray .md-doc-item:hover{border-color:#e3e3e3!important;background-color:#f3f3f3;cursor:help;}
+.gray .md-doc-item em{cursor:help;}
+
