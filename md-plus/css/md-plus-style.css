@@ -696,10 +696,10 @@ li:hover .txt-ico-19,.txt-ico-19{background-position: 0 -252px;}
 .expansionProduct li .middleTip .red{color:#008000;}
 .expansionProduct li .right{color:#008000;font-size:16px;float: right;font-weight: 700;}
 .expansionProduct li .right span{margin:0;}
-
-
-
-
+.md-plus-pop .assess tbody tr td p.txt_hidden,.md-plus-pop .assess .process-div{width:330px;}
+.md-plus-pop .assess tbody tr td .txt_hidden{width:100px;}
+.md-plus-pop .assess .process-div:hover,.assessin .process-div:hover{background: #fff;}
+.assessin tbody tr td p.txt_hidden,.assessin .process-div{width:500px;}
 
 
 
