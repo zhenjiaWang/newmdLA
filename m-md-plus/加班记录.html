@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0，user-scalable=0">
+    <title>加班记录</title>
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="css/md-plus-style.css">
+    <link rel="stylesheet" type="text/css" href="css/m-plus-style.css">
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <script type="text/javascript" src="js/bootstrap.js"></script>
+</head>
+<body>
+<div class="container">
+    <!--导航条begin-->
+    <div class="navbar">
+      <div class="navbar-inner">
+          <a class="brand" href="index.html"><img src="img/plus-logo.png"/>流程审批</a>
+          <ul class="nav">
+              <li class="active"><a href="index.html">单据申请</a></li>
+              <li><a href="#">我的单据</a></li>
+              <li><a href="#">单据审批<span class="badge badge-important">6</span></a></li>
+              <li><a href="#">个人设置</a></li>
+              <li><a href="#">环境设置</a></li>
+              <li><a href="#"><i class="icon-off"></i> 退出</a></li>
+          </ul>
+          <!--小于480时显示的导航beign-->
+          <div class="btn-group">
+              <button class="btn">单据审批</button>
+              <button class="btn dropdown-toggle" data-toggle="dropdown">
+                  <span class="caret"></span>
+              </button>
+              <ul class="dropdown-menu">
+                <li><a href="index.html">单据申请</a></li>
+                <li><a href="">我的单据</a></li>
+                <li><a href="">单据审批<span class="badge badge-important">6</span></a></li>
+                <li><a href="">个人设置</a></li>
+                <li><a href="#">环境设置</a></li>
+                <li><a href="#"><i class="icon-off"></i> 退出</a></li>
+              </ul>
+          </div>
+          <!--小于480时显示的导航over-->
+      </div>
+    </div>
+    <!--导航条over-->
+    <div class="container-fluid">
+        <div class="content">
+            <p class="md-title clearfix"><span class="floatleft">填写加班记录</span>
+            <div class="well">
+                <p class="text-info text-left">申请人：刘德华</p>
+                <div class="row-fluid">
+                    <p>
+                        <span class="help-inline cloum-1">加班日期</span>
+                        <span class="cloum-2"><input type="text"></span>
+                        <i class="icon-calendar"></i>
+                    </p>
+                    <p>
+                        <span class="help-inline cloum-1">加班事由</span>
+                        <span class="cloum-2"><input type="text"></span>
+                    </p>
+                    <p>
+                        <span class="help-inline cloum-1">开始时间</span>
+                        <span class="cloum-3"><select><option>19</option></select></span>：
+                        <span class="cloum-3"><select><option>08</option></select></span>
+                    </p>
+                    <p>
+                        <span class="help-inline cloum-1">结束时间</span>
+                        <span class="cloum-3"><select><option>19</option></select></span>：
+                        <span class="cloum-3"><select><option>08</option></select></span>
+                    </p>
+                 </div>
+                 <p class="mart20 text-right">
+                  <button class="btn btn-primary" type="button">下一步</button>
+                  <button class="btn" type="button">添加一条</button>
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>
