@@ -664,9 +664,9 @@ li:hover .txt-ico-19,.txt-ico-19{background-position: 0 -252px;}
 .md-process-table .process-div:hover{background:#f4f4f4;}
 .assess .process-div{width:450px;}
 .pro-edit{position:absolute;right:10px;top:0;z-index:10;}
-.md-process-table .process-div .pro-edit{right:-85px;}
+.md-process-table .process-div .pro-edit{right:-95px;background:#f4f4f4;padding-left:10px;height:26px;line-height: 26px;}
 .md-process-table .process-div:hover .pro-edit{right:10px;transition:0.5s;top:0;}
-.md-process-table .process-div .pro-edit .md-mi-up,.md-process-table .process-div .pro-edit .md-mi-down{top:1px;}
+.md-process-table .process-div .pro-edit .md-mi-ico2{top:2px;margin-left:2px;}
 .process-table td{height:30px;}
 .process-table span{font-size:12px;}
 .process-table .color-p{margin-left:5px;display:inline-block;}
