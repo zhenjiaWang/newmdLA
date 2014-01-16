@@ -662,10 +662,11 @@ li:hover .txt-ico-19,.txt-ico-19{background-position: 0 -252px;}
 .md-process-table tbody tr td p.txt_hidden{width:430px;}
 .md-process-table .process-div{width:520px;margin-left: -10px;padding-left:10px;line-height:26px;height:26px;position:relative;overflow:hidden;}
 .md-process-table .process-div:hover{background:#f4f4f4;}
-.assess .process-div{width:400px;}
+.assess .process-div{width:450px;}
 .pro-edit{position:absolute;right:10px;top:0;z-index:10;}
-.md-process-table .process-div .pro-edit{right:-52px;}
+.md-process-table .process-div .pro-edit{right:-85px;}
 .md-process-table .process-div:hover .pro-edit{right:10px;transition:0.5s;top:0;}
+.md-process-table .process-div .pro-edit .md-mi-up,.md-process-table .process-div .pro-edit .md-mi-down{top:1px;}
 .process-table td{height:30px;}
 .process-table span{font-size:12px;}
 .process-table .color-p{margin-left:5px;display:inline-block;}
@@ -700,7 +701,7 @@ li:hover .txt-ico-19,.txt-ico-19{background-position: 0 -252px;}
 .md-plus-pop .assess tbody tr td .txt_hidden{width:100px;}
 .md-plus-pop .assess .process-div:hover,.assessin .process-div:hover{background: #fff;}
 .assessin tbody tr td p.txt_hidden,.assessin .process-div{width:500px;}
-
+.md-plus-pop .assess .control-label{width:59px;}
 
 
 
