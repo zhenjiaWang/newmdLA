@@ -131,9 +131,10 @@ img{width:30px;height:30px;}
 @media (max-width:360px){
     .dshb_icoNav li{width:50%;}
 }
-
-
-
+.assess-tab td{padding:5px;text-align:center;}
+.assess-tab p{margin-bottom:2px;}
+.assess-tab td.text-left{text-align:left;}
+.assess-tab td label input{width:auto;}
 
 
 

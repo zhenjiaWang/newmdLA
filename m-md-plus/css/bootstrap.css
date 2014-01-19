@@ -950,14 +950,14 @@ table {
 }
 .table {
   width: 100%;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 .table th,
 .table td {
   padding: 8px;
   line-height: 20px;
-  text-align: left;
-  vertical-align: top;
+  /*text-align: left;*/
+  /*vertical-align: top;*/
   border-top: 1px solid #dddddd;
 }
 .table th {
@@ -1206,7 +1206,7 @@ input,
 button,
 select,
 textarea {
-  font-size: 14px;
+  font-size: 12px;
   font-weight: normal;
   line-height: 20px;
 }

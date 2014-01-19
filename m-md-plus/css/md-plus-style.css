@@ -227,7 +227,7 @@ table.md-set-table tr span.font14{color:#333;font-weight:bold;}
 .no-txt .md-delect{right:10px;}
 .md-ap-pro ul li.current{border-style: dashed;border-width:1px;}
 .md-ap-pro ul li.no-ok span{color:#b6b6b6;}
-.md-title{border-bottom:1px solid #b5b5b5;background: #efefef;line-height:50px;padding-left:20px; position: relative;}
+.md-title{border-bottom:1px solid #b5b5b5;background: #efefef;line-height:30px;padding-left:20px; position: relative;}
 .md-title .pro-edit{position: absolute;right:10px;top:1px;}
 .md-title .pro-edit button{margin:0 10px;}
 .md-pop-main{margin:0 10px;padding-bottom:10px;}
