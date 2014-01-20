@@ -1,0 +1,432 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>指标考核设置</title>
+    <link rel="stylesheet" href="../../css/global.css" type="text/css">
+    <link rel="stylesheet" href="../../css/md-plus-style.css" type="text/css">
+    <link rel="stylesheet" href="../../css/theme1-ico.css" type="text/css">
+    <link rel="stylesheet" href="../../css/theme1-style.css" type="text/css">
+    <script>
+        function aa(){
+            var a=document.getElementById("t_r_content").scrollTop;
+            var b=document.getElementById("t_r_content").scrollLeft;
+            document.getElementById("cl_freeze").scrollTop=a;
+            document.getElementById("t_r_t").scrollLeft=b;
+        }
+    </script>
+</head>
+<body>
+<div class="md-plus">
+    <!--知识门户begin-->
+    <div class="md-plus-top clearfix">
+        <div class="floatleft md-plus-l"><span class="md-ico floatleft md-ico-logo"></span>快捷审批</div>
+    </div>
+    <!--知识门户over-->
+    <div class="md-plus-inner">
+        <!--the inner nav begin-->
+        <div class="md-p-nav clearfix">
+            <ul class="floatleft clearfix">
+                <li class="current"><a href="#">我申请的项目</a></li>
+                <li><a href="#">我审批的项目<em class="md-plus-news"></em></a></li>
+                <li><a href="#">我经办的项目</a></li>
+                <li class="app-set"><a href="#"><em class="md-mi-ico2 md-mi-set"></em>应用管理</a></li>
+            </ul>
+            <a href="#" class="md-plus-btn floatright color-white marr30">提交新申请<em class="md-plus-btn-r"></em></a>
+        </div>
+        <!--the inner nav over-->
+        <!--二级导航 begin-->
+        <div class="md-p-nav2 clearfix">
+            <ul class="clearfix floatleft font16">
+                <li><a href="#">表单设置</a></li>
+                <li class="current"><a href="#">流程设置</a></li>
+                <li><a href="#">申请日志</a></li>
+            </ul>
+        </div>
+        <!--二级导航 over-->
+        <!--搜索begin-->
+        <div class="md-p-nav2 noborder clearfix">
+            <div class="txt-prompt floatleft">您可以为现有的表单，预置审批流程。开启后只能使用管理员定义的审批流程。<a class="md-delect" href="#" title="不再提示"></a></div>
+            <div class="clearfix floatright">
+                <div class="md-plus-ser floatright marl30 marr15">
+                    <input type="text">
+                    <button class="btn-ser-md"></button>
+                    <ul style="display:none">
+                        <li class="current"><a href="#"><em class="txt_hidden">王振佳是明道的什么人呢</em>按标题</a></li>
+                        <li><a href="#"><em>王振佳</em>按申请人</a></li>
+                    </ul>
+                    <ul style="display:none">
+                        <li class="clearfix">
+                            <div class="md-clander floatleft">
+                                <input type="text" class="md-int-mid">
+                                <a href="#" class="md-cl-ico md-ser-ico"></a>
+                            </div>
+                            <a href="#" class="floatleft block font20 mart5">×</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!--搜索over-->
+        <div class="md-plus-main mart10">
+            <h2 class="md-doc-title clearfix aligncenter">
+                <a class="floatleft font14" href="#">&lt; 返回</a>
+                <span class="font16">预算设置</span>
+                <em class="md-doc-num font12">单据编号：<a href="#">01-103974738</a></em>
+            </h2>
+            <div class="md-doc-list p-bt20 mart20">
+                <table class="md-set-table md-set-table-mini">
+                    <tr>
+                        <th>申请人</th>
+                        <td><input type="text" class="md-int-lang"></td>
+                        <th>申请部门</th>
+                        <td><input type="text" class="md-int-lang"></td>
+                        <th>申请日期</th>
+                        <td>2014-01-20</td>
+                    </tr>
+                    <tr>
+                        <th>预算起止日</th>
+                        <td colspan="3">
+                            <div class="md-clander inlineblock">
+                                <input type="text" class="md-int-lang">
+                                <a href="#" class="md-cl-ico"></a>
+                            </div>
+                            至
+                            <div class="md-clander inlineblock">
+                                <input type="text" class="md-int-lang">
+                                <a href="#" class="md-cl-ico"></a>
+                            </div>
+                        </td>
+                        <th>预算金额</th>
+                        <td><input type="text" class="md-int-lang"></td>
+                    </tr>
+                </table>
+            </div>
+            <div class="tableout clearfix p-bt20" style="width:100%">
+                <div class="t_left">
+                    <div style="width:100%;">
+                        <table>
+                            <tr>
+                                <th style="width:155px">费用类别</th>
+                                <th style="width:50%">费用名称</th>
+                            </tr>
+                        </table>
+                    </div>
+                    <div class="cl_freeze" id="cl_freeze">
+                        <table>
+                            <tr>
+                                <td style="width:155px" class="bordertop">
+                                    <select style="vertical-align: middle;" class="ma-select-f">
+                                        <option>销售的转正指标</option>
+                                        <option>考勤审批流程</option>
+                                    </select>
+                                </td>
+                                <td style="width:155px" class="bordertop">
+                                    <select style="vertical-align: middle;" class="ma-select-f">
+                                        <option>销售的转正指标</option>
+                                        <option>考勤审批流程</option>
+                                    </select>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="width:155px" class="bordertop">
+                                    <select style="vertical-align: middle;" class="ma-select-f">
+                                        <option>销售的转正指标</option>
+                                        <option>考勤审批流程</option>
+                                    </select>
+                                </td>
+                                <td style="width:155px" class="bordertop">
+                                    <select style="vertical-align: middle;" class="ma-select-f">
+                                        <option>销售的转正指标</option>
+                                        <option>考勤审批流程</option>
+                                    </select>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="width:155px" class="bordertop">
+                                    <select style="vertical-align: middle;" class="ma-select-f">
+                                        <option>销售的转正指标</option>
+                                        <option>考勤审批流程</option>
+                                    </select>
+                                </td>
+                                <td style="width:155px" class="bordertop">
+                                    <select style="vertical-align: middle;" class="ma-select-f">
+                                        <option>销售的转正指标</option>
+                                        <option>考勤审批流程</option>
+                                    </select>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="width:155px" class="bordertop">
+                                    <select style="vertical-align: middle;" class="ma-select-f">
+                                        <option>销售的转正指标</option>
+                                        <option>考勤审批流程</option>
+                                    </select>
+                                </td>
+                                <td style="width:155px" class="bordertop">
+                                    <select style="vertical-align: middle;" class="ma-select-f">
+                                        <option>销售的转正指标</option>
+                                        <option>考勤审批流程</option>
+                                    </select>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="width:155px" class="bordertop">
+                                    <select style="vertical-align: middle;" class="ma-select-f">
+                                        <option>销售的转正指标</option>
+                                        <option>考勤审批流程</option>
+                                    </select>
+                                </td>
+                                <td style="width:155px" class="bordertop">
+                                    <select style="vertical-align: middle;" class="ma-select-f">
+                                        <option>销售的转正指标</option>
+                                        <option>考勤审批流程</option>
+                                    </select>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="width:155px" class="bordertop">
+                                    <select style="vertical-align: middle;" class="ma-select-f">
+                                        <option>销售的转正指标</option>
+                                        <option>考勤审批流程</option>
+                                    </select>
+                                </td>
+                                <td style="width:155px" class="bordertop">
+                                    <select style="vertical-align: middle;" class="ma-select-f">
+                                        <option>销售的转正指标</option>
+                                        <option>考勤审批流程</option>
+                                    </select>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="width:155px" class="bordertop">
+                                    <select style="vertical-align: middle;" class="ma-select-f">
+                                        <option>销售的转正指标</option>
+                                        <option>考勤审批流程</option>
+                                    </select>
+                                </td>
+                                <td style="width:155px" class="bordertop">
+                                    <select style="vertical-align: middle;" class="ma-select-f">
+                                        <option>销售的转正指标</option>
+                                        <option>考勤审批流程</option>
+                                    </select>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="width:155px" class="bordertop">
+                                    <select style="vertical-align: middle;" class="ma-select-f">
+                                        <option>销售的转正指标</option>
+                                        <option>考勤审批流程</option>
+                                    </select>
+                                </td>
+                                <td style="width:155px" class="bordertop">
+                                    <select style="vertical-align: middle;" class="ma-select-f">
+                                        <option>销售的转正指标</option>
+                                        <option>考勤审批流程</option>
+                                    </select>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="width:155px" class="bordertop">
+                                    <select style="vertical-align: middle;" class="ma-select-f">
+                                        <option>销售的转正指标</option>
+                                        <option>考勤审批流程</option>
+                                    </select>
+                                </td>
+                                <td style="width:155px" class="bordertop">
+                                    <select style="vertical-align: middle;" class="ma-select-f">
+                                        <option>销售的转正指标</option>
+                                        <option>考勤审批流程</option>
+                                    </select>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="width:155px" class="bordertop">
+                                    <select style="vertical-align: middle;" class="ma-select-f">
+                                        <option>销售的转正指标</option>
+                                        <option>考勤审批流程</option>
+                                    </select>
+                                </td>
+                                <td style="width:155px" class="bordertop">
+                                    <select style="vertical-align: middle;" class="ma-select-f">
+                                        <option>销售的转正指标</option>
+                                        <option>考勤审批流程</option>
+                                    </select>
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+                <div class="t_r">
+                    <div class="t_r_t" id="t_r_t">
+                        <div class="t_r_title">
+                            <table>
+                                <tr>
+                                    <th style="width: 141px">1月</th>
+                                    <th style="width: 141px">2月</th>
+                                    <th style="width: 141px">3月</th>
+                                    <th style="width: 141px">4月</th>
+                                    <th style="width: 141px">5月</th>
+                                    <th style="width: 141px">6月</th>
+                                    <th style="width: 141px">7月</th>
+                                    <th style="width: 141px">8月</th>
+                                    <th style="width: 141px">9月</th>
+                                    <th style="width: 141px">10月</th>
+                                    <th style="width: 141px">11月</th>
+                                    <th style="width: 141px">12月</th>
+                                </tr>
+                            </table>
+                        </div>
+                    </div>
+                    <div class="t_r_content" id="t_r_content" onscroll="aa()">
+                        <table>
+                            <tr>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                            </tr>
+                            <tr>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                            </tr>
+                            <tr>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                            </tr>
+                            <tr>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                            </tr>
+                            <tr>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                            </tr>
+                            <tr>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                            </tr>
+                            <tr>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                            </tr>
+                            <tr>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                            </tr>
+                            <tr>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                            </tr>
+                            <tr>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                                <td class="bordertop"><input type="text" class="md-int-short width-80"></td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>

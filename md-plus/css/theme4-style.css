@@ -3,7 +3,8 @@
 .md-plus,.md-creation-in td,.md-creation-in th{border:1px solid #f4ceda;}
 .md-plus-top{border-bottom:1px solid #f4ceda;background:#fdeef3;color:#cc3366;}
 .md-p-nav{width:100%;}
-.md-approver-r,.md-plus-l-nav,.md-plus-l-nav,.md-plus-page a,.md-plus-page span,.make-logs td,.make-logs th,.overtime{border-color:#f4ceda;}
+.md-approver-r,.md-plus-l-nav,.md-plus-l-nav,.md-plus-page a,.md-plus-page span,.make-logs td,.make-logs th,.overtime,
+.tableout table td,.tableout table th,.tableout .t_left,.tableout .t_r{border-color:#f4ceda;}
 .md-value-set .md-controls-pop-in .h2,.process-table .md-make-pro dd a:hover{background:#cc3366;}
 .md-plus-main-inner{border:1px solid #f4ceda;}
 .md-doc-title span,.md-p-nav ul li a:hover,.md-p-nav ul li.app-set a,.md-doc-item a,.color-p,.btn-ico:hover{color:#cc3366!important;}

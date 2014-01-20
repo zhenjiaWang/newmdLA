@@ -702,8 +702,24 @@ li:hover .txt-ico-19,.txt-ico-19{background-position: 0 -252px;}
 .md-plus-pop .assess .process-div:hover,.assessin .process-div:hover{background: #fff;}
 .assessin tbody tr td p.txt_hidden,.assessin .process-div{width:500px;}
 .md-plus-pop .assess .control-label{width:59px;}
-
-
+/*2014-1-20*/
+.tableout table{border-collapse:collapse;border-spacing:0;width:100%;border:#000 solid 0px;}
+.tableout table select{height:27px;}
+.tableout table th,.tableout table td{padding:5px 0;}
+.tableout table td { border:1px solid #000;height:25px;text-align:center;border-left:0;}
+.tableout table th {background:#F7F7F7;color:#a10333;border:#000 solid 1px;white-space:nowrap; height:30px;line-height:30px;border-top:0;border-left:0;text-align:center;}
+.tableout .t_left {width:340px;height:auto;float:left; border-top:1px solid #000;border-left:1px solid #000;}
+/*t_r_content和cl_freeze高度相差20px， 高度为外观显示高度，可根据情况调整*/
+.tableout .t_r_content {width:100%;height:320px; background:#fff; overflow:auto;}
+.tableout .cl_freeze {height:300px; overflow:hidden; width:100%;}
+/* width 调整左边标题列宽度（左侧外观显示宽度）; 指定为width:auto 在Opera下显示有问题; height比 t_r_content 高度小20px*/
+/* width 宽度为 右侧外观显示宽度 实际显示宽度大小为“t_r”宽度加上“cl_freeze”宽度 */
+/* 如果显示不正常，调整 t_r的width 使其和t_left的width之和小于100%；等于100%时会有问题*/
+.tableout .t_r { width:385px;height:auto;float:left; border-top:1px solid #000;border-right:#000 solid 1px;}
+.tableout .t_r table {width:1700px;}
+.tableout .t_r_title {width:1720px; }/*宽度比 t_r table 大20px （至少大20，小了滚动条滑到右侧显示有问题）*/
+.tableout .t_r_t { width:100%;overflow:hidden;}
+.tableout .bordertop {border-top:0;}
 
 
 
