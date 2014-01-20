@@ -192,6 +192,9 @@ a.btn-ico:hover{text-decoration: none!important;}
 .md-plus-pop .md-plus-pop-inner{background-color: #fff;zoom:1;position: relative;z-index: 888;min-height:200px;}
 .md-doc-item  .md-plus-pop{top:-50px;right:-320px;}
 .md-plus-pop-inner{position: relative;}
+.md-plus-pop-inner th{color:#3a282e!important;}
+.md-plus-pop-inner td{color:#666;}
+.md-plus-pop-inner td .txt{line-height:18px;}
 .md-plus-pop .md-plus-pop-inner p{padding:0;}
 .md-plus-pop .md-plus-pop-inner p.md-title{padding-left:20px;}
 .md-plus-pop .md-plus-pop-inner p.md-title .pro-edit{top:20px;right:5px;}
@@ -288,6 +291,7 @@ textarea{width: auto;}
 .int-div input{width:47%;line-height:24px;height:24px;margin-left: 0;}
 .int-div input,.int-div input:hover{border:0!important;background:none;}
 .int-name{border-radius:0;height:30px;line-height:30px;width:283px;}
+.md-plus-pop .int-name{height:25px;line-height:25px;}
 /*流程设置*/
 .md-ap-pro ul li{float:left;}
 .md-ap-pro ul li a{line-height:25px;}
@@ -676,9 +680,9 @@ li:hover .txt-ico-19,.txt-ico-19{background-position: 0 -252px;}
 .process-table .md-make-pro dd a{color:#2c2c2c;display:block;padding-left:5px;}
 .process-table .md-make-pro dd{line-height:22px;display:block;margin-bottom:3px;}
 .process-table .md-make-pro dd a:hover{color:#fff;text-decoration:none;}
-.overtime{border-bottom:1px dotted;width:550px;padding:10px 0;position:relative;overflow:hidden;}
+.overtime{border-bottom:1px dotted;width:550px;padding:5px 0 20px 0;position:relative;overflow:hidden;}
 .overtime table{margin-left:0px;}
-.overmake{position:absolute;right:-100px;top:95px;z-index:100;transition:0.2s;}
+.overmake{position:absolute;right:-100px;bottom:2px;z-index:100;transition:0.2s;}
 .overtime:hover .overmake{right:20px;transition:0.2s;}
 /*2014-1-2*/
 .expansionProduct{margin:30px 20px;}
