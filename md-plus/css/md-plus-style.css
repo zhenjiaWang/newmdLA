@@ -724,12 +724,14 @@ li:hover .txt-ico-19,.txt-ico-19{background-position: 0 -252px;}
 .tableout .t_r_title {width:1720px; }/*宽度比 t_r table 大20px （至少大20，小了滚动条滑到右侧显示有问题）*/
 .tableout .t_r_t { width:100%;overflow:hidden;}
 .tableout .bordertop {border-top:0;}
-
-
-
-
-
-
+/*2014-1-22*/
+.error-box{width:450px;margin:0 auto;color:#808080;}
+.error-box .floatleft{width:137px;margin:20px 30px 0 0;}
+.error-box dl{padding: 10px;}
+.error-box dl dd{line-height:18px;margin-bottom:5px;font-size:14px;}
+.error-box dl dd.font25{padding:10px 0;}
+.error-box img{}
+.error-box .error-t{font-size:50px;padding:20px 0;}
 
 
 
