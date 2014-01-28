@@ -735,6 +735,24 @@ li:hover .txt-ico-19,.txt-ico-19{background-position: 0 -252px;}
 .error-box dl dd.font25{padding:10px 0;}
 .error-box img{}
 .error-box .error-t{font-size:50px;padding:20px 0;}
+/*2014-01-28 附件*/
+.updaterDialog{position:relative;}
+.updaterDialog_Main{border:1px solid #F0F0F0;background: #fff;border-radius:5px;padding:5px 10px;width:80%;position:relative;z-index: 20;min-height:70px;}
+.updaterDialog_Main em.ti{display: block;width:18px;height:12px;font-size:0;line-height:0;position:absolute;top:-9px;left:30px;}
+.md-psot-ico{width:75px;height:55px;padding-top:10px;color:#AAAAAA;}
+.md-psot-ico img{margin-bottom:10px;}
+.updaterDialog_Main dl dd p.docname{color:#000;padding-bottom: 5px;}
+.updaterDialog_Main dl dd p.docname .txt_hidden{max-width: 200px;position:relative;bottom:-2px;left:-2px;}
+.updaterDialog_Main dl dd p a{margin-left:5px;}
+.updaterDialog_Main dl dd{color: #333;margin-top:5px;position:relative;}
+.updaterDialog_Main dl dd .editbox{position: absolute;right:5px;top:0;}
+.TextBox{background-color: #FFFFFF;border: 1px solid #D5D5D5;font-size: 12px;height: 20px;line-height: 18px; padding-left: 5px;margin:0;}
+
+
+
+
+
+
 
 
 
