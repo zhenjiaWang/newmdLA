@@ -10,7 +10,7 @@
     <script  type="text/javascript" src="../../js/jquery.js"></script>
 </head>
 <body>
-<div class="md-plus-pop" style="width:574px;top:100px;left:50%;margin-left:-287px;">
+<div class="md-plus-pop" style="width:574px;top:-200px;left:50%;margin-left:-287px;">
     <div class="md-plus-pop-inner">
         <a href="#" class="md-delect"></a>
         <p class="font18 md-title clearfix">
@@ -59,11 +59,55 @@
               </tr>
               <tr>
                  <th valign="top">备注</th>
-                 <td colspan="3"><textarea rows="5" cols="57"></textarea></td>
+                 <td colspan="3">
+                     <div class="td-inner clearfix">
+                         <div class="has-general has-error">
+                             <textarea rows="5" cols="57"></textarea>
+                             <span class="textlength">还可输入<em>20</em>个字</span>
+                         </div>
+                     </div>
+                 </td>
               </tr>
               <tr>
                  <th>上传附件</th>
-                 <td colspan="3"><a href="#" class="upload">上传文件</a></td>
+                 <td colspan="3">
+                     <a href="#" class="upload">上传文件</a>
+                 </td>
+              </tr>
+              <tr id="Up" style="display:none ;">
+                  <th></th>
+                  <td colspan="3">
+                    <!--附件begin-->
+                    <div class="updaterDialog_Main aligncenter clearfix">
+                        <em class="ti"><img src="../../images/Tag_UpdaterWhite.png"/></em>
+                        <a href="#" class="floatleft md-psot-ico" style="display: none;"><img src="../../images/Post_doc27.png"/><br><em>上传文档</em></a>
+                        <!--已上传begin-->
+                        <dl class="alignleft">
+                            <dd class="clearfix">
+                                <span class="editbox">
+                                    <a title="编辑" class="md-mi-ico2 md-mi-edit" href="#"></a>
+                                </span>
+                                <span class="floatleft marr10"><img src="../../images/Ico_DocUploadSuc.png"/></span>
+                                <p class="docname"><span class="txt_hidden">新建文本文档</span>.txt (0.15KB)</p>
+                                <p>上传成功 <a href="#">换一个</a></p>
+                            </dd>
+                            <dd class="clearfix">
+                                <span class="editbox">
+                                    <a href="#">确定</a>
+                                    <a href="#">取消</a>
+                                </span>
+                                <span class="floatleft marr10"><img src="../../images/Ico_DocUploadSuc.png"/></span>
+                                <p class="docname">
+                                    <input class="TextBox" id="Rename_FileName" style="width:200px" value="新建文本文档">
+                                    .txt (0.15KB)
+                                </p>
+                                <p>上传成功 <a href="#">换一个</a></p>
+                            </dd>
+                        </dl>
+                        <!--已上传over-->
+                    </div>
+                    <!--附件over-->
+                  </td>
               </tr>
               <tr>
                  <th>紧急</th>
@@ -77,5 +121,12 @@
         </div>
     </div>
 </div>
+<script type="text/javascript">
+    $(function(){
+        $(".upload").click(function(){
+            $("#Up").slideToggle();
+        });
+    });
+</script>
 </body>
 </html>

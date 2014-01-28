@@ -277,6 +277,8 @@ textarea{width: auto;}
 .has-success label.control-label{color:#468847;}
 .has-warning label.control-label{color:#c09853;}
 .has-error label.control-label{color:#b94a48;}
+.textlength{position:absolute;left:15px;bottom:2px;z-index: 10;}
+.textlength em{font-family: Constantia, Georgia;font-size:24px;font-style: italic;}
 
 .md-int-short{width:160px;}
 .md-int-mid{width:200px;}
@@ -482,7 +484,8 @@ table.md-forms .ma-select-f{margin:0;}
 .md-results:hover,.md-results.current,.md-plus-ser ul li:hover,.md-plus-ser ul li.current{background:#F5F5F5;}
 .md-results span{display: block;float: left;color: #333;line-height:36px;height:36px;margin-right:3px;}
 .md-results span img{width:26px;height:26px;margin:5px 5px 0 0;border-radius:3px;}
-.md-results .txt_hidden{max-width:70px;}
+.md-results .txt_hidden{max-width:150px;}
+.md-name.txt_hidden{max-width:50px;}
 .md-results.manager{background:#06fae6;}
 .md-results.nouse span{color:#ccc!important;cursor:auto;}
 .md-results.nouse:hover{border-color:#ccc;}
@@ -527,9 +530,9 @@ a.btn-return{background-color: #626262;}
 .md-creation-in .md-doc-set-box{margin:0 10px;position: relative;}
 .md-creation-in .md-doc-set-box table.md-set-table tr th{padding:0 0 0 10px;width: 90px;}
 .md-creation-in .md-doc-set-box table.md-set-table tr td{width:242px;position:relative;padding-left: 10px;}
-span.md-make-btns{background: #fff;padding:0 5px;border-style: solid;border-width:0 0 1px 1px;}
-span.md-make-btns a{margin:2px;float: none;display:inline-block;top:5px;right:0;}
-.md-creation-in .md-doc-set-box table.md-set-table tr td span.md-make-btns{position:absolute;right:0;top:-32px;}
+span.md-make-btns{background: #fff;padding:0 5px;border-style: solid;border-width:0 0 1px 1px;height:32px;}
+span.md-make-btns a{margin:2px 4px;float: none;display:inline-block;top:5px;right:0;}
+.md-creation-in .md-doc-set-box table.md-set-table tr td span.md-make-btns{position:absolute;right:0;top:-34px;}
 .md-creation-in .md-doc-set-box table.md-set-table tr td:hover span.md-make-btns{top:0;transition:0.3s;}
 
 .td-inner{min-height:30px;width: auto;position: relative;padding:5px 0;overflow: hidden;line-height:30px;}
@@ -660,10 +663,10 @@ li:hover .txt-ico-19,.txt-ico-19{background-position: 0 -252px;}
 .md-process-table tbody th{color:#666;}
 .md-process-table tbody tr td{font-size:12px;color:#666;height:40px;padding-left:10px;}
 .md-process-table,.md-process-table tbody th,.md-process-table tbody tr td{border-style:solid;border-width:1px;}
-.md-process-table tbody tr td p{color:#333;}
+.md-process-table tbody tr td p{color:#333;padding:5px 0;}
 .md-process-table tbody tr td span{margin-left:3px;}
 .md-process-table tbody tr td .txt_hidden{width:140px;}
-.md-process-table tbody tr td p.txt_hidden{width:430px;}
+.md-process-table tbody tr td p.txt_hidden{width:430px;padding: 0;}
 .md-process-table .process-div{width:520px;margin-left: -10px;padding-left:10px;line-height:26px;height:26px;position:relative;overflow:hidden;}
 .md-process-table .process-div:hover{background:#f4f4f4;}
 .assess .process-div{width:450px;}
@@ -732,6 +735,24 @@ li:hover .txt-ico-19,.txt-ico-19{background-position: 0 -252px;}
 .error-box dl dd.font25{padding:10px 0;}
 .error-box img{}
 .error-box .error-t{font-size:50px;padding:20px 0;}
+/*2014-01-28 附件*/
+.updaterDialog{position:relative;}
+.updaterDialog_Main{border:1px solid #F0F0F0;background: #fff;border-radius:5px;padding:5px 10px;width:80%;position:relative;z-index: 20;min-height:70px;}
+.updaterDialog_Main em.ti{display: block;width:18px;height:12px;font-size:0;line-height:0;position:absolute;top:-9px;left:30px;}
+.md-psot-ico{width:75px;height:55px;padding-top:10px;color:#AAAAAA;}
+.md-psot-ico img{margin-bottom:10px;}
+.updaterDialog_Main dl dd p.docname{color:#000;padding-bottom: 5px;}
+.updaterDialog_Main dl dd p.docname .txt_hidden{max-width: 200px;position:relative;bottom:-2px;left:-2px;}
+.updaterDialog_Main dl dd p a{margin-left:5px;}
+.updaterDialog_Main dl dd{color: #333;margin-top:5px;position:relative;}
+.updaterDialog_Main dl dd .editbox{position: absolute;right:5px;top:0;}
+.TextBox{background-color: #FFFFFF;border: 1px solid #D5D5D5;font-size: 12px;height: 20px;line-height: 18px; padding-left: 5px;margin:0;}
+
+
+
+
+
+
 
 
 
