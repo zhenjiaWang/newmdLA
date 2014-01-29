@@ -194,7 +194,7 @@ a.btn-ico:hover{text-decoration: none!important;}
 .md-plus-pop-inner{position: relative;}
 .md-plus-pop-inner th{color:#3a282e!important;}
 .md-plus-pop-inner td{color:#666;}
-.md-plus-pop-inner td .txt{line-height:18px;}
+.md-plus-pop-inner td .txt{line-height:18px;padding-right:50px;}
 .md-plus-pop .md-plus-pop-inner p{padding:0;}
 .md-plus-pop .md-plus-pop-inner p.md-title{padding-left:20px;}
 .md-plus-pop .md-plus-pop-inner p.md-title .pro-edit{top:20px;right:5px;}
@@ -685,8 +685,7 @@ li:hover .txt-ico-19,.txt-ico-19{background-position: 0 -252px;}
 .process-table .md-make-pro dd a:hover{color:#fff;text-decoration:none;}
 .overtime{border-bottom:1px dotted;width:550px;padding:5px 0 20px 0;position:relative;overflow:hidden;}
 .overtime table{margin-left:0px;}
-.overmake{position:absolute;right:-100px;bottom:2px;z-index:100;transition:0.2s;}
-.overtime:hover .overmake{right:20px;transition:0.2s;}
+.overmake{position:relative;right:45px;bottom:2px;z-index:100;transition:0.2s;}
 /*2014-1-2*/
 .expansionProduct{margin:30px 20px;}
 .expansionProduct li{line-height:40px;}
