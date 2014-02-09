@@ -750,8 +750,8 @@ li:hover .txt-ico-19,.txt-ico-19{background-position: 0 -252px;}
 /*进度条*/
 .progressbarOut{border:1px solid #A3A3A3;width:430px;height:3px;}
 .progressbar{background-color: #A3A3A3;height:3px;font-size: 0;line-height:0;}
-
-
+.dline{border-bottom: 1px dashed #ccc;position: relative}
+.dline span{background-color:#fff;position:absolute;height:25px;line-height:25px;padding: 0 20px;top:-10px;left:50%;margin-left: -90px;color:#999;}
 
 
 
