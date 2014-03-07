@@ -765,8 +765,9 @@ li:hover .txt-ico-19,.txt-ico-19{background-position: 0 -252px;}
 /*2014-03-1*/
 .MustC{position: relative;outline:1px dashed red;color:#fff;}
 .MustC em{position:absolute;background:#fff;left:23px;color:red;}
-
-
-
-
-
+/*2014-03-7*/
+.span-t{display:inline-block;min-width:250px;}
+.Package td{font-size: 14px;line-height: 30px;}
+.ask{position: relative;cursor: pointer;}
+.ask-pop{width:198px;height:110px;background: url("../images/ask-pop.png");padding:25px 20px 0 35px;position: absolute;color:#333;line-height:18px;z-index: 10;display: none;}
+.ask:hover .ask-pop{display:block;top:-50px;right:-250px;}
