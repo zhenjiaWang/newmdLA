@@ -13,7 +13,9 @@
 .md-doc-item .md-plus-h{border-color:#d5e5f8;}
 .md-doc-item:hover .md-plus-h,.md-doc-item h2{border-color:#b8d4f5;}
 .md-doc-item:hover,.upload:hover{background:#dfecfb;border-color:#b8d4f5;}
-
+/*订购弹出*/
+.border-color1{border-color:#004f9e;}
+.color-color1{color: #004f9e;}
 .md-ico,.md-controls-top:hover,.md-controls-bt:hover{background-image:url("../images/theme1-img/md-plus-ico.png");}
 .md-plus-pop-inner .md-mini-ico a:hover{border-bottom-color:#0066cc;}
 .md-plus-btn,.md-doc-item.current .md-plus-btn,.md-plus-btn em.md-plus-btn-r,.md-doc-item:hover .md-plus-btn{background-image:url("../images/theme1-img/md-item-btn-bg.jpg");}

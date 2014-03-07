@@ -301,6 +301,8 @@ textarea{width: auto;}
 .md-pro-user{padding:3px 25px 3px 8px;border-radius:3px;position:relative;top:-5px;*top:0;display:inline-block;line-height: 20px;cursor: pointer;}
 .md-delect,.md-add-ico{display:block;width:12px;height:12px;font-size:0;line-height:0;right:10px;top:6px;position:absolute;background: url("../images/md-del-ico.png") 0 0;}
 .md-delect{*top:7px;right:5px;z-index: 999;cursor: pointer;}
+.md-delect2{font-size:20px!important;line-height:20px;color: #c6c6c6;right:15px;}
+.md-delect2:hover{color: #666;}
 .md-controls-pop-in a.md-delect,.md-delect:hover{background-position:-12px 0;}
 .md-ap-pro .md-delect{display:none;top:5px;}
 .md-ap-pro .md-r-arrow{width:15px;height:10px;font-size:0;line-height:0;display:inline-block;margin:0 15px;position: relative;top:5px;}
@@ -699,7 +701,7 @@ li:hover .txt-ico-19,.txt-ico-19{background-position: 0 -252px;}
 /*2014-1-2*/
 .expansionProduct{margin:30px 20px;}
 .expansionProduct li{line-height:40px;}
-.expansionProduct li .phone-number{width:130px;line-height:40px;}
+.expansionProduct li .color-6{width:130px;line-height:40px;}
 .unClick{color:#ddd;}
 .expansionProduct li .middle{
     *background: #fff;
@@ -711,7 +713,7 @@ li:hover .txt-ico-19,.txt-ico-19{background-position: 0 -252px;}
 .expansionProduct li .bagNum{margin:0;background-color:#fff;border:1px solid #CCCCCC;border-radius:2px;font-size:20px;line-height:26px;height:26px;text-align:center;width:30px;display:inline-block;margin-top:-7px;}
 .expansionProduct li .middleTip{width:250px;padding-left:10px;line-height:20px;float:left;color:#999;}
 .expansionProduct li .middleTip .red{color:#008000;}
-.expansionProduct li .right{color:#008000;font-size:16px;float: right;font-weight: 700;}
+.expansionProduct li .right{font-size:16px;float: right;}
 .expansionProduct li .right span{margin:0;}
 .md-plus-pop .assess tbody tr td p.txt_hidden,.md-plus-pop .assess .process-div{width:330px;}
 .md-plus-pop .assess tbody tr td .txt_hidden{width:100px;}
@@ -771,3 +773,12 @@ li:hover .txt-ico-19,.txt-ico-19{background-position: 0 -252px;}
 .ask{position: relative;cursor: pointer;}
 .ask-pop{width:198px;height:110px;background: url("../images/ask-pop.png");padding:25px 20px 0 35px;position: absolute;color:#333;line-height:18px;z-index: 10;display: none;}
 .ask:hover .ask-pop{display:block;top:-50px;right:-250px;}
+.buy-pop{padding:0;border:1px solid;}
+.buy-pop .md-plus-pop-inner{padding:20px 30px;}
+
+
+
+
+
+
+
