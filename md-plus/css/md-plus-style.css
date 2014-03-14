@@ -775,9 +775,9 @@ li:hover .txt-ico-19,.txt-ico-19{background-position: 0 -252px;}
 .ask:hover .ask-pop{display:block;top:-50px;right:-250px;}
 .buy-pop{padding:0;border:1px solid;}
 .buy-pop .md-plus-pop-inner{padding:20px 30px;}
-
-
-
+.old-list li{float: left;width:150px;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;display:inline-block;margin:5px 12px 7px 0;}
+.old-list li label{color:#333;cursor: pointer;}
+.old-list li label input{margin-right:5px;}
 
 
 
