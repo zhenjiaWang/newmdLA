@@ -482,16 +482,21 @@ table.md-forms .ma-select-f{margin:0;}
 /*tishikuang*/
 .md-result-user,.md-plus-ser ul{background:#FFF;border:1px solid #E3E3E3;padding:5px 0;position:absolute;z-index:101;box-shadow:0 2px 5px rgba(0, 0, 0, 0.15);width:260px;border-radius:5px;}
 .md-result-user .current{border-color:#d2ea00;}
+.md-result-user{padding-top:0;}
+.the-name{height:30px;line-height:30px;padding-left:10px;font-size:14px;font-weight:bold;color:#666;}
 .md-results{cursor:pointer;padding:0 20px 0 5px;line-height:36px;height:36px;}
-.md-results:hover,.md-results.current,.md-plus-ser ul li:hover,.md-plus-ser ul li.current{background:#F5F5F5;}
+.md-result-user.group .md-results{padding:0 20px 0 20px;}
+.md-results:hover,.md-results.current,.md-plus-ser ul li:hover,.md-plus-ser ul li.current,.chose-g li.cur{background:#F5F5F5;}
 .md-results span{display: block;float: left;color: #333;line-height:36px;height:36px;margin-right:3px;}
 .md-results span img{width:26px;height:26px;margin:5px 5px 0 0;border-radius:3px;}
 .md-results .txt_hidden{max-width:150px;}
+.md-result-user.group .md-results .txt_hidden{max-width:140px;}
 .md-name.txt_hidden{max-width:50px;}
 .md-results.manager{background:#06fae6;}
 .md-results.nouse span{color:#ccc!important;cursor:auto;}
 .md-results.nouse:hover{border-color:#ccc;}
 .md-results b{background:#FFFF99;}
+
 .message-alert{display: block;border:1px solid #ccc;padding:5px 10px;padding-right:30px;position: relative;margin-top:10px;background:#fff;}
 .up-img{display: inline-block;width:30px;height:6px;background: url(../images/up_small.gif);position: absolute;top:-6px;left:1px;}
 .alertDialog,.warningDialog,.errorDialog{background-color:#CFFBC7;border:2px solid #FFFFFF;border-radius:6px;color:green;font-size:20px;padding:10px 40px 10px 20px;
@@ -778,6 +783,35 @@ li:hover .txt-ico-19,.txt-ico-19{background-position: 0 -252px;}
 .old-list li{float: left;width:150px;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;display:inline-block;margin:5px 12px 7px 0;}
 .old-list li label{color:#333;cursor: pointer;}
 .old-list li label input{margin-right:5px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

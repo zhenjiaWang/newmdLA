@@ -23,85 +23,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="订购信息.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/template/doc-req/订购信息.html">
+      <file leaf-file-name="md-plus-style.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/md-plus-style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="53" selection-start="1884" selection-end="1884" vertical-scroll-proportion="-24.71875" vertical-offset="181" max-vertical-offset="2106">
+            <state line="492" column="58" selection-start="30152" selection-end="30152" vertical-scroll-proportion="0.0" vertical-offset="12767" max-vertical-offset="22248">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="new-step3.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/template/doc-req/new-step3.html">
+      <file leaf-file-name="theme1-style.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/theme1-style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="2537" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1566">
+            <state line="2" column="46" selection-start="234" selection-end="234" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2241">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="正在订购.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/template/doc-req/正在订购.html">
+      <file leaf-file-name="doc-req-index.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/template/doc-req/doc-req-index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="576" selection-end="576" vertical-scroll-proportion="0.0" vertical-offset="83" max-vertical-offset="1080">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="欠费提醒.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/template/doc-req/欠费提醒.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="576" selection-end="576" vertical-scroll-proportion="-7.59375" vertical-offset="0" max-vertical-offset="999">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="更改拓展包.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/template/doc-req/更改拓展包.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="24" selection-start="271" selection-end="271" vertical-scroll-proportion="-0.0" vertical-offset="108" max-vertical-offset="1296">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="更改套餐.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/template/doc-req/更改套餐.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="52" selection-start="908" selection-end="908" vertical-scroll-proportion="-9.9375" vertical-offset="87" max-vertical-offset="1404">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="更改套餐2.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/template/doc-req/更改套餐2.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="44" column="38" selection-start="0" selection-end="2904" vertical-scroll-proportion="-21.75" vertical-offset="492" max-vertical-offset="1566">
+            <state line="24" column="32" selection-start="1012" selection-end="1012" vertical-scroll-proportion="0.14899713" vertical-offset="492" max-vertical-offset="6507">
               <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="更改拓展包2.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/template/doc-req/更改拓展包2.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="83" selection-start="2881" selection-end="2881" vertical-scroll-proportion="0.6704871" vertical-offset="567" max-vertical-offset="1647">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="审批订购.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/template/doc-req/审批订购.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="52" selection-start="394" selection-end="394" vertical-scroll-proportion="-0.0" vertical-offset="162" max-vertical-offset="2187">
-              <folding />
             </state>
           </provider>
         </entry>
@@ -148,13 +96,11 @@
         <option value="$PROJECT_DIR$/template/doc-req/new-step2.html" />
         <option value="$PROJECT_DIR$/print2.html" />
         <option value="$PROJECT_DIR$/template/doc-req/print2.html" />
-        <option value="$PROJECT_DIR$/template/doc-req/doc-req-index.html" />
         <option value="$PROJECT_DIR$/template/doc-req/personal-set.html" />
         <option value="$USER_HOME$/Desktop/list-item.css" />
         <option value="$USER_HOME$/Desktop/reqTitleBar.css" />
         <option value="$USER_HOME$/Desktop/reqActionBar.css" />
         <option value="$PROJECT_DIR$/template/doc-req/审批订购.html" />
-        <option value="$PROJECT_DIR$/css/theme1-style.css" />
         <option value="$PROJECT_DIR$/template/欠费提醒.html" />
         <option value="$PROJECT_DIR$/template/更改套餐/拓展包.html" />
         <option value="$PROJECT_DIR$/css/global.css" />
@@ -166,10 +112,12 @@
         <option value="$PROJECT_DIR$/template/doc-req/订购信息.html" />
         <option value="$PROJECT_DIR$/更改套餐2.html" />
         <option value="$PROJECT_DIR$/template/doc-req/更改套餐.html" />
-        <option value="$PROJECT_DIR$/css/md-plus-style.css" />
         <option value="$PROJECT_DIR$/template/doc-req/更改套餐2.html" />
         <option value="$PROJECT_DIR$/template/doc-req/更改套餐3.html" />
         <option value="$PROJECT_DIR$/template/doc-req/更改拓展包2.html" />
+        <option value="$PROJECT_DIR$/css/theme1-style.css" />
+        <option value="$PROJECT_DIR$/template/doc-req/doc-req-index.html" />
+        <option value="$PROJECT_DIR$/css/md-plus-style.css" />
       </list>
     </option>
   </component>
@@ -242,6 +190,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="md-plus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="md-plus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -265,14 +227,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -283,8 +237,12 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
-      <envs />
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
       <method />
     </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
@@ -292,6 +250,10 @@
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="CHROME" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
@@ -328,11 +290,11 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329653" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329653" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -353,11 +315,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/template/doc-req/填写加班记录.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="654" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3780" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/template/doc-req/doc-req-index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="99" column="16" selection-start="4092" selection-end="4092" vertical-scroll-proportion="0.0" vertical-offset="2673" max-vertical-offset="6318" />
@@ -518,11 +475,6 @@
         <state line="18" column="57" selection-start="958" selection-end="958" vertical-scroll-proportion="0.0" vertical-offset="432" max-vertical-offset="3552" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/template/doc-req/doc-req-index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="53" selection-start="719" selection-end="719" vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="5592" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/template/doc-req/personal-set.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="28" column="34" selection-start="1261" selection-end="1266" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="1128" />
@@ -535,14 +487,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/template/doc-req/new-step3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="2537" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1566">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/theme1-style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="1" selection-start="1424" selection-end="1436" vertical-scroll-proportion="-15.12" vertical-offset="81" max-vertical-offset="2241" />
+        <state line="0" column="0" selection-start="0" selection-end="2537" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1566" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/template/doc-req/buy.html">
@@ -569,7 +514,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/template/doc-req/订购信息.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="53" selection-start="1884" selection-end="1884" vertical-scroll-proportion="-24.71875" vertical-offset="181" max-vertical-offset="2106">
+        <state line="36" column="53" selection-start="1884" selection-end="1884" vertical-scroll-proportion="0.0" vertical-offset="181" max-vertical-offset="2106">
           <folding />
         </state>
       </provider>
@@ -583,7 +528,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/template/doc-req/欠费提醒.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="576" selection-end="576" vertical-scroll-proportion="-7.59375" vertical-offset="0" max-vertical-offset="999">
+        <state line="9" column="0" selection-start="576" selection-end="576" vertical-scroll-proportion="0.0" vertical-offset="243" max-vertical-offset="999">
           <folding />
         </state>
       </provider>
@@ -597,7 +542,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/template/doc-req/更改套餐.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="52" selection-start="908" selection-end="908" vertical-scroll-proportion="-9.9375" vertical-offset="87" max-vertical-offset="1404">
+        <state line="15" column="52" selection-start="908" selection-end="908" vertical-scroll-proportion="0.0" vertical-offset="87" max-vertical-offset="1404">
           <folding />
         </state>
       </provider>
@@ -611,26 +556,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/md-plus-style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="777" column="133" selection-start="50776" selection-end="50776" vertical-scroll-proportion="0.0" vertical-offset="20264" max-vertical-offset="21330">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/template/doc-req/更改套餐2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="38" selection-start="0" selection-end="2904" vertical-scroll-proportion="-21.75" vertical-offset="492" max-vertical-offset="1566">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state line="44" column="38" selection-start="0" selection-end="2904" vertical-scroll-proportion="0.0" vertical-offset="492" max-vertical-offset="1566">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/template/doc-req/更改拓展包2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="83" selection-start="2881" selection-end="2881" vertical-scroll-proportion="0.6704871" vertical-offset="567" max-vertical-offset="1647">
+        <state line="6" column="47" selection-start="391" selection-end="391" vertical-scroll-proportion="0.0" vertical-offset="162" max-vertical-offset="1647">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/doc-req/department-approver.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5157">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/theme1-style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="46" selection-start="234" selection-end="234" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2241">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/md-plus-style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="492" column="58" selection-start="30152" selection-end="30152" vertical-scroll-proportion="0.0" vertical-offset="12767" max-vertical-offset="22248">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/doc-req/doc-req-index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="32" selection-start="1012" selection-end="1012" vertical-scroll-proportion="0.14899713" vertical-offset="492" max-vertical-offset="6507">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
