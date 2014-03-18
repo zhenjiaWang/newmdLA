@@ -484,8 +484,8 @@ table.md-forms .ma-select-f{margin:0;}
 .md-result-user .current{border-color:#d2ea00;}
 .md-result-user{padding-top:0;}
 .the-name{height:30px;line-height:30px;padding-left:10px;font-size:14px;font-weight:bold;color:#666;}
-.md-results{cursor:pointer;padding:0 20px 0 5px;line-height:36px;height:36px;}
-.md-result-user.group .md-results{padding:0 20px 0 20px;}
+.md-results{cursor:pointer;padding:0 20px 0 5px;line-height:36px;height:36px;width:235px;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;display:inline-block;}
+.md-result-user.group .md-results{padding:0 20px 0 20px;width:220px;}
 .md-results:hover,.md-results.current,.md-plus-ser ul li:hover,.md-plus-ser ul li.current,.chose-g li.cur{background:#F5F5F5;}
 .md-results span{display: block;float: left;color: #333;line-height:36px;height:36px;margin-right:3px;}
 .md-results span img{width:26px;height:26px;margin:5px 5px 0 0;border-radius:3px;}
@@ -783,12 +783,14 @@ li:hover .txt-ico-19,.txt-ico-19{background-position: 0 -252px;}
 .old-list li{float: left;width:150px;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;display:inline-block;margin:5px 12px 7px 0;}
 .old-list li label{color:#333;cursor: pointer;}
 .old-list li label input{margin-right:5px;}
-
-
-
-
-
-
+/*统计表*/
+.scrollTable{margin-left:-5px;}
+.scrollTable table{margin:0;}
+.scrollTable table td,.scrollTable table th{border:1px solid #999;text-align: center;padding:0;}
+.scrollTable table.Thead{width:940px;font-size:14px;background:#e9e9e9;}
+.scrollTable div.Tbody{width:956px;overflow:auto;margin-top: -1px;height:325px;}
+.scrollTable div.Tbody .Tablebody{width:100%;}
+.scrollTable div.Tbody .Tablebody td{line-height:35px;}
 
 
 
