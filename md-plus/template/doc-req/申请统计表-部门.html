@@ -8,19 +8,29 @@
     <link rel="stylesheet" href="../../css/theme1-ico.css" type="text/css">
     <link rel="stylesheet" href="../../css/theme1-style.css" type="text/css">
     <script  type="text/javascript" src="../../js/jquery.js"></script>
+    <script  type="text/javascript">
+        $(function(){
+            $("#ChangeC").click(function(){
+                var $par =$(this).parents(".clander-m");
+                var $parD =$par.prev("div");
+                $par.hide();
+                $parD.show();
+            });
+        });
+    </script>
 </head>
 <body>
-<div class="md-plus-pop" style="width:960px;top:100px;left:50%;margin-left:-480px;">
+<div class="md-plus-pop" style="width:960px;top:5px;left:50%;margin-left:-480px;">
     <div class="md-plus-pop-inner">
         <a href="#" class="md-delect"></a>
         <p class="font18 md-title clearfix">
             <span class="floatleft">2014年全年费用报销申请统计表——部门</span>
         </p>
         <div class="md-pop-main">
+            <p class="font16 aligncenter mart20">2014年全年费用报销申请统计表——部门</p>
             <!--统计表begin-->
-            <div class="scrollTable mart10">
-                <!--table header begin-->
-                <table class="Thead">
+            <div class="scrollTable mart20">
+                <table class="Thead TheadTop">
                     <col width="100px"></col>
                     <col width="90px"></col>
                     <col width="90px"></col>
@@ -38,7 +48,63 @@
                     <col width="50px"></col>
                     <col></col>
                     <thead>
-                        <tr><th colspan="16" class="font16">2014年全年费用报销申请统计表——部门</th></tr>
+                        <tr>
+                            <th>统计值</th>
+                            <th>
+                                <div class="th-select">
+                                    <span>费用类别</span>
+                                    <em class="th-tip"></em>
+                                    <ul>
+                                        <li>行政费用</li>
+                                        <li>差旅费用</li>
+                                        <li>吃喝嫖赌费</li>
+                                    </ul>
+                                </div>
+                            </th>
+                            <th colspan="14">
+                                <div class="headr-in clearfix alignleft">
+                                    <label class="floatleft mart5"><input type="checkbox"/> 只统计通过审批的申请</label>
+                                    <!--时间筛查 begin-->
+                                    <div class="md-clander floatright marl10">
+                                       <div style="display: none">
+                                           <input type="text" class="md-int-short">
+                                           <a href="#" class="md-cl-ico"></a>
+                                       </div>
+                                       <div class="clander-m">
+                                           <span>2014年1月-2014年9月</span>
+                                           <a href="#" class="md-cl-ico" id="ChangeC"></a>
+                                       </div>
+                                    </div>
+                                    <span class="mart5 floatright">
+                                        <a href="#" class="current">按天查看</a>
+                                        <a href="#">按月查看</a>
+                                        <a href="#">按周查看</a>
+                                    </span>
+                                    <!--时间筛查 over-->
+                                </div>
+                            </th>
+                        </tr>
+                    </thead>
+                </table>
+                <!--table header begin-->
+                <table class="Thead mart10">
+                    <col width="100px"></col>
+                    <col width="90px"></col>
+                    <col width="90px"></col>
+                    <col width="50px"></col>
+                    <col width="50px"></col>
+                    <col width="50px"></col>
+                    <col width="50px"></col>
+                    <col width="50px"></col>
+                    <col width="50px"></col>
+                    <col width="50px"></col>
+                    <col width="50px"></col>
+                    <col width="50px"></col>
+                    <col width="50px"></col>
+                    <col width="50px"></col>
+                    <col width="50px"></col>
+                    <col></col>
+                    <thead>
                         <tr>
                             <th>
                                 <div class="th-select">
@@ -51,20 +117,10 @@
                                     </ul>
                                 </div>
                             </th>
+                            <th>行政费用</th>
                             <th>
                                 <div class="th-select">
-                                    <span>费用类别</span>
-                                    <em class="th-tip"></em>
-                                    <ul>
-                                        <li>行政费用</li>
-                                        <li>差旅费用</li>
-                                        <li>吃喝嫖赌费</li>
-                                    </ul>
-                                </div>
-                            </th>
-                            <th>
-                                <div class="th-select">
-                                    <span>费用项目</span>
+                                    <span>差旅费用</span>
                                     <em class="th-tip"></em>
                                     <ul>
                                         <li>办公用品</li>
@@ -310,7 +366,6 @@
                                 <td>100.00</td>
                                 <td>1000.00</td>
                             </tr>
-
                         </tbody>
                     </table>
                 </div>
@@ -320,7 +375,7 @@
         </div>
         <div class="data-bt mart10 clearfix">
             <!--左侧图标按钮begin-->
-            <div class="btn-group floatleft">
+            <div class="btn-group floatright marr10">
                 <a href="#"><em></em>汇总</a>
                 <a href="#"><em></em>明细</a>
                 <a href="#"><em></em>图表</a>
@@ -338,18 +393,6 @@
                 <input type="text"/>
             </div>
             <!--检索over-->
-            <!--时间选择begin-->
-            <div class="timecheck floatright marr20">
-                <a href="#">上一年</a>
-                <select>
-                    <option>2014年-1月</option>
-                    <option>2014年-2月</option>
-                    <option>2014年-3月</option>
-                    <option>2014年-4月</option>
-                </select>
-                <a href="#">下一年</a>
-            </div>
-            <!--时间选择over-->
         </div>
     </div>
 </div>
