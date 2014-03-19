@@ -35,8 +35,8 @@
         <div class="md-pop-main">
             <p class="font16 aligncenter mart20">2014年全年费用报销申请统计表——部门</p>
             <!--统计表begin-->
-            <div class="scrollTable mart20">
-                <table class="Thead TheadTop">
+            <div class="scrollTable mart10">
+                <table class="TheadTop">
                     <col width="100px"></col>
                     <col width="90px"></col>
                     <col width="50px"></col>
@@ -66,31 +66,37 @@
                                     </ul>
                                 </div>
                             </th>
-                            <th colspan="14">
+                            <th colspan="12">
                                 <div class="headr-in clearfix alignleft">
                                     <label class="floatleft mart5"><input type="checkbox"/> 只统计通过审批的申请</label>
-                                    <!--时间筛查 begin-->
+                                    <span class="mart5 floatright">
+                                        <a href="#" class="current">按天查看</a>
+                                        <a href="#">按月查看</a>
+                                        <a href="#">按周查看</a>
+                                    </span>
+                                </div>
+                            </th>
+                            <th colspan="2">
+                                <!--时间筛查 begin-->
                                     <div class="md-clander floatright marl10">
                                        <div style="display: none">
                                            <input type="text" class="md-int-short">
                                            <a href="javascript:;" id="ChangeI">确定</a>
                                        </div>
                                        <div class="clander-m">
-                                           <select>
-                                               <option>2014年1月-2014年9月</option>
-                                               <option>2014年1月-2014年9月</option>
-                                               <option>2014年1月-2014年9月</option>
-                                           </select>
+                                           <div class="th-select">
+                                                <span>2014年1月-2014年2月</span>
+                                                <em class="th-tip"></em>
+                                                <ul>
+                                                    <li>2014年1月-2014年2月</li>
+                                                    <li>2014年1月-2014年2月</li>
+                                                    <li>2014年1月-2014年2月</li>
+                                                </ul>
+                                            </div>
                                            <a href="#" class="md-cl-ico" id="ChangeC"></a>
                                        </div>
                                     </div>
-                                    <span class="mart5 floatright">
-                                        <a href="#" class="current">按天查看</a>
-                                        <a href="#">按月查看</a>
-                                        <a href="#">按周查看</a>
-                                    </span>
-                                    <!--时间筛查 over-->
-                                </div>
+                                <!--时间筛查 over-->
                             </th>
                         </tr>
                     </thead>
@@ -98,6 +104,7 @@
                 <!--table header begin-->
                 <table class="Thead mart10">
                     <col width="100px"></col>
+                    <col width="90px"></col>
                     <col width="90px"></col>
                     <col width="50px"></col>
                     <col width="50px"></col>
@@ -125,7 +132,28 @@
                                     </ul>
                                 </div>
                             </th>
-                            <th>病假</th>
+                            <th>
+                                <div class="th-select">
+                                    <span>费用类别</span>
+                                    <em class="th-tip"></em>
+                                    <ul>
+                                        <li>行政费用</li>
+                                        <li>差旅费用</li>
+                                        <li>吃喝嫖赌费</li>
+                                    </ul>
+                                </div>
+                            </th>
+                            <th>
+                                <div class="th-select">
+                                    <span>费用项目</span>
+                                    <em class="th-tip"></em>
+                                    <ul>
+                                        <li>办公用品</li>
+                                        <li>水费</li>
+                                        <li>电费</li>
+                                    </ul>
+                                </div>
+                            </th>
                             <th>一月</th>
                             <th>二月</th>
                             <th>三月</th>
@@ -148,6 +176,7 @@
                     <table class="Tablebody">
                         <col width="100px"></col>
                         <col width="90px"></col>
+                        <col width="90px"></col>
                         <col width="50px"></col>
                         <col width="50px"></col>
                         <col width="50px"></col>
@@ -163,89 +192,206 @@
                         <col></col>
                         <tbody>
                             <tr>
-                                <td>行政部</td>
-                                <td>行政费用</td>
-                                <td>1</td>
-                                <td>2</td>
-                                <td>0</td>
-                                <td>10</td>
-                                <td>0</td>
-                                <td>0</td>
-                                <td>0</td>
-                                <td>1</td>
-                                <td>2</td>
-                                <td>3</td>
-                                <td>6</td>
-                                <td>2</td>
-                                <td>100</td>
+                                <td rowspan="3">行政部</td>
+                                <td rowspan="3">行政费用</td>
+                                <td>办公</td>
+                                <td>100.00</td>
+                                <td>100.00</td>
+                                <td>100.00</td>
+                                <td>100.00</td>
+                                <td>0.00</td>
+                                <td>100.00</td>
+                                <td>0.00</td>
+                                <td>100.00</td>
+                                <td>100.00</td>
+                                <td>0.00</td>
+                                <td>0.00</td>
+                                <td>100.00</td>
+                                <td>1000.00</td>
                             </tr>
                             <tr>
-                                <td>行政部</td>
-                                <td>行政费用</td>
-                                <td>1</td>
-                                <td>2</td>
-                                <td>0</td>
-                                <td>10</td>
-                                <td>0</td>
-                                <td>0</td>
-                                <td>0</td>
-                                <td>1</td>
-                                <td>2</td>
-                                <td>3</td>
-                                <td>6</td>
-                                <td>2</td>
-                                <td>100</td>
+                                <td>水电</td>
+                                <td>100.00</td>
+                                <td>100.00</td>
+                                <td>100.00</td>
+                                <td>100.00</td>
+                                <td>0.00</td>
+                                <td>100.00</td>
+                                <td>0.00</td>
+                                <td>100.00</td>
+                                <td>100.00</td>
+                                <td>0.00</td>
+                                <td>0.00</td>
+                                <td>100.00</td>
+                                <td>1000.00</td>
                             </tr>
                             <tr>
-                                <td>行政部</td>
-                                <td>行政费用</td>
-                                <td>1</td>
-                                <td>2</td>
-                                <td>0</td>
-                                <td>10</td>
-                                <td>0</td>
-                                <td>0</td>
-                                <td>0</td>
-                                <td>1</td>
-                                <td>2</td>
-                                <td>3</td>
-                                <td>6</td>
-                                <td>2</td>
-                                <td>100</td>
+                                <td>交通</td>
+                                <td>100.00</td>
+                                <td>100.00</td>
+                                <td>100.00</td>
+                                <td>100.00</td>
+                                <td>0.00</td>
+                                <td>100.00</td>
+                                <td>0.00</td>
+                                <td>100.00</td>
+                                <td>100.00</td>
+                                <td>0.00</td>
+                                <td>0.00</td>
+                                <td>100.00</td>
+                                <td>1000.00</td>
                             </tr>
                             <tr>
-                                <td>行政部</td>
-                                <td>行政费用</td>
-                                <td>1</td>
-                                <td>2</td>
-                                <td>0</td>
-                                <td>10</td>
-                                <td>0</td>
-                                <td>0</td>
-                                <td>0</td>
-                                <td>1</td>
-                                <td>2</td>
-                                <td>3</td>
-                                <td>6</td>
-                                <td>2</td>
-                                <td>100</td>
+                                <td rowspan="3">行政部</td>
+                                <td rowspan="3">行政费用</td>
+                                <td>办公</td>
+                                <td>100.00</td>
+                                <td>100.00</td>
+                                <td>100.00</td>
+                                <td>100.00</td>
+                                <td>0.00</td>
+                                <td>100.00</td>
+                                <td>0.00</td>
+                                <td>100.00</td>
+                                <td>100.00</td>
+                                <td>0.00</td>
+                                <td>0.00</td>
+                                <td>100.00</td>
+                                <td>1000.00</td>
                             </tr>
                             <tr>
-                                <td colspan="2" class="font14">小 计</td>
-                                <td>1</td>
-                                <td>2</td>
-                                <td>0</td>
-                                <td>10</td>
-                                <td>0</td>
-                                <td>0</td>
-                                <td>0</td>
-                                <td>1</td>
-                                <td>2</td>
-                                <td>3</td>
-                                <td>6</td>
-                                <td>2</td>
-                                <td>100</td>
+                                <td>水电</td>
+                                <td>100.00</td>
+                                <td>100.00</td>
+                                <td>100.00</td>
+                                <td>100.00</td>
+                                <td>0.00</td>
+                                <td>100.00</td>
+                                <td>0.00</td>
+                                <td>100.00</td>
+                                <td>100.00</td>
+                                <td>0.00</td>
+                                <td>0.00</td>
+                                <td>100.00</td>
+                                <td>1000.00</td>
                             </tr>
+                            <tr>
+                                <td>交通</td>
+                                <td>100.00</td>
+                                <td>100.00</td>
+                                <td>100.00</td>
+                                <td>100.00</td>
+                                <td>0.00</td>
+                                <td>100.00</td>
+                                <td>0.00</td>
+                                <td>100.00</td>
+                                <td>100.00</td>
+                                <td>0.00</td>
+                                <td>0.00</td>
+                                <td>100.00</td>
+                                <td>1000.00</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="3">行政部</td>
+                                <td rowspan="3">行政费用</td>
+                                <td>办公</td>
+                                <td>100.00</td>
+                                <td>100.00</td>
+                                <td>100.00</td>
+                                <td>100.00</td>
+                                <td>0.00</td>
+                                <td>100.00</td>
+                                <td>0.00</td>
+                                <td>100.00</td>
+                                <td>100.00</td>
+                                <td>0.00</td>
+                                <td>0.00</td>
+                                <td>100.00</td>
+                                <td>1000.00</td>
+                            </tr>
+                            <tr>
+                                <td>水电</td>
+                                <td>100.00</td>
+                                <td>100.00</td>
+                                <td>100.00</td>
+                                <td>100.00</td>
+                                <td>0.00</td>
+                                <td>100.00</td>
+                                <td>0.00</td>
+                                <td>100.00</td>
+                                <td>100.00</td>
+                                <td>0.00</td>
+                                <td>0.00</td>
+                                <td>100.00</td>
+                                <td>1000.00</td>
+                            </tr>
+                            <tr>
+                                <td>交通</td>
+                                <td>100.00</td>
+                                <td>100.00</td>
+                                <td>100.00</td>
+                                <td>100.00</td>
+                                <td>0.00</td>
+                                <td>100.00</td>
+                                <td>0.00</td>
+                                <td>100.00</td>
+                                <td>100.00</td>
+                                <td>0.00</td>
+                                <td>0.00</td>
+                                <td>100.00</td>
+                                <td>1000.00</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="3">行政部</td>
+                                <td rowspan="3">行政费用</td>
+                                <td>办公</td>
+                                <td>100.00</td>
+                                <td>100.00</td>
+                                <td>100.00</td>
+                                <td>100.00</td>
+                                <td>0.00</td>
+                                <td>100.00</td>
+                                <td>0.00</td>
+                                <td>100.00</td>
+                                <td>100.00</td>
+                                <td>0.00</td>
+                                <td>0.00</td>
+                                <td>100.00</td>
+                                <td>1000.00</td>
+                            </tr>
+                            <tr>
+                                <td>水电</td>
+                                <td>100.00</td>
+                                <td>100.00</td>
+                                <td>100.00</td>
+                                <td>100.00</td>
+                                <td>0.00</td>
+                                <td>100.00</td>
+                                <td>0.00</td>
+                                <td>100.00</td>
+                                <td>100.00</td>
+                                <td>0.00</td>
+                                <td>0.00</td>
+                                <td>100.00</td>
+                                <td>1000.00</td>
+                            </tr>
+                            <tr>
+                                <td>交通</td>
+                                <td>100.00</td>
+                                <td>100.00</td>
+                                <td>100.00</td>
+                                <td>100.00</td>
+                                <td>0.00</td>
+                                <td>100.00</td>
+                                <td>0.00</td>
+                                <td>100.00</td>
+                                <td>100.00</td>
+                                <td>0.00</td>
+                                <td>0.00</td>
+                                <td>100.00</td>
+                                <td>1000.00</td>
+                            </tr>
+
                         </tbody>
                     </table>
                 </div>
@@ -255,7 +401,7 @@
         </div>
         <div class="data-bt mart10 clearfix">
             <!--左侧图标按钮begin-->
-            <div class="btn-group floatright marr10">
+            <div class="btn-group floatleft">
                 <a href="#"><em></em>汇总</a>
                 <a href="#"><em></em>明细</a>
                 <a href="#"><em></em>图表</a>
@@ -273,6 +419,18 @@
                 <input type="text"/>
             </div>
             <!--检索over-->
+            <!--时间选择begin-->
+            <div class="timecheck floatright marr20">
+                <a href="#">上一年</a>
+                <select>
+                    <option>2014年-1月</option>
+                    <option>2014年-2月</option>
+                    <option>2014年-3月</option>
+                    <option>2014年-4月</option>
+                </select>
+                <a href="#">下一年</a>
+            </div>
+            <!--时间选择over-->
         </div>
     </div>
 </div>
