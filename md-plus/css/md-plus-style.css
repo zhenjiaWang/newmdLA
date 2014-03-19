@@ -796,7 +796,7 @@ li:hover .txt-ico-19,.txt-ico-19{background-position: 0 -252px;}
 .scrollTable table.TheadTop{background: none;}
 .scrollTable table.TheadTop th{border:0;text-align:left;text-indent:5px;border-bottom:1px dotted #999;}
 .scrollTable table.TheadTop .headr-in span a.current{color: #004f9e;font-weight:bold;}
-.scrollTable div.Tbody{width:956px;overflow:hidden;margin-top: -1px;height:370px;overflow-y: scroll;}
+.scrollTable div.Tbody{width:940px;margin-top: -1px;height:370px;overflow:auto;}
 .scrollTable div.Tbody .Tablebody{width:100%;}
 .scrollTable div.Tbody .Tablebody td{line-height:40px;}
 .th-select {position:relative;}
