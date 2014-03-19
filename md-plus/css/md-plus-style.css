@@ -789,8 +789,9 @@ li:hover .txt-ico-19,.txt-ico-19{background-position: 0 -252px;}
 .scrollTable table{margin:0;}
 .scrollTable table td,.scrollTable table th{border:1px solid #999;text-align: center;padding:0;}
 .scrollTable table.Thead{width:940px;font-size:12px;background:#e9e9e9;}
-.scrollTable table.Thead .md-clander{width:175px;}
-.scrollTable table.Thead .md-clander input{height:24px;line-height:24px;}
+.scrollTable table.Thead .md-clander{width:200px;}
+.scrollTable table.Thead .md-clander input{height:24px;line-height:24px;padding-right:0;width:155px;}
+.scrollTable table.Thead .md-clander a{color:#666;}
 .scrollTable table.Thead .headr-in span a{color:#666;margin-left:10px;}
 .scrollTable table.TheadTop{background: none;}
 .scrollTable table.TheadTop th{border:0;text-align:left;text-indent:5px;border-bottom:1px dotted #999;}
@@ -818,7 +819,7 @@ li:hover .txt-ico-19,.txt-ico-19{background-position: 0 -252px;}
 .scrollTable table.TheadTop  .th-select .th-tip{border-left: 5px solid #fff;border-right: 5px solid #fff;}
 .scrollTable table.TheadTop th:hover .th-select .th-tip{top:10px;}
 .scrollTable table.TheadTop .th-select ul li:hover{background:#ccc;}
-.clander-m span{line-height: 26px;display: inline-block;height:26px;}
+.clander-m select{line-height: 26px;display: inline-block;height:26px;width:160px;}
 
 
 
