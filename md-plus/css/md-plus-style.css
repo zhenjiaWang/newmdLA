@@ -785,7 +785,11 @@ li:hover .txt-ico-19,.txt-ico-19{background-position: 0 -252px;}
 .old-list li label{color:#333;cursor: pointer;}
 .old-list li label input{margin-right:5px;}
 /*统计表*/
-.scrollTable{margin-left:-5px;}
+.scrollTable{margin-left:-5px;position: relative;}
+.GLeft,.GRight{display: block;padding:10px;background-position:center center;background-repeat: no-repeat;position: absolute;z-index:20;top:54px;cursor: pointer;transition:0.5s;font-size:0;line-height:0;}
+.GLeft{background-image:url("../images/arrow-2.png");left:300px;}
+.GRight{background-image:url("../images/arrow-1.png");right:75px;}
+.scrollTable:hover .GLeft,.scrollTable:hover .GRight{display: block;transition:0.5s;}
 .scrollTable a:hover{text-decoration:underline;}
 .scrollTable table{margin:0;}
 .scrollTable table td,.scrollTable table th{border:1px solid #999;text-align: center;padding:0;}
