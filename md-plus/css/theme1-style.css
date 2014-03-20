@@ -38,6 +38,7 @@ a:hover .md-mi-ok,.md-mi-ok:hover{background-position:-50px -262px;}
 a:hover .md-mi-look,.md-mi-look:hover{background-position:-50px -282px;}
 a:hover .md-mi-print,.md-mi-print:hover,span:hover .md-mi-print{background-position:-50px -302px;}
 a:hover .md-mi-ck,.md-mi-ck:hover,span:hover .md-mi-ck{background-position:-139px -147px;}
+a:hover .md-mi-count,.md-mi-count:hover,.md-doc-item:hover .md-mi-count{background-position:-115px -161px;}
 .md-mi-cross,.md-mi-return,.md-mi-nocross{width:24px;height:20px;}
 .md-mi-cross{background-position:-50px -342px;}
 .md-mi-return{background-position:-50px -362px;}

@@ -162,7 +162,8 @@ a.btn-ico:hover{text-decoration: none!important;}
 .md-mini-ico .md-ico-06{background-position:-85px -70px;}
 .md-mini-ico .md-ico-07{background-position:-120px -70px;}
 .md-mini-ico .md-ico-08{background-position:-120px 0;}
-.md-mi-ico,.md-mi-ico2,.md-plus-add{cursor:pointer;display:inline-block;width:24px;height:20px;line-height:0;font-size:0;background: url("../images/md-p-ico.png");position: relative;top:3px;z-index: 2;}
+.md-mi-ico,.md-mi-ico2,.md-plus-add{cursor:pointer;display:inline-block;width:24px;height:20px;line-height:0;font-size:0;
+    background: url("../images/md-p-ico.png");position: relative;top:3px;z-index: 2;}
 .md-mi-fq{background-position:-26px 0;}
 .md-mi-edit{background-position:-26px -20px;}
 .md-mi-delete{background-position:-26px -40px;}
@@ -186,7 +187,7 @@ a.btn-ico:hover{text-decoration: none!important;}
 .md-mi-ico2.md-mi-up{background-position:-13px -102px;}
 .md-mi-ico2.md-mi-down{background-position:0 -113px;}
 .md-mi-set{background-position:0 -204px;width:14px;height:14px;top:2px;left:-5px;}
-
+.md-mi-count{background-position:0 -220px;left:-10px;}/*统计*/
 .md-arrow-bt{width:9px;height:29px;}
 .md-plus-pop{padding:5px;border-radius:4px;background-image:url("../images/md-plus-popbg1.png");background-repeat:repeat;position:fixed;z-index: 9999;}
 .md-plus-pop .md-plus-pop-inner{background-color: #fff;zoom:1;position: relative;z-index: 888;min-height:200px;}
