@@ -55,7 +55,7 @@
       <file leaf-file-name="md-plus-style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/md-plus-style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="788" column="142" selection-start="51577" selection-end="51577" vertical-scroll-proportion="0.39212006" vertical-offset="20858" max-vertical-offset="24003">
+            <state line="802" column="86" selection-start="52655" selection-end="52655" vertical-scroll-proportion="0.44277674" vertical-offset="21182" max-vertical-offset="24003">
               <folding />
             </state>
           </provider>
@@ -64,12 +64,11 @@
       <file leaf-file-name="统计表-按日列表.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/template/doc-req/统计表-按日列表.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="29" selection-start="1700" selection-end="1705" vertical-scroll-proportion="-10.6875" vertical-offset="711" max-vertical-offset="2403">
+            <state line="1285" column="14" selection-start="90420" selection-end="90420" vertical-scroll-proportion="-23.28125" vertical-offset="1118" max-vertical-offset="3024">
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="tag#table#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#th#3;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="tag#table#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
                 <element signature="tag#td#0;tag#tr#0;tag#table#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
                 <element signature="n#style#0;n#table#0;n#td#0;n#tr#0;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="tag#div#0;tag#td#1;tag#tr#0;tag#table#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
@@ -187,8 +186,8 @@
         <option value="$PROJECT_DIR$/css/theme6-style.css" />
         <option value="$PROJECT_DIR$/template/doc-req/doc-req-index.html" />
         <option value="$PROJECT_DIR$/template/doc-req/审批订购.html" />
-        <option value="$PROJECT_DIR$/template/doc-req/统计表-按日列表.html" />
         <option value="$PROJECT_DIR$/css/md-plus-style.css" />
+        <option value="$PROJECT_DIR$/template/doc-req/统计表-按日列表.html" />
       </list>
     </option>
   </component>
@@ -672,12 +671,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/template/doc-req/统计表-按日列表.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="29" selection-start="1700" selection-end="1705" vertical-scroll-proportion="-10.6875" vertical-offset="711" max-vertical-offset="2403">
+        <state line="1285" column="14" selection-start="90420" selection-end="90420" vertical-scroll-proportion="-23.28125" vertical-offset="1118" max-vertical-offset="3024">
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="tag#table#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="n#style#0;n#div#0;n#div#0;n#th#3;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="tag#table#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#td#0;tag#tr#0;tag#table#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="n#style#0;n#table#0;n#td#0;n#tr#0;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="tag#div#0;tag#td#1;tag#tr#0;tag#table#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
@@ -728,7 +726,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/md-plus-style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="788" column="142" selection-start="51577" selection-end="51577" vertical-scroll-proportion="0.39212006" vertical-offset="20858" max-vertical-offset="24003">
+        <state line="802" column="86" selection-start="52655" selection-end="52655" vertical-scroll-proportion="0.44277674" vertical-offset="21182" max-vertical-offset="24003">
           <folding />
         </state>
       </provider>
