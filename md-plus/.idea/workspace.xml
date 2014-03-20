@@ -23,22 +23,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="md-plus-style.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="md-plus-style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/md-plus-style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="189" column="60" selection-start="10049" selection-end="10110" vertical-scroll-proportion="0.0" vertical-offset="4127" max-vertical-offset="22815">
+            <state line="832" column="85" selection-start="54944" selection-end="54944" vertical-scroll-proportion="0.6454034" vertical-offset="21776" max-vertical-offset="22842">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="doc-req-index.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/template/doc-req/doc-req-index.html">
+      <file leaf-file-name="更改套餐.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template/doc-req/更改套餐.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="49" selection-start="548" selection-end="548" vertical-scroll-proportion="0.20630373" vertical-offset="0" max-vertical-offset="5670">
-              <folding>
-                <element signature="tag#div#2;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-              </folding>
+            <state line="15" column="52" selection-start="908" selection-end="908" vertical-scroll-proportion="-9.9375" vertical-offset="87" max-vertical-offset="1404">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="更改套餐2.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template/doc-req/更改套餐2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="44" column="38" selection-start="0" selection-end="2904" vertical-scroll-proportion="-37.125" vertical-offset="0" max-vertical-offset="1566">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="审批订购.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template/doc-req/审批订购.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="41" selection-start="670" selection-end="670" vertical-scroll-proportion="-9.28125" vertical-offset="0" max-vertical-offset="2943">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -55,8 +71,10 @@
       <file leaf-file-name="申请统计表-部门.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/template/doc-req/申请统计表-部门.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="174" column="52" selection-start="8228" selection-end="8228" vertical-scroll-proportion="0.0" vertical-offset="4698" max-vertical-offset="11961">
-              <folding />
+            <state line="25" column="13" selection-start="584" selection-end="1176" vertical-scroll-proportion="-21.09375" vertical-offset="0" max-vertical-offset="11961">
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -91,7 +109,7 @@
       <file leaf-file-name="global.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/global.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="76" column="12" selection-start="3079" selection-end="3158" vertical-scroll-proportion="0.0" vertical-offset="594" max-vertical-offset="3321">
+            <state line="76" column="12" selection-start="3079" selection-end="3158" vertical-scroll-proportion="0.0" vertical-offset="1837" max-vertical-offset="3321">
               <folding />
             </state>
           </provider>
@@ -124,7 +142,6 @@
         <option value="$USER_HOME$/Desktop/list-item.css" />
         <option value="$USER_HOME$/Desktop/reqTitleBar.css" />
         <option value="$USER_HOME$/Desktop/reqActionBar.css" />
-        <option value="$PROJECT_DIR$/template/doc-req/审批订购.html" />
         <option value="$PROJECT_DIR$/template/欠费提醒.html" />
         <option value="$PROJECT_DIR$/template/更改套餐/拓展包.html" />
         <option value="$PROJECT_DIR$/template/更改拓展包.html" />
@@ -143,7 +160,6 @@
         <option value="$PROJECT_DIR$/template/doc-req/doc-set.html" />
         <option value="$PROJECT_DIR$/template/doc-req/考勤统计表.html" />
         <option value="$PROJECT_DIR$/template/doc-req/申请统计表-部门.html" />
-        <option value="$PROJECT_DIR$/css/md-plus-style.css" />
         <option value="$PROJECT_DIR$/css/theme1-style.css" />
         <option value="$PROJECT_DIR$/css/theme1-ico.css" />
         <option value="$PROJECT_DIR$/css/theme2-ico.css" />
@@ -157,6 +173,8 @@
         <option value="$PROJECT_DIR$/css/theme5-style.css" />
         <option value="$PROJECT_DIR$/css/theme6-style.css" />
         <option value="$PROJECT_DIR$/template/doc-req/doc-req-index.html" />
+        <option value="$PROJECT_DIR$/template/doc-req/审批订购.html" />
+        <option value="$PROJECT_DIR$/css/md-plus-style.css" />
       </list>
     </option>
   </component>
@@ -210,6 +228,14 @@
               <option name="myItemId" value="md-plus" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="doc-req" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -218,10 +244,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="md-plus" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -238,7 +260,7 @@
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="SearchEverywhereHistory" value="cl" />
+    <property name="SearchEverywhereHistory" value="&#10;cl" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -444,11 +466,6 @@
         <state line="36" column="53" selection-start="1884" selection-end="1884" vertical-scroll-proportion="0.0" vertical-offset="181" max-vertical-offset="2106" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/template/doc-req/审批订购.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="52" selection-start="394" selection-end="394" vertical-scroll-proportion="0.0" vertical-offset="162" max-vertical-offset="2187" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/template/doc-req/欠费提醒.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="0" selection-start="576" selection-end="576" vertical-scroll-proportion="0.0" vertical-offset="243" max-vertical-offset="999" />
@@ -457,16 +474,6 @@
     <entry file="file://$PROJECT_DIR$/template/doc-req/更改拓展包.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="24" selection-start="271" selection-end="271" vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="1296" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/doc-req/更改套餐.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="52" selection-start="908" selection-end="908" vertical-scroll-proportion="0.0" vertical-offset="87" max-vertical-offset="1404" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/doc-req/更改套餐2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="38" selection-start="0" selection-end="2904" vertical-scroll-proportion="0.0" vertical-offset="492" max-vertical-offset="1566" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/template/doc-req/更改拓展包2.html">
@@ -508,13 +515,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/global.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="76" column="12" selection-start="3079" selection-end="3158" vertical-scroll-proportion="0.0" vertical-offset="1539" max-vertical-offset="3186">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/template/doc-req/考勤统计表.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="152" column="30" selection-start="7153" selection-end="7153" vertical-scroll-proportion="0.0" vertical-offset="3489" max-vertical-offset="7965">
@@ -522,23 +522,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/template/doc-req/申请统计表-部门.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="174" column="52" selection-start="8228" selection-end="8228" vertical-scroll-proportion="0.0" vertical-offset="4698" max-vertical-offset="11961">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/md-p-ico.png">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/md-plus-style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="189" column="60" selection-start="10049" selection-end="10110" vertical-scroll-proportion="0.0" vertical-offset="4127" max-vertical-offset="22815">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/theme2-ico.css">
@@ -618,6 +604,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/template/doc-req/doc-req-index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="49" selection-start="548" selection-end="548" vertical-scroll-proportion="-6.75" vertical-offset="0" max-vertical-offset="5670">
+          <folding>
+            <element signature="tag#div#2;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/doc-req/更改套餐.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="52" selection-start="908" selection-end="908" vertical-scroll-proportion="-9.9375" vertical-offset="87" max-vertical-offset="1404">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/global.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="76" column="12" selection-start="3079" selection-end="3158" vertical-scroll-proportion="0.0" vertical-offset="1539" max-vertical-offset="3186">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/doc-req/更改套餐2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="38" selection-start="0" selection-end="2904" vertical-scroll-proportion="-37.125" vertical-offset="0" max-vertical-offset="1566">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/theme1-style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="40" column="0" selection-start="3480" selection-end="3587" vertical-scroll-proportion="0.0" vertical-offset="648" max-vertical-offset="2268">
@@ -625,12 +641,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/template/doc-req/doc-req-index.html">
+    <entry file="file://$PROJECT_DIR$/template/doc-req/申请统计表-部门.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="49" selection-start="548" selection-end="548" vertical-scroll-proportion="0.20630373" vertical-offset="0" max-vertical-offset="5670">
+        <state line="25" column="13" selection-start="584" selection-end="1176" vertical-scroll-proportion="-21.09375" vertical-offset="0" max-vertical-offset="11961">
           <folding>
-            <element signature="tag#div#2;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/doc-req/审批订购.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="41" selection-start="670" selection-end="670" vertical-scroll-proportion="-9.28125" vertical-offset="0" max-vertical-offset="2943">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/md-plus-style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="832" column="85" selection-start="54944" selection-end="54944" vertical-scroll-proportion="0.6454034" vertical-offset="21776" max-vertical-offset="22842">
+          <folding />
         </state>
       </provider>
     </entry>

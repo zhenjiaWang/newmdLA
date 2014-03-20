@@ -6,6 +6,16 @@
     <link rel="stylesheet" href="../../css/global.css" type="text/css">
     <link rel="stylesheet" href="../../css/md-plus-style.css" type="text/css">
     <link rel="stylesheet" href="../../css/theme1-style.css" type="text/css">
+    <script  type="text/javascript" src="../../js/jquery.js"></script>
+    <script  type="text/javascript">
+        $(function(){
+            $(".showF").hover(function(){
+                $(this).parents("tr").next("tr").find("td .allList").stop().slideDown();
+            },function(){
+                $(this).parents("tr").next("tr").find("td .allList").stop().slideUp();
+            });
+        });
+    </script>
 </head>
 <body>
 <div class="content">
@@ -41,9 +51,9 @@
                             <tr>
                                 <td width="130"><label class="color-6"><input type="radio" class="marr15"/> 基础套餐：</label></td>
                                 <td>
-                                    <em class="phone-number font14">15个系统预置表单 + 3个自定义表单</em>
+                                    <em class="phone-number font14 showF">15个系统预置表单 + 3个自定义表单</em>
                                     <span class="ask">
-                                        <img src="../../images/ask.jpg" align="">
+                                        <img src="../../images/ask.jpg">
                                         <div class="ask-pop font14">
                                             <p>表单不够怎么办？</p>
                                             <p class="mart5">您可以在基础套餐上，叠加价格为99元/月的表单拓展包，包含5个自定义表单。</p>
@@ -51,6 +61,24 @@
                                     </span>
                                 </td>
                                 <td><span class="phone-number font14"><em class="font16 marr10">299</em>元/月</span></td>
+                            </tr>
+                            <tr>
+                                <td colspan="3">
+                                    <ul class="allList clearfix">
+                                        <li>报销报销报销报销报销报销报销申请</li>
+                                        <li>出差嫖娼申请</li>
+                                        <li>快递申请</li>
+                                        <li>转正申请</li>
+                                        <li>加薪申请</li>
+                                        <li>离婚申请</li>
+                                        <li>绩效考核申请</li>
+                                        <li>打印名片申请</li>
+                                        <li>离职交接申请</li>
+                                        <li>支付申请</li>
+                                        <li>采购申请</li>
+                                        <li>请假申请</li>
+                                    </ul>
+                                </td>
                             </tr>
                             <tr>
                                 <td><label class="color-6"><input type="radio" class="marr15"/> 高级套餐：</label></td>
