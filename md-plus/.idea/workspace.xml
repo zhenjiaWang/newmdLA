@@ -26,7 +26,7 @@
       <file leaf-file-name="md-plus-style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/md-plus-style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="832" column="85" selection-start="54944" selection-end="54944" vertical-scroll-proportion="0.6454034" vertical-offset="21776" max-vertical-offset="22842">
+            <state line="821" column="68" selection-start="54128" selection-end="54128" vertical-scroll-proportion="0.36679175" vertical-offset="21776" max-vertical-offset="22842">
               <folding />
             </state>
           </provider>
@@ -321,7 +321,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-8" width="1936" height="1216" extended-state="6" />
+    <frame x="-1928" y="-8" width="1936" height="1216" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -659,7 +659,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/md-plus-style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="832" column="85" selection-start="54944" selection-end="54944" vertical-scroll-proportion="0.6454034" vertical-offset="21776" max-vertical-offset="22842">
+        <state line="821" column="68" selection-start="54128" selection-end="54128" vertical-scroll-proportion="0.36679175" vertical-offset="21776" max-vertical-offset="22842">
           <folding />
         </state>
       </provider>
