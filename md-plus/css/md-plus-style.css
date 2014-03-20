@@ -830,8 +830,47 @@ li:hover .txt-ico-19,.txt-ico-19{background-position: 0 -252px;}
 .data-ser .th-select {display: inline-block;border-bottom:1px solid #999;width:100px;height:24px;line-height:24px;background: #fff;}
 .data-ser .th-select ul{bottom:23px;background: #fff;border-bottom:0;border-top:1px solid #999; }
 .data-ser .th-select span{padding-left: 10px;}
-.allList{padding:10px 0 10px 0;border:1px solid #ccc;margin-left:37px;display: none;}
-.allList li{float: left;width:150px;line-height:20px;font-size:12px;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;display:inline-block;margin-left:10px;color: #666;}
+.allList{padding:10px 0 10px 0;border:1px solid #ccc;margin-left:37px;border-radius:4px;}
+.allList li{float: left;width:150px;line-height:25px;font-size:12px;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;display:inline-block;margin-left:10px;}
+.allList li .phone-number{font-size:13px;margin-right:7px;}
+.Tablebody .Tablebody{}
+.Tablebody .Tablebody .Tablebody{margin-top:0;}
+.Tablebody .Tablebody .Tablebody td{border-top:0;}
+.Tablebody .Tablebody td{height:35px;}
+.InDiv{width:570px;position: relative;overflow: hidden;height:36px;}
+.InMain{width:1550px;margin-left:-1px;height:36px;position: absolute;}
+.InMain table.Thead{width:1550px;position: relative;}
+.scrollTable-y{width:940px;height:360px;overflow:hidden;overflow-y:scroll;}
+.scrollTable table th{height:34px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
