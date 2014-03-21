@@ -847,7 +847,7 @@ li:hover .txt-ico-19,.txt-ico-19{background-position: 0 -252px;}
 .scrollTable-y{width:940px;height:360px;overflow:hidden;overflow-y:scroll;}
 .scrollTable table th{height:34px;}
 .scrollTable-y tr:hover,.th-select ul li.current{background:#ece6e6;}
-
+.scrollTable table td.no-td{color:#d1d1d5;}
 
 
 
