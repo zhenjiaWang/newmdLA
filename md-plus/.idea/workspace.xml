@@ -26,7 +26,7 @@
       <file leaf-file-name="审批订购.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/template/doc-req/审批订购.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="78" column="64" selection-start="4841" selection-end="4841" vertical-scroll-proportion="0.0" vertical-offset="1377" max-vertical-offset="2943">
+            <state line="78" column="64" selection-start="4841" selection-end="4841" vertical-scroll-proportion="-22.78125" vertical-offset="1377" max-vertical-offset="2943">
               <folding />
             </state>
           </provider>
@@ -50,21 +50,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="md-plus-style.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="md-plus-style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/md-plus-style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="837" column="127" selection-start="55532" selection-end="55532" vertical-scroll-proportion="0.35926995" vertical-offset="22225" max-vertical-offset="24003">
+            <state line="844" column="70" selection-start="55932" selection-end="55932" vertical-scroll-proportion="-22.52" vertical-offset="22225" max-vertical-offset="24003">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="统计表-按日列表.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="统计表-按日列表.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/template/doc-req/统计表-按日列表.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="75" column="59" selection-start="3660" selection-end="3660" vertical-scroll-proportion="-8.4375" vertical-offset="1755" max-vertical-offset="32886">
+            <state line="373" column="91" selection-start="23449" selection-end="23476" vertical-scroll-proportion="0.20057307" vertical-offset="6081" max-vertical-offset="32076">
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="tag#th#2;tag#tr#0;tag#thead#0;tag#table#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#th#3;tag#tr#0;tag#thead#0;tag#table#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#th#3;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="tag#td#0;tag#tr#0;tag#table#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
                 <element signature="n#style#0;n#table#0;n#td#0;n#tr#0;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -259,7 +261,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="xml.catalog" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../DBTVIntegration/06-web前端/04web" />
+    <property name="last_opened_file_path" value="E:/kuanpan/标致/Html" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="options.searchVisible" value="true" />
@@ -365,16 +367,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/template/doc-req/doc-req-index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="98" column="16" selection-start="4062" selection-end="4062" vertical-scroll-proportion="0.0" vertical-offset="2352" max-vertical-offset="5616" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/theme1-style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="107" selection-start="449" selection-end="449" vertical-scroll-proportion="0.0" vertical-offset="96" max-vertical-offset="1920" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/template/doc-req/填写加班记录.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="654" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="0" />
@@ -603,7 +595,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/template/doc-req/审批订购.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="78" column="64" selection-start="4841" selection-end="4841" vertical-scroll-proportion="0.0" vertical-offset="1377" max-vertical-offset="2943">
+        <state line="78" column="64" selection-start="4841" selection-end="4841" vertical-scroll-proportion="-22.78125" vertical-offset="1377" max-vertical-offset="2943">
           <folding />
         </state>
       </provider>
@@ -622,11 +614,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../../../DBTVIntegration/06-web前端/04web/assets/js/libs/html5shiv.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="2380" selection-end="2380" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="378">
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../DBTVIntegration/06-web前端/04web/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="84" selection-start="1406" selection-end="1406" vertical-scroll-proportion="0.5157593" vertical-offset="0" max-vertical-offset="7236">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/md-plus-style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="844" column="70" selection-start="55932" selection-end="55932" vertical-scroll-proportion="-22.52" vertical-offset="22225" max-vertical-offset="24003">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/template/doc-req/统计表-按日列表.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="75" column="59" selection-start="3660" selection-end="3660" vertical-scroll-proportion="-8.4375" vertical-offset="1755" max-vertical-offset="32886">
+        <state line="373" column="91" selection-start="23449" selection-end="23476" vertical-scroll-proportion="0.20057307" vertical-offset="6081" max-vertical-offset="32076">
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="tag#th#2;tag#tr#0;tag#thead#0;tag#table#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#th#3;tag#tr#0;tag#thead#0;tag#table#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="n#style#0;n#div#0;n#div#0;n#th#3;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="tag#td#0;tag#tr#0;tag#table#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="n#style#0;n#table#0;n#td#0;n#tr#0;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -667,13 +684,6 @@
             <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#10;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#table#0;n#td#2;n#tr#10;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/md-plus-style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="837" column="127" selection-start="55532" selection-end="55532" vertical-scroll-proportion="0.35926995" vertical-offset="22225" max-vertical-offset="24003">
-          <folding />
         </state>
       </provider>
     </entry>
