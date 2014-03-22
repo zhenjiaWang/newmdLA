@@ -828,6 +828,8 @@ li:hover .txt-ico-19,.txt-ico-19{background-position: 0 -252px;}
 .clander-m .th-select{width:160px;}
 .headr-in label{top: -2px;position: relative;}
 .headr-in label input{vertical-align: -2px;}
+.scrollTable table.TheadTop .headr-in span a{color:#666;padding:1px 10px;}
+.scrollTable table.TheadTop .headr-in span a.current{background:#999;color:#fff;padding:1px 10px;font-weight:normal;}
 .data-ser .th-tip{border-left: 5px solid #fff;border-right: 5px solid #fff;right:5px;top:8px;}
 .data-ser .th-select:hover .th-tip{border-bottom:5px solid #999;border-top:0;right:5px;top:8px;}
 .data-ser .th-select li:hover{background:#ccc;}
