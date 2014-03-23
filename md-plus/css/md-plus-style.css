@@ -836,7 +836,7 @@ li:hover .txt-ico-19,.txt-ico-19{background-position: 0 -252px;}
 .data-ser .th-select {display: inline-block;border-bottom:1px solid #999;width:100px;height:24px;line-height:24px;background: #fff;}
 .data-ser .th-select ul{bottom:23px;background: #fff;border-bottom:0;border-top:1px solid #999; }
 .data-ser .th-select span{padding-left: 10px;}
-.allList{padding:10px 0 10px 0;border:1px solid #ccc;margin-left:37px;border-radius:4px;}
+.allList{padding:10px 0 10px 0;border:1px solid #ccc;margin-left:37px;border-radius:4px;display: none;}
 .allList li{float: left;width:150px;line-height:25px;font-size:12px;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;display:inline-block;margin-left:10px;}
 .allList li .phone-number{font-size:13px;margin-right:7px;}
 .Tablebody .Tablebody{}
@@ -850,7 +850,7 @@ li:hover .txt-ico-19,.txt-ico-19{background-position: 0 -252px;}
 .scrollTable table th{height:34px;}
 .scrollTable-y tr:hover,.th-select ul li.current{background:#ece6e6;}
 .scrollTable table td.no-td{color:#d1d1d5;}
-
+.Tablebody .Tablebody .Tablebody td span{overflow:hidden;white-space:nowrap;text-overflow:ellipsis;display:inline-block;max-width:49px;}
 
 
 
