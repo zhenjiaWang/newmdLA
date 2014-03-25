@@ -7,6 +7,16 @@
     <link rel="stylesheet" href="../../css/md-plus-style.css" type="text/css">
     <link rel="stylesheet" href="../../css/theme1-ico.css" type="text/css">
     <link rel="stylesheet" href="../../css/theme1-style.css" type="text/css">
+    <script type="text/javascript" src="../../js/jquery.js"></script>
+    <script type="text/javascript">
+        $(function(){
+            $(".IntTip").hover(function(){
+                $(this).next(".ask-pop").show();
+            },function(){
+                $(this).next(".ask-pop").hide();
+            });
+        })
+    </script>
 </head>
 <body>
 <div class="md-plus">
@@ -103,8 +113,18 @@
                   <td>2013-06-06 12:40</td>
               </tr>
               <tr>
-                <th>原岗位</th>
-                <td><input type="text" class="md-int-lang"></td>
+                <th>
+                    <div class="IntW clearfix" style="width:50px;">
+                      原岗位
+                      <em class="IntTip"></em>
+                      <div class="ask-pop font14">
+                        <p class="mart5">您可以在基础套餐上，叠加价格为99元/月的表单拓展包，包含5个自定义表单。</p>
+                      </div>
+                    </div>
+                </th>
+                <td>
+                      <input type="text" class="md-int-lang">
+                </td>
                 <th>调整员工</th>
                 <td class="process-table">
                     <span class="color-p">

@@ -801,7 +801,7 @@ li:hover .txt-ico-19,.txt-ico-19{background-position: 0 -252px;}
 .scrollTable table.TheadTop{background: none;}
 .scrollTable table.TheadTop th{border:0;text-align:left;text-indent:5px;border-bottom:1px dotted #999;}
 .scrollTable table.TheadTop .headr-in span a.current{color: #004f9e;font-weight:bold;}
-.scrollTable div.Tbody{width:940px;margin-top: -1px;height:370px;overflow:auto;}
+.scrollTable div.Tbody{width:940px;margin-top: -1px;height:333px;overflow:auto;}
 .scrollTable div.Tbody .Tablebody{width:100%;}
 .scrollTable div.Tbody .Tablebody td{line-height:40px;}
 .th-select {position:relative;}
@@ -846,13 +846,14 @@ li:hover .txt-ico-19,.txt-ico-19{background-position: 0 -252px;}
 .InDiv{width:570px;position: relative;overflow: hidden;height:36px;}
 .InMain{width:1550px;margin-left:-1px;height:36px;position: absolute;}
 .InMain table.Thead{width:1550px;position: relative;}
-.scrollTable-y{width:940px;height:360px;overflow:hidden;overflow-y:scroll;}
+.scrollTable-y{width:940px;height:344px;overflow:hidden;overflow-y:scroll;}
 .scrollTable table th{height:34px;}
 .scrollTable-y tr:hover,.th-select ul li.current{background:#ece6e6;}
 .scrollTable table td.no-td{color:#d1d1d5;}
-
-
-
+.Tablebody .Tablebody .Tablebody td span{overflow:hidden;white-space:nowrap;text-overflow:ellipsis;display:inline-block;max-width:49px;}
+.IntW{padding-right:1px;position: relative;}
+.IntTip{position: absolute;line-height:0;font-size:0;width:10px;height:10px;right:2px;top:2px;padding:0!important;background:url("../images/int-tip.png");}
+.IntW .ask-pop{top:-50px;right:-240px;}
 
 
 

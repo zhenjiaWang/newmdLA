@@ -26,34 +26,41 @@
       <file leaf-file-name="审批订购.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/template/doc-req/审批订购.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="78" column="64" selection-start="4841" selection-end="4841" vertical-scroll-proportion="-22.78125" vertical-offset="1377" max-vertical-offset="2943">
+            <state line="73" column="67" selection-start="4175" selection-end="4175" vertical-scroll-proportion="-10.96875" vertical-offset="1620" max-vertical-offset="2943">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="theme1-style.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/theme1-style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="0" selection-start="3480" selection-end="3587" vertical-scroll-proportion="0.0" vertical-offset="1080" max-vertical-offset="2268">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="申请统计表-部门.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/template/doc-req/申请统计表-部门.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="51" selection-start="0" selection-end="19640" vertical-scroll-proportion="-0.0" vertical-offset="540" max-vertical-offset="11961">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="md-plus-style.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="md-plus-style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/md-plus-style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="824" column="63" selection-start="54515" selection-end="54515" vertical-scroll-proportion="0.1716698" vertical-offset="22065" max-vertical-offset="24057">
+            <state line="844" column="38" selection-start="55985" selection-end="55985" vertical-scroll-proportion="0.0" vertical-offset="22424" max-vertical-offset="24084">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="new-doc-set.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/template/doc-req/new-doc-set.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="48" selection-start="906" selection-end="906" vertical-scroll-proportion="0.38681948" vertical-offset="0" max-vertical-offset="7911">
+              <folding>
+                <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#ul#1;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#th#0;n#tr#2;n#table#0;n#div#1;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#ul#0;n#div#0;n#td#1;n#tr#5;n#table#0;n#div#1;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#ul#0;n#div#2;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="填写加班记录.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template/doc-req/填写加班记录.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="51" selection-start="1528" selection-end="1528" vertical-scroll-proportion="-10.96875" vertical-offset="405" max-vertical-offset="3780">
               <folding />
             </state>
           </provider>
@@ -62,50 +69,8 @@
       <file leaf-file-name="统计表-按日列表.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/template/doc-req/统计表-按日列表.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="58" column="52" selection-start="2556" selection-end="2564" vertical-scroll-proportion="-5.90625" vertical-offset="1377" max-vertical-offset="32319">
-              <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="tag#th#3;tag#tr#0;tag#thead#0;tag#table#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#th#3;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="tag#td#0;tag#tr#0;tag#table#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="n#style#0;n#table#0;n#td#0;n#tr#0;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="tag#div#0;tag#td#1;tag#tr#0;tag#table#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="n#style#0;n#table#0;n#td#2;n#tr#0;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#0;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#table#0;n#td#2;n#tr#0;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#table#0;n#td#0;n#tr#1;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#1;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#table#0;n#td#2;n#tr#1;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#table#0;n#td#0;n#tr#2;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#2;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#table#0;n#td#2;n#tr#2;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#table#0;n#td#0;n#tr#3;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#3;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#table#0;n#td#2;n#tr#3;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#table#0;n#td#0;n#tr#4;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#4;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#table#0;n#td#2;n#tr#4;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#table#0;n#td#0;n#tr#5;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#5;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#table#0;n#td#2;n#tr#5;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#table#0;n#td#0;n#tr#6;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#6;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#table#0;n#td#2;n#tr#6;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#table#0;n#td#0;n#tr#7;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#7;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#table#0;n#td#2;n#tr#7;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#table#0;n#td#0;n#tr#8;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#8;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#table#0;n#td#2;n#tr#8;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#table#0;n#td#0;n#tr#9;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#9;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#table#0;n#td#2;n#tr#9;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#table#0;n#td#0;n#tr#10;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#10;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#table#0;n#td#2;n#tr#10;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state line="566" column="82" selection-start="37799" selection-end="37799" vertical-scroll-proportion="0.0" vertical-offset="14931" max-vertical-offset="35856">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -113,7 +78,7 @@
       <file leaf-file-name="global.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/global.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="76" column="12" selection-start="3079" selection-end="3158" vertical-scroll-proportion="0.0" vertical-offset="2052" max-vertical-offset="3321">
+            <state line="74" column="22" selection-start="3007" selection-end="3017" vertical-scroll-proportion="0.0" vertical-offset="1809" max-vertical-offset="3321">
               <folding />
             </state>
           </provider>
@@ -130,7 +95,6 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/template/doc-req/填写加班记录.html" />
-        <option value="$USER_HOME$/Desktop/md-plus-style.css" />
         <option value="$PROJECT_DIR$/template/doc-req/buy.html" />
         <option value="$PROJECT_DIR$/template/doc-req/create-form.html" />
         <option value="$PROJECT_DIR$/template/doc-req/process-set.html" />
@@ -160,7 +124,6 @@
         <option value="$PROJECT_DIR$/template/doc-req/更改套餐3.html" />
         <option value="$PROJECT_DIR$/template/doc-req/更改拓展包2.html" />
         <option value="$PROJECT_DIR$/css/global.css" />
-        <option value="$PROJECT_DIR$/template/doc-req/new-doc-set.html" />
         <option value="$PROJECT_DIR$/template/doc-req/doc-set.html" />
         <option value="$PROJECT_DIR$/template/doc-req/考勤统计表.html" />
         <option value="$PROJECT_DIR$/template/doc-req/申请统计表-部门.html" />
@@ -177,9 +140,11 @@
         <option value="$PROJECT_DIR$/css/theme5-style.css" />
         <option value="$PROJECT_DIR$/css/theme6-style.css" />
         <option value="$PROJECT_DIR$/template/doc-req/doc-req-index.html" />
-        <option value="$PROJECT_DIR$/template/doc-req/审批订购.html" />
         <option value="$PROJECT_DIR$/template/doc-req/统计表-按日列表.html" />
+        <option value="$PROJECT_DIR$/template/doc-req/审批订购.html" />
+        <option value="$USER_HOME$/Desktop/md-plus-style.css" />
         <option value="$PROJECT_DIR$/css/md-plus-style.css" />
+        <option value="$PROJECT_DIR$/template/doc-req/new-doc-set.html" />
       </list>
     </option>
   </component>
@@ -251,6 +216,20 @@
               <option name="myItemId" value="md-plus" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="md-plus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="md-plus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -260,7 +239,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="xml.catalog" />
-    <property name="last_opened_file_path" value="E:/kuanpan/标致/Html" />
+    <property name="last_opened_file_path" value="E:/kuanpan/标致/东风标致308车型平台搭建/308" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="options.searchVisible" value="true" />
@@ -278,6 +257,14 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -288,12 +275,8 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
@@ -301,10 +284,6 @@
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="CHROME" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
@@ -326,14 +305,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-8" width="1936" height="1216" extended-state="6" />
+    <frame x="-1928" y="-8" width="1936" height="1216" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.08177083" sideWeight="0.6707153" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.122395836" sideWeight="0.6707153" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32928476" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -366,21 +345,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/template/doc-req/填写加班记录.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="654" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/doc-req/process-set.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="88" column="41" selection-start="4243" selection-end="4243" vertical-scroll-proportion="0.0" vertical-offset="2376" max-vertical-offset="3645" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/doc-req/process-set-pop.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="22" selection-start="1943" selection-end="1943" vertical-scroll-proportion="0.0" vertical-offset="1053" max-vertical-offset="2592" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/template/doc-req/费用报销.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="50" column="29" selection-start="2706" selection-end="2706" vertical-scroll-proportion="0.0" vertical-offset="1200" max-vertical-offset="2400" />
@@ -481,19 +445,9 @@
         <state line="6" column="76" selection-start="420" selection-end="420" vertical-scroll-proportion="-5.0625" vertical-offset="0" max-vertical-offset="6453" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/template/doc-req/申请明细表.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="2430" max-vertical-offset="6939" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/template/doc-req/new-step2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="113" column="26" selection-start="5586" selection-end="5586" vertical-scroll-proportion="-87.75" vertical-offset="243" max-vertical-offset="3861" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/doc-req/new-doc-set.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="70" column="52" selection-start="3105" selection-end="3105" vertical-scroll-proportion="-59.0625" vertical-offset="0" max-vertical-offset="7371" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/template/doc-req/doc-set.html">
@@ -533,9 +487,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/theme1-ico.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="0" selection-start="4431" selection-end="4490" vertical-scroll-proportion="0.35834897" vertical-offset="1211" max-vertical-offset="2457">
-          <folding />
-        </state>
+        <state line="59" column="0" selection-start="4431" selection-end="4490" vertical-scroll-proportion="0.35834897" vertical-offset="1211" max-vertical-offset="2457" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/theme2-style.css">
@@ -573,16 +525,41 @@
         <state line="15" column="52" selection-start="908" selection-end="908" vertical-scroll-proportion="-9.9375" vertical-offset="87" max-vertical-offset="1404" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/global.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="76" column="12" selection-start="3079" selection-end="3158" vertical-scroll-proportion="0.0" vertical-offset="1539" max-vertical-offset="3186">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/template/doc-req/更改套餐2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="44" column="38" selection-start="0" selection-end="2904" vertical-scroll-proportion="-37.125" vertical-offset="0" max-vertical-offset="1566" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/doc-req/考勤统计表.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="152" column="30" selection-start="7153" selection-end="7153" vertical-scroll-proportion="-19.21875" vertical-offset="3489" max-vertical-offset="7965" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../DBTVIntegration/06-web前端/04web/assets/js/libs/html5shiv.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="2380" selection-end="2380" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="378" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../DBTVIntegration/06-web前端/04web/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="84" selection-start="1406" selection-end="1406" vertical-scroll-proportion="0.5157593" vertical-offset="0" max-vertical-offset="7236" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/doc-req/申请明细表.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="91" column="39" selection-start="3805" selection-end="3805" vertical-scroll-proportion="-0.84375" vertical-offset="2430" max-vertical-offset="6939" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/doc-req/申请统计表-部门.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="28" selection-start="1104" selection-end="1104" vertical-scroll-proportion="-0.84375" vertical-offset="540" max-vertical-offset="11961" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/doc-req/统计表-按日列表.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="566" column="82" selection-start="37799" selection-end="37799" vertical-scroll-proportion="0.0" vertical-offset="14931" max-vertical-offset="35856">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/theme1-style.css">
@@ -592,96 +569,59 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Desktop/md-plus-style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="846" column="70" selection-start="56125" selection-end="56125" vertical-scroll-proportion="0.14409222" vertical-offset="22692" max-vertical-offset="24084">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/jscrollpane.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-2.102873" vertical-offset="2269" max-vertical-offset="3348">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/doc-req/填写加班记录.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="51" selection-start="1528" selection-end="1528" vertical-scroll-proportion="-10.96875" vertical-offset="405" max-vertical-offset="3780">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/global.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="74" column="22" selection-start="3007" selection-end="3017" vertical-scroll-proportion="0.0" vertical-offset="1809" max-vertical-offset="3321">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/template/doc-req/审批订购.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="78" column="64" selection-start="4841" selection-end="4841" vertical-scroll-proportion="-22.78125" vertical-offset="1377" max-vertical-offset="2943">
+        <state line="73" column="67" selection-start="4175" selection-end="4175" vertical-scroll-proportion="-10.96875" vertical-offset="1620" max-vertical-offset="2943">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/doc-req/考勤统计表.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="152" column="30" selection-start="7153" selection-end="7153" vertical-scroll-proportion="-19.21875" vertical-offset="3489" max-vertical-offset="7965">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../DBTVIntegration/06-web前端/04web/assets/js/libs/html5shiv.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="2380" selection-end="2380" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="378">
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../DBTVIntegration/06-web前端/04web/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="84" selection-start="1406" selection-end="1406" vertical-scroll-proportion="0.5157593" vertical-offset="0" max-vertical-offset="7236">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/doc-req/申请统计表-部门.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="51" selection-start="0" selection-end="19640" vertical-scroll-proportion="0.0" vertical-offset="540" max-vertical-offset="11961">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/doc-req/统计表-按日列表.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="52" selection-start="2556" selection-end="2564" vertical-scroll-proportion="-5.90625" vertical-offset="1377" max-vertical-offset="32319">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="tag#th#3;tag#tr#0;tag#thead#0;tag#table#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#th#3;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="tag#td#0;tag#tr#0;tag#table#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="n#style#0;n#table#0;n#td#0;n#tr#0;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="tag#div#0;tag#td#1;tag#tr#0;tag#table#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="n#style#0;n#table#0;n#td#2;n#tr#0;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#0;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#table#0;n#td#2;n#tr#0;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#table#0;n#td#0;n#tr#1;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#1;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#table#0;n#td#2;n#tr#1;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#table#0;n#td#0;n#tr#2;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#2;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#table#0;n#td#2;n#tr#2;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#table#0;n#td#0;n#tr#3;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#3;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#table#0;n#td#2;n#tr#3;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#table#0;n#td#0;n#tr#4;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#4;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#table#0;n#td#2;n#tr#4;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#table#0;n#td#0;n#tr#5;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#5;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#table#0;n#td#2;n#tr#5;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#table#0;n#td#0;n#tr#6;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#6;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#table#0;n#td#2;n#tr#6;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#table#0;n#td#0;n#tr#7;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#7;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#table#0;n#td#2;n#tr#7;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#table#0;n#td#0;n#tr#8;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#8;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#table#0;n#td#2;n#tr#8;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#table#0;n#td#0;n#tr#9;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#9;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#table#0;n#td#2;n#tr#9;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#table#0;n#td#0;n#tr#10;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#10;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#table#0;n#td#2;n#tr#10;n#table#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/md-plus-style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="824" column="63" selection-start="54515" selection-end="54515" vertical-scroll-proportion="0.1716698" vertical-offset="22065" max-vertical-offset="24057">
+        <state line="844" column="38" selection-start="55985" selection-end="55985" vertical-scroll-proportion="0.0" vertical-offset="22424" max-vertical-offset="24084">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/doc-req/new-doc-set.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="48" selection-start="906" selection-end="906" vertical-scroll-proportion="0.38681948" vertical-offset="0" max-vertical-offset="7911">
+          <folding>
+            <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#1;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#th#0;n#tr#2;n#table#0;n#div#1;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#div#0;n#td#1;n#tr#5;n#table#0;n#div#1;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#div#2;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
