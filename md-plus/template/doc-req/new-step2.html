@@ -8,9 +8,18 @@
     <link rel="stylesheet" href="../../css/theme1-ico.css" type="text/css">
     <link rel="stylesheet" href="../../css/theme1-style.css" type="text/css">
     <script  type="text/javascript" src="../../js/jquery.js"></script>
+    <script type="text/javascript">
+        $(function(){
+            $(".IntTip").hover(function(){
+                $(this).next(".ask-pop").show();
+            },function(){
+                $(this).next(".ask-pop").hide();
+            });
+        })
+    </script>
 </head>
 <body>
-<div class="md-plus-pop" style="width:574px;top:-200px;left:50%;margin-left:-287px;">
+<div class="md-plus-pop" style="width:574px;top:100px;left:50%;margin-left:-287px;">
     <div class="md-plus-pop-inner">
         <a href="#" class="md-delect"></a>
         <p class="font18 md-title clearfix">
@@ -22,7 +31,15 @@
             <table class="md-set-table md-set-table-mini marl20" width="100%">
               <tr>
                   <th width="50">申请人</th>
-                  <td>刘德华</td>
+                  <td>
+                      <div class="IntW clearfix" style="width:150px;">
+                        <em class="IntTip"></em>
+                        <div class="ask-pop font14">
+                            <p class="mart5">您可以在基础套餐上，叠加价格为99元/月的表单拓展包，包含5个自定义表单。</p>
+                        </div>
+                        <input type="text" class="md-int-lang">
+                    </div>
+                  </td>
                   <th>编号</th>
                   <td><span class="color-p">自动生成</span></td>
               </tr>

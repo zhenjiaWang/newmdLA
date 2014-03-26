@@ -852,7 +852,7 @@ li:hover .txt-ico-19,.txt-ico-19{background-position: 0 -252px;}
 .scrollTable table td.no-td{color:#d1d1d5;}
 .Tablebody .Tablebody .Tablebody td span{overflow:hidden;white-space:nowrap;text-overflow:ellipsis;display:inline-block;max-width:49px;}
 .IntW{padding-right:1px;position: relative;}
-.IntTip{position: absolute;line-height:0;font-size:0;width:10px;height:10px;right:2px;top:2px;padding:0!important;background:url("../images/int-tip.png");}
+.IntTip{position: absolute;line-height:0;font-size:0;width:20px;height:20px;z-index:10;right:-5px;top:-2px;padding:0!important;background:url("../images/int-tip.gif") no-repeat center center;}
 .IntW .ask-pop{top:-50px;right:-240px;}
 
 
