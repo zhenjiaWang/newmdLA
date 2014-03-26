@@ -26,7 +26,7 @@
       <file leaf-file-name="审批订购.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/template/doc-req/审批订购.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="73" column="67" selection-start="4175" selection-end="4175" vertical-scroll-proportion="-10.96875" vertical-offset="1620" max-vertical-offset="2943">
+            <state line="73" column="67" selection-start="4175" selection-end="4175" vertical-scroll-proportion="0.0" vertical-offset="1620" max-vertical-offset="2943">
               <folding />
             </state>
           </provider>
@@ -35,21 +35,34 @@
       <file leaf-file-name="md-plus-style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/md-plus-style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="844" column="38" selection-start="55985" selection-end="55985" vertical-scroll-proportion="0.0" vertical-offset="22424" max-vertical-offset="24084">
+            <state line="830" column="74" selection-start="54871" selection-end="54871" vertical-scroll-proportion="0.0" vertical-offset="22271" max-vertical-offset="24084">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="new-doc-set.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="new-step2.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template/doc-req/new-step2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="48" selection-start="872" selection-end="872" vertical-scroll-proportion="-12.65625" vertical-offset="0" max-vertical-offset="4320">
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="new-doc-set.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/template/doc-req/new-doc-set.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="48" selection-start="906" selection-end="906" vertical-scroll-proportion="0.38681948" vertical-offset="0" max-vertical-offset="7911">
+            <state line="18" column="13" selection-start="616" selection-end="947" vertical-scroll-proportion="-11.8125" vertical-offset="108" max-vertical-offset="8073">
               <folding>
                 <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#ul#1;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#th#0;n#tr#2;n#table#0;n#div#1;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#td#0;n#tr#2;n#table#0;n#div#1;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#ul#0;n#div#0;n#td#1;n#tr#5;n#table#0;n#div#1;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#ul#0;n#div#2;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -60,16 +73,16 @@
       <file leaf-file-name="填写加班记录.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/template/doc-req/填写加班记录.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="51" selection-start="1528" selection-end="1528" vertical-scroll-proportion="-10.96875" vertical-offset="405" max-vertical-offset="3780">
+            <state line="28" column="51" selection-start="1528" selection-end="1528" vertical-scroll-proportion="0.0" vertical-offset="756" max-vertical-offset="3780">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="统计表-按日列表.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="统计表-按日列表.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/template/doc-req/统计表-按日列表.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="566" column="82" selection-start="37799" selection-end="37799" vertical-scroll-proportion="0.0" vertical-offset="14931" max-vertical-offset="35856">
+            <state line="574" column="73" selection-start="38416" selection-end="38416" vertical-scroll-proportion="0.20630373" vertical-offset="15282" max-vertical-offset="35856">
               <folding />
             </state>
           </provider>
@@ -78,7 +91,7 @@
       <file leaf-file-name="global.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/global.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="74" column="22" selection-start="3007" selection-end="3017" vertical-scroll-proportion="0.0" vertical-offset="1809" max-vertical-offset="3321">
+            <state line="74" column="22" selection-start="3007" selection-end="3017" vertical-scroll-proportion="0.0" vertical-offset="1998" max-vertical-offset="3321">
               <folding />
             </state>
           </provider>
@@ -103,7 +116,6 @@
         <option value="$PROJECT_DIR$/print.html" />
         <option value="$PROJECT_DIR$/template/doc-req/22.html" />
         <option value="$PROJECT_DIR$/template/doc-req/print.html" />
-        <option value="$PROJECT_DIR$/template/doc-req/new-step2.html" />
         <option value="$PROJECT_DIR$/print2.html" />
         <option value="$PROJECT_DIR$/template/doc-req/print2.html" />
         <option value="$PROJECT_DIR$/template/doc-req/personal-set.html" />
@@ -143,8 +155,9 @@
         <option value="$PROJECT_DIR$/template/doc-req/统计表-按日列表.html" />
         <option value="$PROJECT_DIR$/template/doc-req/审批订购.html" />
         <option value="$USER_HOME$/Desktop/md-plus-style.css" />
-        <option value="$PROJECT_DIR$/css/md-plus-style.css" />
         <option value="$PROJECT_DIR$/template/doc-req/new-doc-set.html" />
+        <option value="$PROJECT_DIR$/css/md-plus-style.css" />
+        <option value="$PROJECT_DIR$/template/doc-req/new-step2.html" />
       </list>
     </option>
   </component>
@@ -257,14 +270,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -275,8 +280,12 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
-      <envs />
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
       <method />
     </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
@@ -284,6 +293,10 @@
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="CHROME" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
@@ -305,7 +318,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-8" width="1936" height="1216" extended-state="7" />
+    <frame x="-1928" y="-8" width="1936" height="1216" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -320,11 +333,11 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -445,11 +458,6 @@
         <state line="6" column="76" selection-start="420" selection-end="420" vertical-scroll-proportion="-5.0625" vertical-offset="0" max-vertical-offset="6453" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/template/doc-req/new-step2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="113" column="26" selection-start="5586" selection-end="5586" vertical-scroll-proportion="-87.75" vertical-offset="243" max-vertical-offset="3861" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/template/doc-req/doc-set.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="259" column="32" selection-start="12801" selection-end="12801" vertical-scroll-proportion="0.0" vertical-offset="6993" max-vertical-offset="9585" />
@@ -555,13 +563,6 @@
         <state line="21" column="28" selection-start="1104" selection-end="1104" vertical-scroll-proportion="-0.84375" vertical-offset="540" max-vertical-offset="11961" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/template/doc-req/统计表-按日列表.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="566" column="82" selection-start="37799" selection-end="37799" vertical-scroll-proportion="0.0" vertical-offset="14931" max-vertical-offset="35856">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/theme1-style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="40" column="0" selection-start="3480" selection-end="3587" vertical-scroll-proportion="0.0" vertical-offset="648" max-vertical-offset="2268">
@@ -569,23 +570,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/md-plus-style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="846" column="70" selection-start="56125" selection-end="56125" vertical-scroll-proportion="0.14409222" vertical-offset="22692" max-vertical-offset="24084">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/jscrollpane.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-2.102873" vertical-offset="2269" max-vertical-offset="3348">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/template/doc-req/填写加班记录.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="51" selection-start="1528" selection-end="1528" vertical-scroll-proportion="-10.96875" vertical-offset="405" max-vertical-offset="3780">
+        <state line="28" column="51" selection-start="1528" selection-end="1528" vertical-scroll-proportion="0.0" vertical-offset="756" max-vertical-offset="3780">
           <folding />
         </state>
       </provider>
@@ -599,29 +586,47 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/template/doc-req/审批订购.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="73" column="67" selection-start="4175" selection-end="4175" vertical-scroll-proportion="-10.96875" vertical-offset="1620" max-vertical-offset="2943">
+        <state line="73" column="67" selection-start="4175" selection-end="4175" vertical-scroll-proportion="0.0" vertical-offset="1620" max-vertical-offset="2943">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/md-plus-style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="844" column="38" selection-start="55985" selection-end="55985" vertical-scroll-proportion="0.0" vertical-offset="22424" max-vertical-offset="24084">
+        <state line="830" column="74" selection-start="54871" selection-end="54871" vertical-scroll-proportion="0.0" vertical-offset="22271" max-vertical-offset="24084">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/template/doc-req/new-doc-set.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="48" selection-start="906" selection-end="906" vertical-scroll-proportion="0.38681948" vertical-offset="0" max-vertical-offset="7911">
+        <state line="18" column="13" selection-start="616" selection-end="947" vertical-scroll-proportion="-11.8125" vertical-offset="108" max-vertical-offset="8073">
           <folding>
             <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#ul#1;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#th#0;n#tr#2;n#table#0;n#div#1;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#td#0;n#tr#2;n#table#0;n#div#1;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#ul#0;n#div#0;n#td#1;n#tr#5;n#table#0;n#div#1;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#ul#0;n#div#2;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/doc-req/new-step2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="48" selection-start="872" selection-end="872" vertical-scroll-proportion="-12.65625" vertical-offset="0" max-vertical-offset="4320">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/doc-req/统计表-按日列表.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="574" column="73" selection-start="38416" selection-end="38416" vertical-scroll-proportion="0.20630373" vertical-offset="15282" max-vertical-offset="35856">
+          <folding />
         </state>
       </provider>
     </entry>
