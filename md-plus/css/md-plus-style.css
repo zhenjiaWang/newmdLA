@@ -694,13 +694,15 @@ li:hover .txt-ico-19,.txt-ico-19{background-position: 0 -252px;}
 .md-process-table .process-div .pro-edit .md-mi-ico2{top:2px;margin-left:2px;}
 .process-table td{height:30px;}
 .process-table span{font-size:12px;}
-.process-table .color-p{margin-left:5px;display:inline-block;}
+.process-table .color-p{margin-left:5px;display:inline-block;position:relative;height:25px;}
 .process-table .color-p:hover{z-index:10;position: relative;}
 .process-table em.md-d-triangle{border-color:#b6b6b6 #fff #fff #fff;cursor: pointer;padding:0;}
-.process-table .md-make-pro{position: absolute;width:108px;display:none;border:1px solid #bdbdbd;background:#fff;border-radius:5px;padding:5px 0 2px 0;z-index:10;left:18px;top:20px;}
+.process-table .color-p em.md-d-triangle{position: absolute;top:10px;}
+.process-table .md-make-pro{position: absolute;width:108px;display:none;border:1px solid #bdbdbd;background:#fff;border-radius:5px;padding:5px 0 2px 0;z-index:10;left:0;top:20px;}
 .process-table .md-make-pro dd a{color:#2c2c2c;display:block;padding-left:5px;}
 .process-table .md-make-pro dd{line-height:22px;display:block;margin-bottom:3px;}
 .process-table .md-make-pro dd a:hover{color:#fff;text-decoration:none;}
+
 .overtime{border-bottom:1px dotted;width:550px;padding:5px 0 20px 0;position:relative;overflow:hidden;}
 .overtime table{margin-left:0px;}
 .overmake{position:relative;right:45px;bottom:2px;z-index:100;transition:0.2s;}
@@ -797,7 +799,8 @@ li:hover .txt-ico-19,.txt-ico-19{background-position: 0 -252px;}
 .scrollTable table.TheadTop .md-clander{width:200px;top:2px;}
 .scrollTable table.TheadTop .md-clander input{height:24px;line-height:24px;padding-right:0;width:155px;}
 .scrollTable table.TheadTop .md-clander a{color:#666;}
-.scrollTable table.TheadTop .headr-in span a{color:#666;margin-left:10px;}
+.headr-in{position:relative;}
+.scrollTable table.TheadTop .headr-in span a{color:#666;}
 .scrollTable table.TheadTop{background: none;}
 .scrollTable table.TheadTop th{border:0;text-align:left;text-indent:5px;border-bottom:1px dotted #999;}
 .scrollTable table.TheadTop .headr-in span a.current{color: #004f9e;font-weight:bold;}
@@ -829,7 +832,7 @@ li:hover .txt-ico-19,.txt-ico-19{background-position: 0 -252px;}
 .headr-in label{top: -2px;position: relative;}
 .headr-in label input{vertical-align: -2px;}
 .scrollTable table.TheadTop .headr-in span a{color:#666;padding:1px 10px;}
-.scrollTable table.TheadTop .headr-in span a.current{background:#999;color:#fff;padding:1px 10px;font-weight:normal;}
+.scrollTable table.TheadTop .headr-in span a.current,.scrollTable table.TheadTop .headr-in span a:hover{background:#E9E9E9;color:#333;font-weight:normal;}
 .data-ser .th-tip{border-left: 5px solid #fff;border-right: 5px solid #fff;right:5px;top:8px;}
 .data-ser .th-select:hover .th-tip{border-bottom:5px solid #999;border-top:0;right:5px;top:8px;}
 .data-ser .th-select li:hover{background:#ccc;}
@@ -855,16 +858,23 @@ li:hover .txt-ico-19,.txt-ico-19{background-position: 0 -252px;}
 .IntTip{position: absolute;line-height:0;font-size:0;width:20px;height:20px;z-index:10;right:-5px;top:-2px;padding:0!important;background:url("../images/int-tip.gif") no-repeat center center;}
 .IntW .ask-pop{top:-50px;right:-240px;}
 
+.btn-group1 .btn2{border:1px solid #ccc;line-height:20px;padding:4px 11px 2px;vertical-align:middle;color:#777777;display:inline-block;}
+.btn-group1 > .btn2:first-child{border-bottom-left-radius:4px;border-top-left-radius:4px;margin-left:0;border-right:0;}
+.btn-group1 > .btn2{border-radius:0;}
+.btn-group1 a:hover{text-decoration: none;}
+.btn-group1 > .btn2 + .btn2{margin-left:-4px;}
+.btn-group1 > .btn2:last-child{border-bottom-right-radius:4px;border-top-right-radius:4px;margin-left: -4px;border-left:0;}
+.headr-in label{position:relative;top:0px;}
 
-
-
-
-
-
-
-
-
-
+.md-doc-set-box .md-result-user{padding:10px;}
+.md-result-user .th-select{border:1px solid #ccc;width:100px;position: absolute;}
+.md-result-user .th-select .th-tip{position: absolute;top:7px;right: 5px;border-right-color:#fff;border-left-color:#fff;}
+.md-result-user .th-select span{display: block;height:20px;line-height: 20px;padding-left: 10px;}
+.md-result-user .th-select ul{min-width:50px;position: relative;border:0;left:0;}
+.md-result-user .th-select:hover ul{display:block;background:#fff;}
+.md-result-user .th-select ul li {background:#fff;}
+.md-result-user .th-select ul li:hover{background:#ccc;}
+.md-result-user table th{vertical-align: top;line-height:20px;}
 
 
 

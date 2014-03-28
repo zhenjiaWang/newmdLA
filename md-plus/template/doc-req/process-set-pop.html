@@ -23,6 +23,38 @@
         <div class="md-pop-main">
           <div class="md-doc-set-box mart10">
               <p class="marl10"><input type="text" class="md-int-mid int-name" value="流程名称"></p>
+              <!--审批条件 2014-3-28 begin-->
+              <div class="md-result-user" style="left:50%;top:100px;margin-left:-130px;">
+                  <p class="font14">审批步骤满足于：</p>
+                  <table class="nomar mart20">
+                      <tr>
+                          <th width="50">如果</th>
+                          <th>
+                              <div class="th-select">
+                                    <span>金额</span>
+                                    <em class="th-tip"></em>
+                                    <ul>
+                                        <li>金额</li>
+                                        <li>数量</li>
+                                    </ul>
+                              </div>
+                          </th>
+                      </tr>
+                      <tr>
+                          <th>达到</th>
+                          <th>
+                            <input type="text" class="md-int-short width-60 nomarl marr10">
+                            至
+                            <input type="text" class="md-int-short width-60 marl10">
+                          </th>
+                      </tr>
+                      <tr>
+                          <th></th>
+                          <th><a class="md-plus-btn color-white mart10" href="#">确 认<em class="md-plus-btn-r"></em></a></th>
+                      </tr>
+                  </table>
+              </div>
+              <!--审批条件 2014-3-28 over-->
               <!--详细流程begin-->
               <table class="process-table mart10 nomarl">
                   <tr>
@@ -30,9 +62,10 @@
                       <td>
                           <span class="color-p">
                               刘德华 <em class="md-d-triangle"></em>
-                              <dl class="md-make-pro">
+                              <dl class="md-make-pro" style="display: inline-block;">
                                   <dd><a href="#">替换审批人</a></dd>
                                   <dd><a href="#">删除这个审批步骤</a></dd>
+                                  <dd><a href="#">审批条件</a></dd>
                               </dl>
                           </span>
                       </td>
