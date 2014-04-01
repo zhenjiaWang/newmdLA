@@ -824,13 +824,15 @@ li:hover .txt-ico-19,.txt-ico-19{background-position: 0 -252px;}
 .data-bt select,.data-bt input{width:100px;height:24px;line-height: 24px;border:1px solid #ccc;vertical-align: middle;}
 .timecheck a{height:24px;line-height: 24px;}
 .scrollTable table.TheadTop .th-select ul{background:#fff;top:23px;}
-.scrollTable table.TheadTop .th-select:hover ul,.data-ser .th-select:hover ul{display: block;}
+.scrollTable table.TheadTop .th-select:hover ul,.data-ser .th-select:hover ul,.RightTop .th-select:hover ul{display: block;}
+.scrollTable table.TheadTop .th-select,.data-ser .th-select,.RightTop .th-select{border:1px solid #fff;border-bottom:0;}
 .scrollTable table.TheadTop .th-select:hover,.data-ser .th-select{border:1px solid #999;border-bottom:0;height:26px;line-height:26px;}
-.scrollTable table.TheadTop .th-select .th-tip{border-left: 5px solid #fff;border-right: 5px solid #fff;}
+.scrollTable table.TheadTop .th-select .th-tip,.RightTop .th-select .th-tip{border-left: 5px solid #fff;border-right: 5px solid #fff;}
 .scrollTable table.TheadTop .th-select:hover .th-tip{top:10px;}
 .scrollTable table.TheadTop .th-select ul li:hover{background:#ccc;}
 .clander-m select{line-height: 26px;display: inline-block;height:26px;width:160px;}
 .clander-m .th-select{width:160px;}
+
 .headr-in label{top: -2px;position: relative;}
 .headr-in label input{vertical-align: -2px;}
 .scrollTable table.TheadTop .headr-in span a{color:#666;padding:1px 10px;}
@@ -877,11 +879,12 @@ li:hover .txt-ico-19,.txt-ico-19{background-position: 0 -252px;}
 .md-result-user .th-select ul li {background:#fff;}
 .md-result-user .th-select ul li:hover{background:#ccc;}
 .md-result-user table th{vertical-align: top;line-height:20px;}
-
-
-
-
-
+.CanClick:hover{font-style: italic;cursor: pointer;}
+.RightTop{position: absolute;top:65px;right: 10px;}
+.RightTop .th-select{width:150px;padding:0 2px;}
+.RightTop .th-select ul{background: #fff;}
+.RightTop .th-select .th-tip{top:10px;right:5px;}
+.RightTop .th-select span{line-height: 25px;}
 
 
 
