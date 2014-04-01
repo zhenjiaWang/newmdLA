@@ -26,28 +26,35 @@
       <file leaf-file-name="审批订购.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/template/doc-req/审批订购.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="73" column="67" selection-start="4175" selection-end="4175" vertical-scroll-proportion="0.0" vertical-offset="1620" max-vertical-offset="2943">
+            <state line="73" column="67" selection-start="4175" selection-end="4175" vertical-scroll-proportion="-10.96875" vertical-offset="1620" max-vertical-offset="2943">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="md-plus-style.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="md-plus-style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/md-plus-style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="869" column="80" selection-start="57653" selection-end="57653" vertical-scroll-proportion="0.0" vertical-offset="23205" max-vertical-offset="24354">
+            <state line="699" column="78" selection-start="45227" selection-end="45227" vertical-scroll-proportion="0.38520652" vertical-offset="18472" max-vertical-offset="24408">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="process-set-pop.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="process-set-pop.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/template/doc-req/process-set-pop.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="55" column="20" selection-start="2731" selection-end="2731" vertical-scroll-proportion="0.48300537" vertical-offset="1215" max-vertical-offset="3483">
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state line="52" column="77" selection-start="2608" selection-end="2608" vertical-scroll-proportion="0.0" vertical-offset="1215" max-vertical-offset="3483">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="申请明细表.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template/doc-req/申请明细表.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="37" selection-start="1096" selection-end="1096" vertical-scroll-proportion="-17.71875" vertical-offset="0" max-vertical-offset="6939">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -55,7 +62,7 @@
       <file leaf-file-name="doc-req-index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/template/doc-req/doc-req-index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="26" selection-start="748" selection-end="748" vertical-scroll-proportion="0.0" vertical-offset="189" max-vertical-offset="6480">
+            <state line="15" column="26" selection-start="748" selection-end="748" vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="6480">
               <folding />
             </state>
           </provider>
@@ -73,8 +80,13 @@
       <file leaf-file-name="new-doc-set.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/template/doc-req/new-doc-set.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="44" selection-start="827" selection-end="827" vertical-scroll-proportion="0.0" vertical-offset="351" max-vertical-offset="8073">
-              <folding />
+            <state line="127" column="75" selection-start="5355" selection-end="5355" vertical-scroll-proportion="-16.03125" vertical-offset="1620" max-vertical-offset="6777">
+              <folding>
+                <element signature="tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#div#1;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#div#0;tag#div#2;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="n#style#0;n#div#0;n#td#0;n#tr#2;n#table#0;n#div#1;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -151,20 +163,21 @@
         <option value="$PROJECT_DIR$/css/theme6-style.css" />
         <option value="$PROJECT_DIR$/template/doc-req/doc-req-index.html" />
         <option value="$PROJECT_DIR$/template/doc-req/审批订购.html" />
-        <option value="$USER_HOME$/Desktop/md-plus-style.css" />
-        <option value="$PROJECT_DIR$/template/doc-req/new-doc-set.html" />
         <option value="$PROJECT_DIR$/template/doc-req/new-step2.html" />
         <option value="$PROJECT_DIR$/template/doc-req/统计表-按日列表.html" />
         <option value="$USER_HOME$/Desktop/308/index1.html" />
-        <option value="$PROJECT_DIR$/css/md-plus-style.css" />
         <option value="$PROJECT_DIR$/template/doc-req/process-set-pop.html" />
+        <option value="$PROJECT_DIR$/template/doc-req/new-doc-set.html" />
+        <option value="$USER_HOME$/Desktop/md-plus-style.css" />
+        <option value="$PROJECT_DIR$/css/md-plus-style.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1" />
-    <option name="width" value="1364" />
-    <option name="height" value="728" />
+    <option name="x" value="1358" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1216" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -228,20 +241,6 @@
               <option name="myItemId" value="md-plus" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="md-plus" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="md-plus" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -251,7 +250,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="xml.catalog" />
-    <property name="last_opened_file_path" value="E:/kuanpan/标致/东风标致308车型平台搭建/308" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../DBTVIntegration/06-web前端/04web" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="options.searchVisible" value="true" />
@@ -317,14 +316,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="0" width="1364" height="728" extended-state="1" />
+    <frame x="1358" y="-8" width="1936" height="1216" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17433235" sideWeight="0.6707153" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17395833" sideWeight="0.6707153" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32928476" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -332,19 +331,19 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32928476" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -352,9 +351,9 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17433235" sideWeight="0.6707153" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17395833" sideWeight="0.6707153" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
@@ -376,18 +375,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/global.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="74" column="22" selection-start="3007" selection-end="3017" vertical-scroll-proportion="0.0" vertical-offset="1998" max-vertical-offset="3321">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/doc-req/费用报销.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="29" selection-start="2706" selection-end="2706" vertical-scroll-proportion="0.0" vertical-offset="1200" max-vertical-offset="2400" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/template/doc-req/22.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="54" column="10" selection-start="1931" selection-end="2013" vertical-scroll-proportion="0.0" vertical-offset="1296" max-vertical-offset="3120" />
@@ -573,11 +560,6 @@
         <state line="20" column="84" selection-start="1406" selection-end="1406" vertical-scroll-proportion="0.5157593" vertical-offset="0" max-vertical-offset="7236" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/template/doc-req/申请明细表.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="91" column="39" selection-start="3805" selection-end="3805" vertical-scroll-proportion="-0.84375" vertical-offset="2430" max-vertical-offset="6939" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/template/doc-req/申请统计表-部门.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="28" selection-start="1104" selection-end="1104" vertical-scroll-proportion="-0.84375" vertical-offset="540" max-vertical-offset="11961" />
@@ -585,9 +567,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/template/doc-req/填写加班记录.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="51" selection-start="1528" selection-end="1528" vertical-scroll-proportion="0.0" vertical-offset="756" max-vertical-offset="3780">
-          <folding />
-        </state>
+        <state line="28" column="51" selection-start="1528" selection-end="1528" vertical-scroll-proportion="0.0" vertical-offset="756" max-vertical-offset="3780" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/global.css">
@@ -599,7 +579,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/template/doc-req/审批订购.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="73" column="67" selection-start="4175" selection-end="4175" vertical-scroll-proportion="0.0" vertical-offset="1620" max-vertical-offset="2943">
+        <state line="73" column="67" selection-start="4175" selection-end="4175" vertical-scroll-proportion="-10.96875" vertical-offset="1620" max-vertical-offset="2943">
           <folding />
         </state>
       </provider>
@@ -607,13 +587,6 @@
     <entry file="file://$PROJECT_DIR$/template/doc-req/new-step2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="48" selection-start="872" selection-end="872" vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="4320" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/doc-req/new-doc-set.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="44" selection-start="827" selection-end="827" vertical-scroll-proportion="0.0" vertical-offset="837" max-vertical-offset="8073">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/theme1-style.css">
@@ -637,19 +610,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/md-plus-style.css">
+    <entry file="file://$PROJECT_DIR$/template/doc-req/process-set-pop.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="869" column="80" selection-start="57653" selection-end="57653" vertical-scroll-proportion="0.0" vertical-offset="23205" max-vertical-offset="24354">
+        <state line="52" column="77" selection-start="2608" selection-end="2608" vertical-scroll-proportion="0.0" vertical-offset="1215" max-vertical-offset="3483">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/template/doc-req/process-set-pop.html">
+    <entry file="file://$PROJECT_DIR$/template/doc-req/费用报销.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="20" selection-start="2731" selection-end="2731" vertical-scroll-proportion="0.48300537" vertical-offset="1215" max-vertical-offset="3483">
+        <state line="53" column="54" selection-start="2854" selection-end="2854" vertical-scroll-proportion="0.103151865" vertical-offset="1323" max-vertical-offset="2700" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/doc-req/申请明细表.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="37" selection-start="1096" selection-end="1096" vertical-scroll-proportion="-17.71875" vertical-offset="0" max-vertical-offset="6939">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/doc-req/new-doc-set.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="127" column="75" selection-start="5355" selection-end="5355" vertical-scroll-proportion="-16.03125" vertical-offset="1620" max-vertical-offset="6777">
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#1;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#0;tag#div#2;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#td#0;n#tr#2;n#table#0;n#div#1;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/md-plus-style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="699" column="78" selection-start="45227" selection-end="45227" vertical-scroll-proportion="0.38520652" vertical-offset="18472" max-vertical-offset="24408">
+          <folding />
         </state>
       </provider>
     </entry>
