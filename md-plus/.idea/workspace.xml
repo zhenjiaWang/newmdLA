@@ -23,10 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="md-plus-style.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="md-plus-style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/md-plus-style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="886" column="0" selection-start="58899" selection-end="58899" vertical-scroll-proportion="0.0" vertical-offset="23072" max-vertical-offset="24489">
+            <state line="881" column="78" selection-start="58730" selection-end="58730" vertical-scroll-proportion="0.6707317" vertical-offset="23072" max-vertical-offset="24489">
               <folding />
             </state>
           </provider>
@@ -46,10 +46,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="统计表-按日列表.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="统计表-按日列表.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/template/doc-req/统计表-按日列表.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="44" selection-start="1645" selection-end="1645" vertical-scroll-proportion="0.6580707" vertical-offset="310" max-vertical-offset="35991">
+            <state line="37" column="44" selection-start="1645" selection-end="1645" vertical-scroll-proportion="-21.53125" vertical-offset="310" max-vertical-offset="35991">
               <folding />
             </state>
           </provider>
@@ -123,8 +123,8 @@
         <option value="$PROJECT_DIR$/template/doc-req/process-set-pop.html" />
         <option value="$PROJECT_DIR$/template/doc-req/new-doc-set.html" />
         <option value="$USER_HOME$/Desktop/md-plus-style.css" />
-        <option value="$PROJECT_DIR$/css/md-plus-style.css" />
         <option value="$PROJECT_DIR$/template/doc-req/统计表-按日列表.html" />
+        <option value="$PROJECT_DIR$/css/md-plus-style.css" />
       </list>
     </option>
   </component>
@@ -570,16 +570,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/md-plus-style.css">
+    <entry file="file://$PROJECT_DIR$/template/doc-req/统计表-按日列表.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="886" column="0" selection-start="58899" selection-end="58899" vertical-scroll-proportion="0.0" vertical-offset="23072" max-vertical-offset="24489">
+        <state line="37" column="44" selection-start="1645" selection-end="1645" vertical-scroll-proportion="-21.53125" vertical-offset="310" max-vertical-offset="35991">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/template/doc-req/统计表-按日列表.html">
+    <entry file="file://$PROJECT_DIR$/css/md-plus-style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="44" selection-start="1645" selection-end="1645" vertical-scroll-proportion="0.6580707" vertical-offset="310" max-vertical-offset="35991">
+        <state line="881" column="78" selection-start="58730" selection-end="58730" vertical-scroll-proportion="0.6707317" vertical-offset="23072" max-vertical-offset="24489">
           <folding />
         </state>
       </provider>

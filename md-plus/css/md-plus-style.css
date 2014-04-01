@@ -879,7 +879,7 @@ li:hover .txt-ico-19,.txt-ico-19{background-position: 0 -252px;}
 .md-result-user .th-select ul li {background:#fff;}
 .md-result-user .th-select ul li:hover{background:#ccc;}
 .md-result-user table th{vertical-align: top;line-height:20px;}
-.CanClick:hover{font-style: italic;cursor: pointer;}
+.CanClick:hover{font-style: italic;cursor: pointer;text-decoration: underline;}
 .RightTop{position: absolute;top:65px;right: 10px;}
 .RightTop .th-select{width:150px;padding:0 2px;}
 .RightTop .th-select ul{background: #fff;}
