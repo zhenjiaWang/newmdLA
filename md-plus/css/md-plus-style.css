@@ -853,7 +853,7 @@ li:hover .txt-ico-19,.txt-ico-19{background-position: 0 -252px;}
 .InDiv{width:570px;position: relative;overflow: hidden;height:36px;}
 .InMain{width:1550px;margin-left:-1px;height:36px;position: absolute;}
 .InMain table.Thead{width:1550px;position: relative;}
-.scrollTable-y{width:940px;height:344px;overflow:hidden;overflow-y:scroll;}
+.scrollTable-y{width:940px;height:344px;overflow:hidden;overflow-y:auto;}
 .scrollTable table th{height:34px;}
 .scrollTable-y tr:hover,.th-select ul li.current{background:#ece6e6;}
 .scrollTable table td.no-td{color:#d1d1d5;}
