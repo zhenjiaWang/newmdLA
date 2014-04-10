@@ -26,7 +26,7 @@
       <file leaf-file-name="md-plus-style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/md-plus-style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="108" column="19" selection-start="5194" selection-end="5194" vertical-scroll-proportion="0.0" vertical-offset="2822" max-vertical-offset="24489">
+            <state line="285" column="25" selection-start="15480" selection-end="15480" vertical-scroll-proportion="0.0" vertical-offset="7205" max-vertical-offset="24489">
               <folding />
             </state>
           </provider>
@@ -41,10 +41,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="选择导出列.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="选择导出列.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/template/doc-req/选择导出列.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="7" selection-start="2112" selection-end="2112" vertical-scroll-proportion="0.94842404" vertical-offset="33" max-vertical-offset="1188">
+            <state line="38" column="7" selection-start="2112" selection-end="2112" vertical-scroll-proportion="-31.03125" vertical-offset="33" max-vertical-offset="1188">
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -52,11 +52,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="new-doc-set.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="new-doc-set.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/template/doc-req/new-doc-set.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="127" column="75" selection-start="5355" selection-end="5355" vertical-scroll-proportion="0.0" vertical-offset="3429" max-vertical-offset="8073">
-              <folding />
+            <state line="238" column="116" selection-start="10055" selection-end="10055" vertical-scroll-proportion="0.35005015" vertical-offset="6077" max-vertical-offset="9747">
+              <folding>
+                <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#ul#1;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#th#0;n#tr#2;n#table#0;n#div#1;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#td#0;n#tr#2;n#table#0;n#div#1;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#td#0;n#tr#2;n#table#0;n#div#1;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#ul#0;n#div#0;n#td#1;n#tr#5;n#table#0;n#div#1;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#ul#0;n#div#2;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#div#4;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -135,11 +145,11 @@
         <option value="$PROJECT_DIR$/template/doc-req/new-step2.html" />
         <option value="$USER_HOME$/Desktop/308/index1.html" />
         <option value="$PROJECT_DIR$/template/doc-req/process-set-pop.html" />
-        <option value="$PROJECT_DIR$/template/doc-req/new-doc-set.html" />
         <option value="$USER_HOME$/Desktop/md-plus-style.css" />
         <option value="$PROJECT_DIR$/template/doc-req/统计表-按日列表.html" />
-        <option value="$PROJECT_DIR$/css/md-plus-style.css" />
         <option value="$PROJECT_DIR$/template/doc-req/选择导出列.html" />
+        <option value="$PROJECT_DIR$/css/md-plus-style.css" />
+        <option value="$PROJECT_DIR$/template/doc-req/new-doc-set.html" />
       </list>
     </option>
   </component>
@@ -558,13 +568,6 @@
         <state line="21" column="37" selection-start="1096" selection-end="1096" vertical-scroll-proportion="-17.71875" vertical-offset="0" max-vertical-offset="6939" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/template/doc-req/new-doc-set.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="127" column="75" selection-start="5355" selection-end="5355" vertical-scroll-proportion="0.0" vertical-offset="3429" max-vertical-offset="8073">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/template/doc-req/统计表-按日列表.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="37" column="44" selection-start="1645" selection-end="1645" vertical-scroll-proportion="0.0" vertical-offset="310" max-vertical-offset="35991">
@@ -581,16 +584,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/md-plus-style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="108" column="19" selection-start="5194" selection-end="5194" vertical-scroll-proportion="0.0" vertical-offset="2822" max-vertical-offset="24489">
+        <state line="285" column="25" selection-start="15480" selection-end="15480" vertical-scroll-proportion="0.0" vertical-offset="7205" max-vertical-offset="24489">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/template/doc-req/选择导出列.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="7" selection-start="2112" selection-end="2112" vertical-scroll-proportion="0.94842404" vertical-offset="33" max-vertical-offset="1188">
+        <state line="38" column="7" selection-start="2112" selection-end="2112" vertical-scroll-proportion="-31.03125" vertical-offset="33" max-vertical-offset="1188">
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/doc-req/new-doc-set.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="238" column="116" selection-start="10055" selection-end="10055" vertical-scroll-proportion="0.35005015" vertical-offset="6077" max-vertical-offset="9747">
+          <folding>
+            <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#1;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#th#0;n#tr#2;n#table#0;n#div#1;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#td#0;n#tr#2;n#table#0;n#div#1;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#td#0;n#tr#2;n#table#0;n#div#1;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#div#0;n#td#1;n#tr#5;n#table#0;n#div#1;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#div#2;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#div#4;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>

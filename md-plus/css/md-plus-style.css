@@ -108,7 +108,7 @@ a.btn-ico:hover{text-decoration: none!important;}
 .md-p-userinfo{position: absolute;top:-20px;right:15px;}
 .md-p-userinfo a{margin:0 3px;display: inline-block;}
 .md-p-userinfo a:hover{text-decoration:underline;}
-.md-plus-main{margin:0 auto;position: relative;padding-bottom: 10px;}
+.md-plus-main{margin:0 auto;width:760px;position: relative;padding-bottom: 10px;}
 .md-plus-main-inner{width:690px;margin:0 auto;padding:10px;min-height:500px;}
 .md-doc-title{position:relative;line-height:50px;}
 .md-doc-title a.floatleft{position: absolute;left:0;*line-height:20px;}
@@ -274,7 +274,7 @@ textarea{width: auto;}
 }
 .has-success,.has-warning,.has-error{position:relative;}
 .has-general label.control-label,.has-success label.control-label,.has-warning label.control-label,.has-error label.control-label
-{position: absolute;width:100%;top:6px;left:10px;z-index: 2;background-color: #fff;display: none;}
+{position: absolute;width:90%;top:6px;left:10px;z-index: 2;background-color: #fff;display: none;}
 .has-success label.control-label{color:#468847;}
 .has-warning label.control-label{color:#c09853;}
 .has-error label.control-label{color:#b94a48;}
