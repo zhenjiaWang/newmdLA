@@ -108,7 +108,7 @@ a.btn-ico:hover{text-decoration: none!important;}
 .md-p-userinfo{position: absolute;top:-20px;right:15px;}
 .md-p-userinfo a{margin:0 3px;display: inline-block;}
 .md-p-userinfo a:hover{text-decoration:underline;}
-.md-plus-main{margin:0 auto;width:730px;position: relative;padding-bottom: 10px;}
+.md-plus-main{margin:0 auto;position: relative;padding-bottom: 10px;}
 .md-plus-main-inner{width:690px;margin:0 auto;padding:10px;min-height:500px;}
 .md-doc-title{position:relative;line-height:50px;}
 .md-doc-title a.floatleft{position: absolute;left:0;*line-height:20px;}
