@@ -537,7 +537,7 @@ a.btn-return{background-color: #626262;}
 .md-creation-in{border-style:solid;border-width:1px;min-height:440px;padding-bottom:10px;background:#fff!important;;}
 .md-creation-in .md-doc-set-box{margin:0 10px;position: relative;}
 .md-creation-in .md-doc-set-box table.md-set-table tr th{padding:0 0 0 10px;width: 90px;}
-.md-creation-in .md-doc-set-box table.md-set-table tr td{width:242px;position:relative;padding-left: 10px;}
+.md-creation-in .md-doc-set-box table.md-set-table tr td{width:242px;position:relative;padding-left:5px;}
 span.md-make-btns{background: #fff;padding:0 5px;border-style: solid;border-width:0 0 1px 1px;height:32px;}
 span.md-make-btns a{margin:2px 4px;float: none;display:inline-block;top:5px;right:0;}
 .md-creation-in .md-doc-set-box table.md-set-table tr td span.md-make-btns{position:absolute;right:0;top:-34px;}

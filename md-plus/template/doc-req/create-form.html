@@ -130,7 +130,7 @@
                                        </table>
                                    </div>
                                    <!--详细属性设置框begin-->
-                                   <div class="md-controls-pop md-value-set" style="display:block;">
+                                   <div class="md-controls-pop md-value-set" style="display:none;">
                                        <div class="md-controls-pop-in">
                                            <a href="#" class="md-delect" title="关闭"></a>
                                            <div class="clearfix h2 font14">
@@ -352,24 +352,146 @@
                                            </tr>
                                        </table>
                                    </div>
-                                   <!--上传附件的beign-->
+                                   <!--2014-4-11 begin-->
                                    <div class="md-doc-set-box">
                                        <table class="md-set-table" width="100%">
-                                           <tr>
-                                               <th>上传附件</th>
-                                               <td colspan="3">
-                                                  <div class="td-inner  clearfix">
-                                                     <textarea cols="40" rows="2" class="font12 floatleft"></textarea>
-                                                     <div class="md-mini-ico clearfix aligncenter" style="height:auto;">
-                                                        <a href="#" class="floatleft md-psot-ico"><img src="../../images/Post_doc27.png"/><br><em>上传文档</em></a>
-                                                        <a href="#" class="floatleft md-psot-ico"><img src="../../images/Post_pic27.png"/><br><em>上传图片</em></a>
-                                                     </div>
-                                                  </div>
-                                               </td>
-                                           </tr>
+                                           <thead>
+                                                <tr>
+                                                   <td colspan="5">
+                                                       <div class="td-inner clearfix aligncenter">
+                                                           <strong class="font14">家庭主要成员</strong>
+                                                            <!--编辑删除btn begin-->
+                                                            <span class="floatright md-make-btns">
+                                                                <a href="#" class="md-mi-ico2 md-mi-edit" title="编辑"></a>
+                                                                <a href="#" class="md-mi-ico2 mart5 md-mi-delete" title="删除"></a>
+                                                                <a title="增加一列" class="md-add-ico" href="#"></a>
+                                                                <a title="删除一列" class="md-minus-ico" href="#"></a>
+                                                                <a href="#" class="md-mi-ico2 md-mi-up" title="上移"></a>
+                                                                <a href="#" class="md-mi-ico2 md-mi-down" title="下移"></a>
+                                                            </span>
+                                                            <!--编辑删除btn over-->
+                                                        </div>
+                                                   </td>
+                                                </tr>
+                                           </thead>
+                                           <tbody>
+                                                <tr>
+                                                    <td>称谓</td>
+                                                    <td>姓名</td>
+                                                    <td>工作单位</td>
+                                                    <td>职位</td>
+                                                    <td>联系电话</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <div class="td-inner clearfix" style="width:65px;"><!--控制td-inner的宽度比下面的input的width + 5px;控制label的width是 input的width - 10px -->
+                                                            <div class="has-general has-error">
+                                                                <input type="text" class="md-int-short width-60 nomarl">
+                                                            </div>
+                                                        </div>
+                                                    </td>
+                                                    <td>
+                                                        <div class="td-inner clearfix">
+                                                            <div class="has-general">
+                                                                <input type="text" class="md-int-short width-60 nomarl">
+                                                            </div>
+                                                        </div>
+                                                    </td>
+                                                    <td>
+                                                        <div class="td-inner clearfix">
+                                                            <div class="has-general">
+                                                                <input type="text" class="md-int-short nomarl">
+                                                            </div>
+                                                        </div>
+                                                    </td>
+                                                    <td>
+                                                        <div class="td-inner clearfix">
+                                                            <div class="has-general">
+                                                                <input type="text" class="md-int-short nomarl">
+                                                            </div>
+                                                        </div>
+                                                    </td>
+                                                    <td>
+                                                        <div class="td-inner clearfix">
+                                                            <div class="has-general">
+                                                                <input type="text" class="md-int-short nomarl">
+                                                            </div>
+                                                        </div>
+                                                    </td>
+                                                </tr>
+                                            </tbody>
                                        </table>
                                    </div>
-                                   <!--上传附件的over-->
+                                   <div class="md-doc-set-box">
+                                       <table class="md-set-table md-process-table assess assessin" width="100%">
+                                           <thead>
+                                                <tr>
+                                                    <td width="70">表单</td>
+                                                    <td width="300" colspan="2">
+                                                        <div class="td-inner clearfix aligncenter">
+                                                           <strong class="font14">预置流程</strong>
+                                                            <!--编辑删除btn begin-->
+                                                            <span class="floatright md-make-btns">
+                                                                <a href="#" class="md-mi-ico2 md-mi-edit" title="编辑"></a>
+                                                                <a href="#" class="md-mi-ico2 mart5 md-mi-delete" title="删除"></a>
+                                                                <a title="增加一列" class="md-add-ico" href="#"></a>
+                                                                <a title="删除一列" class="md-minus-ico" href="#"></a>
+                                                                <a href="#" class="md-mi-ico2 md-mi-up" title="上移"></a>
+                                                                <a href="#" class="md-mi-ico2 md-mi-down" title="下移"></a>
+                                                            </span>
+                                                            <!--编辑删除btn over-->
+                                                            <span class="floatright inlineblock width-60 aligncenter">得分</span>
+                                                        </div>
+                                                    </td>
+                                                </tr>
+                                           </thead>
+                                           <tbody>
+                                                <tr>
+                                                    <td><span class="txt_hidden">责任心</span></td>
+                                                    <td>
+                                                        <div class="process-div">
+                                                            <p class="txt_hidden">1、对自身防伪职责和目标，勇于承担责任</p>
+                                                        </div>
+                                                        <div class="process-div">
+                                                            <p class="txt_hidden">2、勇于承担责任对自身防伪职责和目标，勇于承担责任</p>
+                                                        </div>
+                                                    </td>
+                                                    <td><input type="text" class="md-int-short width-60 nomarl"></td>
+                                                </tr>
+                                                <tr>
+                                                    <td>工作效率</td>
+                                                    <td>
+                                                        <div class="process-div">
+                                                            <p class="txt_hidden">1、对自身防伪职责和目标，勇于承担责任</p>
+                                                        </div>
+                                                        <div class="process-div">
+                                                            <p class="txt_hidden">2、勇于承担责任对自身防伪职责和目标，勇于承担责任</p>
+                                                        </div>
+                                                    </td>
+                                                    <td>10分</td>
+                                                </tr>
+                                           </tbody>
+                                       </table>
+                                   </div>
+                                   <!--2014-4-11 over-->
+                                   <!--&lt;!&ndash;上传附件的beign&ndash;&gt;-->
+                                   <!--<div class="md-doc-set-box">-->
+                                       <!--<table class="md-set-table" width="100%">-->
+                                           <!--<tr>-->
+                                               <!--<th>上传附件</th>-->
+                                               <!--<td colspan="3">-->
+                                                  <!--<div class="td-inner  clearfix">-->
+                                                     <!--<textarea cols="40" rows="2" class="font12 floatleft"></textarea>-->
+                                                     <!--<div class="md-mini-ico clearfix aligncenter" style="height:auto;">-->
+                                                        <!--<a href="#" class="floatleft md-psot-ico"><img src="../../images/Post_doc27.png"/><br><em>上传文档</em></a>-->
+                                                        <!--<a href="#" class="floatleft md-psot-ico"><img src="../../images/Post_pic27.png"/><br><em>上传图片</em></a>-->
+                                                     <!--</div>-->
+                                                  <!--</div>-->
+                                               <!--</td>-->
+                                           <!--</tr>-->
+                                       <!--</table>-->
+                                   <!--</div>-->
+                                   <!--&lt;!&ndash;上传附件的over&ndash;&gt;-->
                                </div>
                                <p class="alignright Noprint mart10">
                                  <button class="md-plus-btn color-white">保  存<em class="md-plus-btn-r"></em></button>
@@ -393,57 +515,5 @@
   </div>
   <!--footer over-->
 </div>
-<!--<script type="text/javascript" src="../../js/jquery.js"></script>-->
-    <!--<script type="text/javascript">-->
-
-    <!--var MDobj = {-->
-    <!--paras:{ access_token:""},-->
-    <!--baseUrl:"https://api.mingdao.com/",-->
-    <!--//获取明道头部的html-->
-    <!--GetHeader:function (callback) {-->
-    <!--var ajaxUrl = MDobj.baseUrl + "md/header.aspx?jsoncallback=?";-->
-
-    <!--$.getJSON(ajaxUrl,-->
-    <!--{ u_key:MDobj.paras.access_token },-->
-    <!--function (data) {-->
-    <!--callback(data);-->
-    <!--});-->
-
-    <!--},-->
-
-    <!--//获取明道左侧菜单栏html-->
-    <!--GetLeftMenu:function (callback) {-->
-    <!--var ajaxUrl = MDobj.baseUrl + "md/leftmenu.aspx?jsoncallback=?";-->
-    <!--$.getJSON(ajaxUrl,-->
-    <!--{ u_key:MDobj.paras.access_token },-->
-    <!--function (data) {-->
-    <!--callback(data);-->
-    <!--});-->
-    <!--},-->
-
-    <!--//获取明道底部html-->
-    <!--GetFooter:function (callback) {-->
-    <!--var ajaxUrl = MDobj.baseUrl + "md/footer.aspx?jsoncallback=?";-->
-    <!--$.getJSON(ajaxUrl,-->
-    <!--function (data) {-->
-    <!--callback(data);-->
-    <!--});-->
-    <!--}-->
-
-    <!--}-->
-
-    <!--$(document).ready(function () {-->
-    <!--MDobj.paras.access_token = ""; //访问临牌access_token-->
-    <!--MDobj.GetHeader(function (data) {-->
-    <!--$("#header").html(data.result);-->
-    <!--});-->
-    <!--MDobj.GetLeftMenu(function (data) {-->
-    <!--$("#leftmenu").html(data.result);-->
-    <!--});-->
-    <!--MDobj.GetFooter(function (data) {-->
-    <!--$("#footer").html(data.result);-->
-    <!--});-->
-    <!--});-->
-    <!--</script>-->
 </body>
 </html>
