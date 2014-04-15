@@ -565,18 +565,19 @@ a.md-add-row:hover{text-decoration: none;outline:1px dotted #D4E5F6}
 .md-creation-in td .add-controls{display:none;}
 .md-controls-pop-in:hover a.md-delect,.md-creation-in td:hover .add-controls{display:inline-block;}
 .md-value-set{right:5px;}
-.md-value-set,.md-value-set .md-controls-pop-in{width:260px;}
+.md-value-set,.md-value-set .md-controls-pop-in{width:380px;}
 .md-value-set .md-controls-pop-in{border:1px solid #999;}
 .md-value-set .md-controls-pop-in .h2{height:30px;line-height:30px;color:#fff;position:relative;}
 .md-value-set .md-controls-pop-in .h2 i.icon-all{display:inline-block;width:23px;height:21px;background:url("../images/all-ico.png");cursor: pointer;}
 .md-value-set .ul-controls-pop{position: absolute;right:0px;width:224px;border:1px solid #999;padding:0 1px;z-index: 999;background: #fff;font-size: 12px;overflow: hidden;}
 .md-value-set .ul-controls-pop li{margin:0;width:105px;}
-.md-value-set .md-controls-pop-in table td,.md-value-set .md-controls-pop-in table th{border:0;height:30px;}
+.md-value-set .md-controls-pop-in table td,.md-value-set .md-controls-pop-in table th{border:0;height:40px;}
 .md-value-set .md-controls-pop-in table td span{line-height:30px;padding-left:5px;}
-.md-value-set .md-controls-pop-in table th{font-size:14px;padding-left:5px;}
+.md-value-set .md-controls-pop-in table th,.md-value-set .md-controls-pop-in table td{font-size:14px;padding-left:10px;}
+.md-value-set .md-controls-pop-in table td table{margin-left: -5px;}
 .md-value-set .md-controls-pop-in .md-int-auto{width:245px;}
-.md-value-set .md-add-ico{right:8px;}
-.md-value-set .md-minus-ico{right:10px;}
+.md-value-set .md-add-ico{}
+.md-value-set .md-minus-ico{right:-25px;}
 .md-value-set table p{padding:2px 0;}
 .md-value-set table p input{vertical-align:10px;}
 .md-title-ico{position: relative;}
