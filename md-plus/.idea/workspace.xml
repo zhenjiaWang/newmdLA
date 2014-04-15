@@ -23,10 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="md-plus-style.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="md-plus-style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/md-plus-style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="576" column="64" selection-start="36735" selection-end="36735" vertical-scroll-proportion="-23.6" vertical-offset="14962" max-vertical-offset="24516">
+            <state line="576" column="0" selection-start="36704" selection-end="36704" vertical-scroll-proportion="0.4409222" vertical-offset="15093" max-vertical-offset="24516">
               <folding />
             </state>
           </provider>
@@ -59,10 +59,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="create-form.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="create-form.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/template/doc-req/create-form.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="237" column="0" selection-start="19570" selection-end="19570" vertical-scroll-proportion="0.76790833" vertical-offset="2085" max-vertical-offset="5157">
+            <state line="223" column="51" selection-start="18690" selection-end="18690" vertical-scroll-proportion="-13.3125" vertical-offset="2085" max-vertical-offset="5157">
               <folding>
                 <element signature="tag#h2#0;tag#div#1;tag#div#0;tag#div#0;tag#div#1;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
                 <element signature="n#style#0;n#div#0;n#span#0;n#h2#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -184,13 +184,13 @@
         <option value="$PROJECT_DIR$/template/doc-req/审批订购.html" />
         <option value="$USER_HOME$/Desktop/308/index1.html" />
         <option value="$PROJECT_DIR$/template/doc-req/process-set-pop.html" />
-        <option value="$USER_HOME$/Desktop/md-plus-style.css" />
         <option value="$PROJECT_DIR$/template/doc-req/统计表-按日列表.html" />
         <option value="$PROJECT_DIR$/template/doc-req/选择导出列.html" />
         <option value="$PROJECT_DIR$/template/doc-req/new-doc-set.html" />
-        <option value="$PROJECT_DIR$/css/md-plus-style.css" />
         <option value="$PROJECT_DIR$/template/doc-req/new-step2.html" />
         <option value="$PROJECT_DIR$/template/doc-req/create-form.html" />
+        <option value="$USER_HOME$/Desktop/md-plus-style.css" />
+        <option value="$PROJECT_DIR$/css/md-plus-style.css" />
       </list>
     </option>
   </component>
@@ -337,7 +337,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1358" y="-8" width="1936" height="1216" extended-state="6" />
+    <frame x="1358" y="-8" width="1936" height="1216" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -377,11 +377,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/template/doc-req/22.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="10" selection-start="1931" selection-end="2013" vertical-scroll-proportion="0.0" vertical-offset="1296" max-vertical-offset="3120" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/template/doc-req/print.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="3437" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="2736" />
@@ -627,13 +622,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/md-plus-style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="576" column="64" selection-start="36735" selection-end="36735" vertical-scroll-proportion="-23.6" vertical-offset="14962" max-vertical-offset="24516">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/template/doc-req/new-step2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="80" column="46" selection-start="3678" selection-end="3678" vertical-scroll-proportion="-5.6829267" vertical-offset="911" max-vertical-offset="3969">
@@ -657,7 +645,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/template/doc-req/create-form.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="237" column="0" selection-start="19570" selection-end="19570" vertical-scroll-proportion="0.76790833" vertical-offset="2085" max-vertical-offset="5157">
+        <state line="223" column="51" selection-start="18690" selection-end="18690" vertical-scroll-proportion="-13.3125" vertical-offset="2085" max-vertical-offset="5157">
           <folding>
             <element signature="tag#h2#0;tag#div#1;tag#div#0;tag#div#0;tag#div#1;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="n#style#0;n#div#0;n#span#0;n#h2#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -680,6 +668,13 @@
             <element signature="n#style#0;n#div#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#div#7;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="tag#div#8;tag#div#0;tag#div#0;tag#div#1;tag#div#1;tag#div#0;tag#div#0;tag#div#1;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/md-plus-style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="576" column="0" selection-start="36704" selection-end="36704" vertical-scroll-proportion="0.4409222" vertical-offset="15093" max-vertical-offset="24516">
+          <folding />
         </state>
       </provider>
     </entry>
