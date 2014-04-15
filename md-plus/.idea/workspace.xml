@@ -26,16 +26,7 @@
       <file leaf-file-name="md-plus-style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/md-plus-style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="572" column="56" selection-start="36390" selection-end="36390" vertical-scroll-proportion="0.48895293" vertical-offset="14935" max-vertical-offset="24516">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="md-plus-style.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Desktop/md-plus-style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="337" column="33" selection-start="18971" selection-end="18971" vertical-scroll-proportion="-7.4" vertical-offset="8914" max-vertical-offset="24516">
+            <state line="566" column="25" selection-start="35791" selection-end="35791" vertical-scroll-proportion="0.34896812" vertical-offset="14910" max-vertical-offset="24516">
               <folding />
             </state>
           </provider>
@@ -679,7 +670,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/md-plus-style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="572" column="56" selection-start="36390" selection-end="36390" vertical-scroll-proportion="0.48895293" vertical-offset="14935" max-vertical-offset="24516">
+        <state line="566" column="25" selection-start="35791" selection-end="35791" vertical-scroll-proportion="0.34896812" vertical-offset="14910" max-vertical-offset="24516">
           <folding />
         </state>
       </provider>
