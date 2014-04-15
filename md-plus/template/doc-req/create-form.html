@@ -81,7 +81,7 @@
                                                <th class="mdcurrent-th"></th>
                                                <td class="mdcurrent-td">
                                                    <!--控件弹出begin-->
-                                                   <div style="display:none" class="md-controls-pop">
+                                                   <div style="display:block;" class="md-controls-pop">
                                                       <div class="md-controls-pop-in">
                                                           <a href="#" class="md-delect" title="关闭"></a>
                                                           <ul class="ul-controls-pop clearfix">
@@ -130,7 +130,7 @@
                                        </table>
                                    </div>
                                    <!--详细属性设置框begin-->
-                                   <div class="md-controls-pop md-value-set" style="display:none;">
+                                   <div class="md-controls-pop md-value-set" style="display:block;">
                                        <div class="md-controls-pop-in">
                                            <a href="#" class="md-delect" title="关闭"></a>
                                            <div class="clearfix h2 font14">
@@ -138,7 +138,7 @@
                                                <span>单行文本输入</span>
                                                <div class="floatright marr15 mart5">
                                                    <i class="icon-all"></i>
-                                                   <ul class="ul-controls-pop clearfix" style="display:block;">
+                                                   <ul class="ul-controls-pop clearfix" style="display:none;">
                                                       <li><a href="#"><i class="md-txt-ico txt-ico-1"></i>单行文本输入</a></li>
                                                       <li><a href="#"><i class="md-txt-ico txt-ico-2"></i>数字输入</a></li>
                                                       <li><a href="#"><i class="md-txt-ico txt-ico-3"></i>日期选择</a></li>
@@ -163,15 +163,19 @@
                                                </div>
                                            </div>
                                            <!--设置begin-->
-                                           <table width="260">
-                                               <tr><th>标题</th></tr>
-                                               <tr><td><input type="text" class="md-int-auto" /></td></tr>
-                                               <tr><th>标题2</th></tr>
-                                               <tr><td><input type="text" class="md-int-auto" /></td></tr>
-                                               <tr><th>开会时间</th></tr>
+                                           <table width="370">
                                                <tr>
+                                                   <th width="100">标题</th>
+                                                   <td><input type="text" class="md-int-auto" /></td>
+                                               </tr>
+                                               <tr>
+                                                   <th>标题2</th>
+                                                   <td><input type="text" class="md-int-auto" /></td>
+                                               </tr>
+                                               <tr><th colspan="2">开会时间</th></tr>
+                                               <tr>
+                                                   <th>开始时间</th>
                                                    <td>
-                                                       <span class="floatleft">开始时间</span>
                                                        <div class="md-clander floatleft">
                                                            <input type="text" class="md-int-short">
                                                            <a href="#" class="md-cl-ico"></a>
@@ -179,58 +183,66 @@
                                                     </td>
                                                </tr>
                                                <tr>
+                                                   <th>结束时间</th>
                                                    <td>
-                                                       <span class="floatleft">结束时间</span>
                                                        <div class="md-clander floatleft">
                                                            <input type="text" class="md-int-short">
                                                            <a href="#" class="md-cl-ico"></a>
                                                         </div>
                                                     </td>
                                                </tr>
-                                               <tr><th>多行文本输入</th></tr>
                                                <tr>
+                                                   <th>多行文本输入</th>
                                                    <td><textarea cols="30" rows="4" class="font12"></textarea></td>
                                                </tr>
-                                               <tr><th>时间格式</th></tr>
                                                <tr>
+                                                   <th>时间格式</th>
                                                    <td>
                                                        <select class="ma-select-f width-60"></select>
                                                        <span>：</span>
                                                        <select class="ma-select-f width-60"></select>
                                                    </td>
                                                </tr>
-                                               <tr><th>多项选择</th></tr>
+                                               <tr><th colspan="2">多项选择</th></tr>
                                                <tr>
-                                                   <td>
-                                                       <p>
-                                                           <input type="checkbox"/>
-                                                           <input type="text" class="md-int-short" />
-                                                           <a title="添加一条" class="md-add-ico" href="#"></a>
-                                                           <a title="删除此条" class="md-minus-ico" href="#"></a>
+                                                   <td colspan="2">
+                                                       <p class="clearfix">
+                                                           <input type="checkbox" class="mart5 floatleft"/>
+                                                           <input type="text" class="md-int-short floatleft" />
+                                                           <a title="添加一条" class="md-add-ico floatleft" href="#"></a>
+                                                           <a title="删除此条" class="md-minus-ico floatleft" href="#"></a>
                                                        </p>
-                                                       <p>
-                                                           <input type="checkbox"/>
-                                                           <input type="text" class="md-int-short" />
-                                                           <a title="添加一条" class="md-add-ico" href="#"></a>
-                                                           <a title="删除此条" class="md-minus-ico" href="#"></a>
+                                                       <p class="clearfix">
+                                                           <input type="checkbox" class="mart5 floatleft"/>
+                                                           <input type="text" class="md-int-short floatleft" />
+                                                           <a title="添加一条" class="md-add-ico floatleft" href="#"></a>
+                                                           <a title="删除此条" class="md-minus-ico floatleft" href="#"></a>
                                                        </p>
                                                    </td>
                                                </tr>
                                                <tr><td><input type="checkbox"/><span class="marl5">必填</span></td></tr>
                                                <tr>
-                                                   <td>
+                                                   <td colspan="2">
                                                        <table>
                                                            <tr>
                                                                <th>最大值</th>
                                                                <td><input class="md-int-mid width-60" type="text" /></td>
+                                                           </tr>
+                                                       </table>
+                                                   </td>
+                                               </tr>
+                                               <tr>
+                                                   <td colspan="2">
+                                                       <table>
+                                                           <tr>
                                                                <th>最小值</th>
                                                                <td><input class="md-int-mid width-60" type="text" /></td>
                                                            </tr>
                                                        </table>
                                                    </td>
                                                </tr>
-                                               <tr><th><a href="#">选项模板</a></th></tr>
-                                               <tr><th class="alignright"><a class="md-plus-btn color-white marr20" href="#">确定<em class="md-plus-btn-r"></em></a></th></tr>
+                                               <tr><th colspan="2" class=""><a href="#">选项模板</a></th></tr>
+                                               <tr><th colspan="2" class="aligncenter"><a class="md-plus-btn color-white marr20" href="#">确定<em class="md-plus-btn-r"></em></a></th></tr>
                                            </table>
                                            <!--设置over-->
                                        </div>
