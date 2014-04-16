@@ -798,7 +798,7 @@ li:hover .txt-ico-19,.txt-ico-19{background-position: 0 -252px;}
 .scrollTable .th-select .th-tip{top:5px;right:5px;}
 .scrollTable table.Thead th:hover ul{display: block;top:23px;}
 .scrollTable table.Thead th:hover .th-tip{border-top:0;border-left: 5px solid #e9e9e9;border-right: 5px solid #e9e9e9;border-bottom: 5px solid #999;}
-.data-bt{height:40px;line-height:40px;background:#EFEFEF;border-top:1px solid #cccccc;position:absolute;width:100%;bottom:0;}
+.data-bt{height:40px;line-height:40px;background:#EFEFEF;border-top:1px solid #cccccc;position:absolute;width:100%;bottom:20px;}
 .data-bt a{height:40px;line-height:40px;display:inline-block;padding:0 5px;margin-left:10px;color:#666;}
 .data-bt a:hover{color:#333;}
 .timecheck{margin-top:8px;}
