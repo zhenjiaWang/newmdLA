@@ -221,7 +221,7 @@ a.btn-ico:hover{text-decoration: none!important;}
 .md-doc-set-box{border-bottom:1px dotted #d4e5f6;padding:0 0 10px 0;margin-bottom:10px;position: relative;}
 .md-doc-set-box table{zoom:1;}
 .md-doc-set-box table.md-set-table tr th{color:#777;width:90px;text-align: left;}
-.md-doc-set-box table.md-set-table tr td{width: auto;color: #837777;}
+.md-doc-set-box table.md-set-table tr td{width: auto;}
 table.md-set-table tr th{padding:10px 0;}
 table.md-set-table tr span.font14{color:#333;font-weight:bold;}
 .ma-select-f,.md-int-lang,.md-int-short,.md-int-mid,.md-int-auto{border-radius:3px;width:150px;height:25px; line-height:25px;
@@ -875,6 +875,7 @@ a.md-add-row2{background:#F2F2F2;}
 a.md-add-row.md-add-row2:hover{outline:0;}
 .underlined table input{border-top:0;border-right:0;border-left:0;border-bottom-width: 1px;}
 .underlined .md-int-lang, .underlined  .md-int-short,.underlined  .md-int-mid,.underlined  .md-int-auto,.underlined  textarea,.underlined  .ma-select-f{color:#837777;border-top:0;border-right:0;border-left:0;border-radius:0;box-shadow:none;}
+.underlined table td{color: #837777;}
 .dbline,.dbline p{font-size:0;line-height:0;border-bottom:1px dotted #ccc;}
 .dbline{padding-bottom:1px;}
 
