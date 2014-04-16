@@ -872,8 +872,8 @@ li:hover .txt-ico-19,.txt-ico-19{background-position: 0 -252px;}
 .area select{width:auto;vertical-align: middle;}
 .md-add-row2{padding: 0;line-height:20px;}
 a.md-add-row.md-add-row2:hover{border:0;outline:0;}
-
-
+.underlined table input{border-top:0;border-right:0;border-left:0;border-bottom-width: 1px;}
+.underlined .md-int-lang, .underlined  .md-int-short,.underlined  .md-int-mid,.underlined  .md-int-auto,.underlined  textarea,.underlined  .ma-select-f{border-top:0;border-right:0;border-left:0;border-radius:0;box-shadow:none;}
 
 
 
