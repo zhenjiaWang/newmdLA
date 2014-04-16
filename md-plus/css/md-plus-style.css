@@ -197,7 +197,7 @@ a.btn-ico:hover{text-decoration: none!important;}
 .md-doc-item  .md-plus-pop{top:-50px;right:-320px;}
 .md-plus-pop-inner{position: relative;}
 .md-plus-pop-inner th{color:#3a282e!important;}
-.md-plus-pop-inner td{color:#666;}
+.md-plus-pop-inner td{color:#837777;}
 .md-plus-pop-inner td .txt{line-height:18px;padding-right:50px;}
 .md-plus-pop .md-plus-pop-inner p{padding:0;}
 .md-plus-pop .md-plus-pop-inner p.md-title{padding-left:20px;}
@@ -218,7 +218,7 @@ a.btn-ico:hover{text-decoration: none!important;}
 .no-txt .md-mini-ico .md-ico{margin:0px;}
 .no-txt .jspVerticalBar{right:12px;width:6px;}
 .no-txt .jspTrack,.no-txt .jspDrag{width:6px;}
-.md-doc-set-box{border-bottom:1px dotted #d4e5f6;padding:10px 0;margin-bottom:10px;position: relative;}
+.md-doc-set-box{border-bottom:1px dotted #d4e5f6;padding:0 0 10px 0;margin-bottom:10px;position: relative;}
 .md-doc-set-box table{zoom:1;}
 .md-doc-set-box table.md-set-table tr th{color:#777;width:90px;text-align: left;}
 .md-doc-set-box table.md-set-table tr td{width: auto;}
@@ -633,7 +633,7 @@ li:hover .txt-ico-19,.txt-ico-19{background-position: 0 -252px;}
 .card-list .md-doc-item .md-plus-h{border:0;}
 .card-list .md-doc-item-box{margin:0 8px 15px 14px;}
 .card-list .jspPane{margin:0!important;}
-.md-doc-set-box table.md-set-table-mini tr th,.md-doc-list table.md-set-table-mini tr th{width:60px;padding:5px 0 0 10px;color:#837777;}
+.md-doc-set-box table.md-set-table-mini tr th,.md-doc-list table.md-set-table-mini tr th{width:60px;padding:5px 0 0 10px;color:#000;}/*837777*/
 .md-doc-set-box table.md-set-table-mini tr th:first-child{padding:5px 0 0 20px}
 .md-doc-list table.md-set-table-mini tr th{width:80px;padding:13px 0;}
 .md-doc-set-box table.md-set-table-mini td{padding-left:10px;}
