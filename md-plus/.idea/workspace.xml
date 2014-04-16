@@ -26,7 +26,7 @@
       <file leaf-file-name="md-plus-style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/md-plus-style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="876" column="0" selection-start="57431" selection-end="57431" vertical-scroll-proportion="0.6363636" vertical-offset="20562" max-vertical-offset="21360">
+            <state line="875" column="138" selection-start="57387" selection-end="57387" vertical-scroll-proportion="0.53846157" vertical-offset="20636" max-vertical-offset="21360">
               <folding />
             </state>
           </provider>
@@ -53,7 +53,7 @@
       <file leaf-file-name="new-step2.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/template/doc-req/new-step2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="13" selection-start="1405" selection-end="1410" vertical-scroll-proportion="-2.689655" vertical-offset="642" max-vertical-offset="1560">
+            <state line="29" column="56" selection-start="1395" selection-end="1395" vertical-scroll-proportion="-2.689655" vertical-offset="618" max-vertical-offset="1560">
               <folding>
                 <element signature="tag#table#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
                 <element signature="tag#table#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
@@ -621,7 +621,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/template/doc-req/new-step2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="13" selection-start="1405" selection-end="1410" vertical-scroll-proportion="-2.689655" vertical-offset="642" max-vertical-offset="1560">
+        <state line="29" column="56" selection-start="1395" selection-end="1395" vertical-scroll-proportion="-2.689655" vertical-offset="618" max-vertical-offset="1560">
           <folding>
             <element signature="tag#table#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#table#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
@@ -643,7 +643,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/md-plus-style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="876" column="0" selection-start="57431" selection-end="57431" vertical-scroll-proportion="0.6363636" vertical-offset="20562" max-vertical-offset="21360">
+        <state line="875" column="138" selection-start="57387" selection-end="57387" vertical-scroll-proportion="0.53846157" vertical-offset="20636" max-vertical-offset="21360">
           <folding />
         </state>
       </provider>
