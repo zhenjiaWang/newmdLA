@@ -325,9 +325,9 @@ textarea{width: auto;}
 .md-add-ico,.md-minus-ico{position: relative;float: right;width:16px;height:16px;right:-15px;top:6px;margin:0 2px;font-size:0;line-height:0;}
 .md-minus-ico{width: 18px;}
 .md-pop-main table{margin-left:50px;}
-.md-pop-main table th{height:45px;padding-right: 10px;color:#000;}
+.md-pop-main table th{height:40px;padding-right: 10px;color:#000;}
 .md-pop-main .md-doc-set-box{margin-bottom:0;}
-.md-pop-main .md-doc-set-box th{line-height: 45px;}
+.md-pop-main .md-doc-set-box th{line-height: 40px;}
 .md-doc-item table.h2{margin-left:10px;}
 /*我的单据*/
 .md-p-nav2{padding:20px 0 10px 20px;color: #666;border-style:solid;border-width:0 0 1px 0;position: relative;z-index:100;}
