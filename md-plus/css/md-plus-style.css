@@ -1,4 +1,5 @@
 /*reset*/
+body,html{height:100%;}
 body{background: #fff;}
 .md-plus .strong,tr .strong th,tr .strong td{font-weight:bold;}
 .md-plus .floatleft{float:left;}
