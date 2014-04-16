@@ -870,12 +870,13 @@ li:hover .txt-ico-19,.txt-ico-19{background-position: 0 -252px;}
 .RightTop .th-select .th-tip{top:10px;right:5px;}
 .RightTop .th-select span{line-height: 25px;}
 .area select{width:auto;vertical-align: middle;}
-.md-add-row2{padding: 0;line-height:20px;}
-a.md-add-row.md-add-row2:hover{border:0;outline:0;}
+.md-add-row2{padding: 0;line-height:20px;border:1px dashed #ccc;border-width:1px 0;}
+a.md-add-row2{background:#F2F2F2;}
+a.md-add-row.md-add-row2:hover{outline:0;}
 .underlined table input{border-top:0;border-right:0;border-left:0;border-bottom-width: 1px;}
 .underlined .md-int-lang, .underlined  .md-int-short,.underlined  .md-int-mid,.underlined  .md-int-auto,.underlined  textarea,.underlined  .ma-select-f{color:#837777;border-top:0;border-right:0;border-left:0;border-radius:0;box-shadow:none;}
-
-
+.dbline,.dbline p{font-size:0;line-height:0;border-bottom:1px dotted #ccc;}
+.dbline{padding-bottom:1px;}
 
 
 
