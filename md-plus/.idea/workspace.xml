@@ -26,7 +26,7 @@
       <file leaf-file-name="md-plus-style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/md-plus-style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="822" column="127" selection-start="54235" selection-end="54235" vertical-scroll-proportion="0.33333334" vertical-offset="21847" max-vertical-offset="24570">
+            <state line="797" column="123" selection-start="51709" selection-end="51709" vertical-scroll-proportion="0.33333334" vertical-offset="21172" max-vertical-offset="23895">
               <folding />
             </state>
           </provider>
@@ -153,8 +153,8 @@
         <option value="$PROJECT_DIR$/template/doc-req/选择导出列.html" />
         <option value="$PROJECT_DIR$/template/doc-req/new-doc-set.html" />
         <option value="$PROJECT_DIR$/template/doc-req/create-form.html" />
-        <option value="$USER_HOME$/Desktop/md-plus-style.css" />
         <option value="$PROJECT_DIR$/template/doc-req/new-step2.html" />
+        <option value="$USER_HOME$/Desktop/md-plus-style.css" />
         <option value="$PROJECT_DIR$/css/md-plus-style.css" />
       </list>
     </option>
@@ -599,12 +599,14 @@
     </entry>
     <entry file="file://$USER_HOME$/Desktop/md-plus-style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="337" column="33" selection-start="18971" selection-end="18971" vertical-scroll-proportion="-7.4" vertical-offset="8914" max-vertical-offset="24516" />
+        <state line="321" column="25" selection-start="17751" selection-end="17751" vertical-scroll-proportion="-7.4" vertical-offset="8482" max-vertical-offset="23895">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/md-plus-style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="822" column="127" selection-start="54235" selection-end="54235" vertical-scroll-proportion="0.33333334" vertical-offset="21847" max-vertical-offset="24570">
+        <state line="797" column="123" selection-start="51709" selection-end="51709" vertical-scroll-proportion="0.33333334" vertical-offset="21172" max-vertical-offset="23895">
           <folding />
         </state>
       </provider>
