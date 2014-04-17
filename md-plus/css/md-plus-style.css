@@ -111,7 +111,7 @@ a.btn-ico:hover{text-decoration: none!important;}
 .md-p-userinfo{position: absolute;top:-20px;right:15px;}
 .md-p-userinfo a{margin:0 3px;display: inline-block;}
 .md-p-userinfo a:hover{text-decoration:underline;}
-.md-plus-main{margin:0 auto;width:730px;position: relative;padding-bottom: 10px;}
+.md-plus-main{margin:0 auto;width: 775px;position: relative;padding-bottom: 10px;}
 .md-plus-main-inner{width:690px;margin:0 auto;padding:10px;min-height:500px;}
 .md-doc-title{position:relative;line-height:50px;}
 .md-doc-title a.floatleft{position: absolute;left:0;*line-height:20px;}
@@ -339,6 +339,7 @@ textarea{width: auto;}
 .md-p-nav2 li a:hover{text-decoration:none;}
 .md-p-nav2 li a em.md-plus-news{color:#fff;background:#ed0c0a;font-size:12px;line-height:10px;border-radius:3px;
     text-align:center;top:4px;right:-22px;border:1px solid #b46062;width:auto;height:auto;padding:2px 3px;}
+.md-p-nav2 ul.font16{position:relative;top:-5px;}
 .md-plus-sequence{position: relative;top:5px;width:100px;*top:-25px;}
 .md-plus-sequence a:hover,.md-plus-ser ul li a:hover{text-decoration: none;}
 em.md-ico-seq{width:14px;height:10px;background:url("../images/md-p-ico.png");margin-right:5px;*position: relative;*top:-3px;}
@@ -874,11 +875,16 @@ li:hover .txt-ico-19,.txt-ico-19{background-position: 0 -252px;}
 a.md-add-row2{background:#F2F2F2;}
 a.md-add-row.md-add-row2:hover{outline:0;}
 .underlined table input{border-top:0;border-right:0;border-left:0;border-bottom-width: 1px;}
+.underlined table input.md-int-lang{width: 230px;}
+.underlined table select.ma-select-f{width: 230px;}
 .underlined .md-int-lang, .underlined  .md-int-short,.underlined  .md-int-mid,.underlined  .md-int-auto,.underlined  textarea,.underlined  .ma-select-f{color:#837777;border-top:0;border-right:0;border-left:0;border-radius:0;box-shadow:none;}
 .underlined table td{color: #837777;}
+.underlined span.editDiv{line-height:30px;width:70px;}
+.md-doc-set-box.underlined table.md-set-table-mini tr th:first-child{padding-top:0;}
+.underlined table th{vertical-align: bottom;}
+.underlined table.md-process-table tbody th,.underlined table.md-process-table tbody td{border-color:#CCCCCC;}
 .dbline,.dbline p{font-size:0;line-height:0;border-bottom:1px dotted #ccc;}
 .dbline{padding-bottom:1px;}
-
 
 
 
