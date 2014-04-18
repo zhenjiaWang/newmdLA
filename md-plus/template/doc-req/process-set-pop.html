@@ -24,7 +24,7 @@
           <div class="md-doc-set-box mart10">
               <p class="marl10"><input type="text" class="md-int-mid int-name" value="流程名称"></p>
               <!--审批条件 2014-3-28 begin-->
-              <div class="md-result-user" style="left:50%;top:100px;margin-left:-130px;">
+              <div class="md-result-user" style="left:50%;top:100px;margin-left:-130px;display:none;">
                   <p class="font14">审批步骤满足于：</p>
                   <table class="nomar mart20">
                       <tr>
@@ -62,7 +62,7 @@
                       <td>
                           <span class="color-p">
                               刘德华 <em class="md-d-triangle"></em>
-                              <dl class="md-make-pro" style="display: inline-block;">
+                              <dl class="md-make-pro" style="display:none;">
                                   <dd><a href="#">替换审批人</a></dd>
                                   <dd><a href="#">删除这个审批步骤</a></dd>
                                   <dd><a href="#">审批条件</a></dd>
@@ -89,8 +89,20 @@
                             <input type="text" class="md-int-mid">
                             <a class="md-ser-ico" href="#"></a>
                           </div>
-                          <a class="md-minus-ico marl10" title="删除审批人" href="#" ></a>
-                          <a class="md-add-ico" title="添加审批人" href="#"></a>
+                          <span class="md-btns clearfix">
+                            <a class="md-minus-ico marl10" title="删除审批人" href="#" ></a>
+                            <a class="md-add-ico" title="添加审批人" href="#"></a>
+                          </span>
+                      </td>
+                  </tr>
+                  <tr>
+                      <td>第5步 审批</td>
+                      <td>
+                          <div class="md-clander floatleft">
+                              <input type="text" class="md-int-mid">
+                              <a class="md-ser-ico" href="#"></a>
+                          </div>
+                          <span class="md-btns clearfix"></span>
                       </td>
                   </tr>
               </table>
@@ -99,6 +111,16 @@
           <div>
               <p class="mart20 marl20">所有审批通过后，交由经办人执行</p>
               <table class="process-table mart10 nomarl">
+                  <tr>
+                      <td>经办执行人</td>
+                      <td>
+                          <div class="md-clander floatleft">
+                              <input type="text" class="md-int-mid">
+                              <a class="md-ser-ico" href="#"></a>
+                          </div>
+                          <span class="md-btns clearfix"></span>
+                      </td>
+                  </tr>
                   <tr>
                       <td>经办执行人</td>
                       <td>
