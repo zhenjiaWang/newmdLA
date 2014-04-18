@@ -139,6 +139,7 @@ a.btn-ico:hover{text-decoration: none!important;}
 .md-plus-btn:hover,.make-btn:hover{text-decoration: none!important;}
 .md-doc-item .md-mi-down,.md-doc-item .md-mi-up{margin:0 2px;}
 .md-doc-item .md-mi-up{margin:0 0 0 2px;}
+.md-doc-item .editApply{top:3px;}
 /*ico item*/
 .md-plus-news{width:15px;height:14px;display:inline-block;font-size:0;line-height: 0;
     background: url("../images/md-news-ico.png");position: absolute;top:-5px;right:0;}
