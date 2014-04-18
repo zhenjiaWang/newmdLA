@@ -26,7 +26,7 @@
       <file leaf-file-name="md-plus-style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/md-plus-style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="343" column="40" selection-start="19308" selection-end="19308" vertical-scroll-proportion="0.33333334" vertical-offset="8914" max-vertical-offset="24327">
+            <state line="896" column="0" selection-start="58893" selection-end="58893" vertical-scroll-proportion="0.38520652" vertical-offset="23791" max-vertical-offset="24867">
               <folding />
             </state>
           </provider>
@@ -53,8 +53,15 @@
       <file leaf-file-name="new-step2.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/template/doc-req/new-step2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="127" column="41" selection-start="5977" selection-end="5977" vertical-scroll-proportion="0.0" vertical-offset="3429" max-vertical-offset="7209">
-              <folding />
+            <state line="182" column="62" selection-start="9315" selection-end="9324" vertical-scroll-proportion="-16.03125" vertical-offset="4401" max-vertical-offset="7452">
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#tr#0;n#table#2;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#td#0;n#tr#0;n#table#2;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#div#0;n#div#0;n#td#0;n#tr#0;n#table#2;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#label#0;n#div#0;n#div#0;n#td#0;n#tr#0;n#table#2;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#th#0;n#tr#0;n#table#9;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -135,8 +142,8 @@
         <option value="$PROJECT_DIR$/template/doc-req/new-doc-set.html" />
         <option value="$PROJECT_DIR$/template/doc-req/create-form.html" />
         <option value="$PROJECT_DIR$/css/global.css" />
-        <option value="$PROJECT_DIR$/template/doc-req/new-step2.html" />
         <option value="$USER_HOME$/Desktop/md-plus-style.css" />
+        <option value="$PROJECT_DIR$/template/doc-req/new-step2.html" />
         <option value="$PROJECT_DIR$/css/md-plus-style.css" />
       </list>
     </option>
@@ -353,7 +360,14 @@
     <entry file="file://$PROJECT_DIR$/template/doc-req/new-step2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="110" column="52" selection-start="5012" selection-end="5012" vertical-scroll-proportion="0.0" vertical-offset="2640" max-vertical-offset="6288">
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#table#2;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#td#0;n#tr#0;n#table#2;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#0;n#div#0;n#td#0;n#tr#0;n#table#2;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#div#0;n#div#0;n#td#0;n#tr#0;n#table#2;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#tr#0;n#table#9;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -601,19 +615,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/template/doc-req/new-step2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="127" column="41" selection-start="5977" selection-end="5977" vertical-scroll-proportion="0.0" vertical-offset="3429" max-vertical-offset="7209">
-          <folding />
+        <state line="182" column="62" selection-start="9315" selection-end="9324" vertical-scroll-proportion="-16.03125" vertical-offset="4401" max-vertical-offset="7452">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#table#2;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#td#0;n#tr#0;n#table#2;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#0;n#div#0;n#td#0;n#tr#0;n#table#2;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#div#0;n#div#0;n#td#0;n#tr#0;n#table#2;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#tr#0;n#table#9;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/md-plus-style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="882" column="84" selection-start="57902" selection-end="57902" vertical-scroll-proportion="-26.52" vertical-offset="23151" max-vertical-offset="24246" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/md-plus-style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="343" column="40" selection-start="19308" selection-end="19308" vertical-scroll-proportion="0.33333334" vertical-offset="8914" max-vertical-offset="24327">
+        <state line="896" column="0" selection-start="58893" selection-end="58893" vertical-scroll-proportion="0.38520652" vertical-offset="23791" max-vertical-offset="24867">
           <folding />
         </state>
       </provider>

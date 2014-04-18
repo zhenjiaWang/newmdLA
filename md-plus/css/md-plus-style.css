@@ -246,7 +246,7 @@ textarea{width: auto;}
     border-color: #66afe9;
     outline: 0;
     box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(102, 175, 233, 0.6);}
-.has-success input,.has-success textarea{
+.has-success input,.has-success textarea,.has-success .Textarea{
     border-color: #468847;
     -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
     box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
@@ -256,7 +256,7 @@ textarea{width: auto;}
     -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 6px #7aba7b;
     box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 6px #7aba7b;
 }
-.has-warning input,.has-warning textarea{
+.has-warning input,.has-warning textarea,.has-warning .Textarea{
     border-color: #c09853;
     -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
     box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
@@ -266,7 +266,7 @@ textarea{width: auto;}
     -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 6px #dbc59e;
     box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 6px #dbc59e;
 }
-.has-error input,.has-error textarea{
+.has-error input,.has-error textarea,.has-error .Textarea{
     border-color: #c09853;
     -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
     box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
@@ -335,7 +335,7 @@ textarea{width: auto;}
 .md-doc-item table.h2{margin-left:10px;}
 /*我的单据*/
 .md-p-nav2{padding:20px 0 10px 20px;color: #666;border-style:solid;border-width:0 0 1px 0;position: relative;z-index:100;}
-.md-p-nav2 li,.md-p-nav2 li.current{float: left;margin:0 15px;padding-bottom:5px;}
+.md-p-nav2 li,.md-p-nav2 li.current{float: left;margin:0 20px 0 12px;padding-bottom:5px;}
 .md-p-nav2 li a{color:#555;position: relative;}
 .md-p-nav2 li a:hover{text-decoration:none;}
 .md-p-nav2 li a em.md-plus-news{color:#fff;background:#ed0c0a;font-size:12px;line-height:10px;border-radius:3px;
@@ -889,6 +889,26 @@ a.md-add-row.md-add-row2:hover{outline:0;}
 .dbline,.dbline p{font-size:0;line-height:0;border-bottom:1px dotted #ccc;}
 .dbline{padding-bottom:1px;}
 .md-pop-main .txt-prompt{margin-top:5px;}
+.Textarea{border-bottom:1px solid #ccc;}
+.Textarea,.Textarea div{width: 100%;min-height: 30px;position:relative;line-height:20px;word-wrap: break-word;word-break: break-all;}
+.Textarea .textlength{top:auto;bottom:0;right:10px;}
+.has-error .Textarea{border-color: #C09853;}
+.has-success .Textarea,.has-error .Textarea,.has-warning .Textarea{box-shadow: none;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

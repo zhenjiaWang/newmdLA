@@ -19,7 +19,7 @@
     </script>
 </head>
 <body>
-<div class="md-plus-pop" style="width:574px;top:30px;left:50%;margin-left:-287px;">
+<div class="md-plus-pop" style="width:780px;top:30px;left:50%;margin-left:-390px;">
     <div class="md-plus-pop-inner">
         <a href="#" class="md-delect"></a>
         <p class="font18 md-title clearfix">
@@ -66,7 +66,14 @@
             <table class="md-set-table md-set-table-mini marl10" width="100%">
                 <tr>
                     <th>原岗位</th>
-                    <td style="width: 230px;"><input type="text" class="md-int-lang"></td>
+                    <td style="width: 230px;">
+                        <div class="td-inner clearfix" style="width: 230px;">
+                           <div class="has-general has-error clearfix">
+                               <input type="text" class="md-int-lang" style="width:auto;">
+                               <label class="control-line" style="width:auto;height:25px;line-height:25px;display: inline;">填写地点</label>
+                           </div>
+                       </div>
+                    </td>
                     <th>调整员工</th>
                     <td><input type="text" class="md-int-lang"></td>
                   </tr>
@@ -170,12 +177,14 @@
             </table>
             <table class="md-set-table md-set-table-mini marl10" width="100%">
                 <tr>
-                     <th valign="top">备注</th>
+                     <th valign="top" style="vertical-align:top;">备注</th>
                      <td colspan="3">
                          <div class="td-inner clearfix">
                              <div class="has-general has-error">
-                                 <textarea rows="5" cols="57"></textarea>
-                                 <span class="textlength">还可输入<em>20</em>个字</span>
+                                 <div class="Textarea">
+                                     <div contenteditable="true"></div>
+                                     <span class="textlength">还可输入<em>20</em>个字</span>
+                                 </div>
                              </div>
                          </div>
                      </td>
