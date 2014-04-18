@@ -341,7 +341,7 @@ textarea{width: auto;}
 .md-p-nav2 li a em.md-plus-news{color:#fff;background:#ed0c0a;font-size:12px;line-height:10px;border-radius:3px;
     text-align:center;top:4px;right:-22px;border:1px solid #b46062;width:auto;height:auto;padding:2px 3px;}
 .md-p-nav2 ul.font16{position:relative;top:-5px;}
-.md-p-nav2 span.font16{line-height: 30;}
+.md-p-nav2 span.font16{line-height: 30px;}
 .md-pop-main .md-p-nav2 ul.font16{position:relative;top:5px;}
 .md-plus-sequence{position: relative;top:5px;width:100px;*top:-25px;}
 .md-plus-sequence a:hover,.md-plus-ser ul li a:hover{text-decoration: none;}
