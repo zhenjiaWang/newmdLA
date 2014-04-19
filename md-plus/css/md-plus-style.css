@@ -335,7 +335,7 @@ textarea{width: auto;}
 .md-doc-item table.h2{margin-left:10px;}
 /*我的单据*/
 .md-p-nav2{padding:20px 0 10px 20px;color: #666;border-style:solid;border-width:0 0 1px 0;position: relative;z-index:100;}
-.md-p-nav2 li,.md-p-nav2 li.current{float: left;margin:0 20px 0 12px;padding-bottom:5px;}
+.md-p-nav2 li,.md-p-nav2 li.current{float: left;margin:0 48px 0 3px;padding-bottom:5px;}
 .md-p-nav2 li a{color:#555;position: relative;}
 .md-p-nav2 li a:hover{text-decoration:none;}
 .md-p-nav2 li a em.md-plus-news{color:#fff;background:#ed0c0a;font-size:12px;line-height:10px;border-radius:3px;
@@ -894,7 +894,7 @@ a.md-add-row.md-add-row2:hover{outline:0;}
 .Textarea .textlength{top:auto;bottom:0;right:10px;}
 .has-error .Textarea{border-color: #C09853;}
 .has-success .Textarea,.has-error .Textarea,.has-warning .Textarea{box-shadow: none;}
-
+.process-table tr td span.md-btns{height:27px;display: inline-block;width:60px;margin-left:-10px;}
 
 
 
