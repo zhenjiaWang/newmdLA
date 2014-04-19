@@ -89,7 +89,13 @@ a:hover,.news-list li a:hover{text-decoration:none;}
 .printtab{border:1px solid #000;border-left: 1px dashed #c8c8c8;border-right: 1px dashed #c8c8c8;}
 .printtab th,.printtab td{padding-left:10px;height:30px;line-height:30px;border:1px dotted #464646;font-size:13px;color:#333;}
 .printtab th{background-color:#f2f2f2;color:#000;}
-.printtab pre{font-family:"Microsoft YaHei","SimHei","NSimSun";}
+.printtab pre{
+    font-family:"Microsoft YaHei","SimHei","NSimSun";
+    white-space: pre-wrap;       /* css-3 */
+    white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+    white-space: -pre-wrap;      /* Opera 4-6 */
+    white-space: -o-pre-wrap;    /* Opera 7 */
+    word-wrap: break-word;       /* Internet Explorer 5.5+ */}
 
 
 
