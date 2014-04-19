@@ -895,9 +895,9 @@ a.md-add-row.md-add-row2:hover{outline:0;}
 .has-error .Textarea{border-color: #C09853;}
 .has-success .Textarea,.has-error .Textarea,.has-warning .Textarea{box-shadow: none;}
 .process-table tr td span.md-btns{height:27px;display: inline-block;width:60px;margin-left:-10px;}
-.attachment-list .all-att{position: relative;display: block;width: auto;}
+.attachment-list .all-att{position: relative;display: block;width: auto;box-shadow:none;}
 .attachment-list .all-att li{margin:5px 10px;float: left;width: 220px;}
-.attachment-list .all-att li a{margin:0 10px 0 0;}
+.attachment-list .all-att li a{margin:0 10px 0 0;float: right;}
 .attachment-list .all-att li p.txt_hidden{width:160px;float: none;}
 .attachment-list .md-attachment{margin:0;}
 .attachment-list .all-att li .docimg img{width: 48px;height:48px;}
