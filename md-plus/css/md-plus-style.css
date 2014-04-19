@@ -219,7 +219,7 @@ a.btn-ico:hover{text-decoration: none!important;}
 .no-txt .md-mini-ico .md-ico{margin:0px;}
 .no-txt .jspVerticalBar{right:12px;width:6px;}
 .no-txt .jspTrack,.no-txt .jspDrag{width:6px;}
-.md-doc-set-box{border-bottom:1px dotted #d4e5f6;padding:0 0 10px 0;margin-bottom:10px;position: relative;}
+.md-doc-set-box{border-bottom:1px dotted #d4e5f6;padding:5px 0 10px 0;margin-bottom:10px;position: relative;}
 .md-doc-set-box table{zoom:1;}
 .md-doc-set-box table.md-set-table tr th{color:#777;width:90px;text-align: left;}
 .md-doc-set-box table.md-set-table tr td{width: auto;}
