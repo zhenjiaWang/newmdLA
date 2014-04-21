@@ -96,8 +96,8 @@ a:hover,.news-list li a:hover{text-decoration:none;}
     white-space: -pre-wrap;      /* Opera 4-6 */
     white-space: -o-pre-wrap;    /* Opera 7 */
     word-wrap: break-word;       /* Internet Explorer 5.5+ */}
-
-
+.printtab.noborder th,.printtab.noborder td,.printtab.firsttab th,.printtab.firsttab td,.printtab.firsttab,.printtab.normaltab,.printtab.normaltab td,.printtab.normaltab th{border-bottom:0;}
+.printtab.lastttab,.printtab.normaltab{border-top:0;}
 
 
 
