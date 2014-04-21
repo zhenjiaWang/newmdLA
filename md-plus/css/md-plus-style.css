@@ -180,6 +180,7 @@ a.btn-ico:hover{text-decoration: none!important;}
 .md-mi-ico2{width:13px;height:13px;}
 .md-mi-eye{width:18px;height:10px;top:0;right:-3px;background-position:0 -157px;}
 .md-mi-ck{width:14px;height:17px;top:1px;right:0;background-position:-26px -203px;}
+.md-fork{margin:0 2px 0 4px;}
 .md-plus-add{width:26px;height:26px;}
 .m-p-plus,.m-p-minus{display:inline-block;width:12px;height:12px;font-size:0;line-height: 0;background:url("../images/md-p-ico.png");}
 .m-p-plus{background-position:0 -75px;}
@@ -336,6 +337,7 @@ textarea{width: auto;}
 /*我的单据*/
 .md-p-nav2{padding:20px 0 10px 20px;color: #666;border-style:solid;border-width:0 0 1px 0;position: relative;z-index:100;}
 .md-p-nav2 li,.md-p-nav2 li.current{float: left;margin:0 48px 0 3px;padding-bottom:5px;}
+.md-p-nav2.mini li,.md-p-nav2.mini li.current{margin:0 15px 0 3px;}
 .md-p-nav2 li a{color:#555;position: relative;}
 .md-p-nav2 li a:hover{text-decoration:none;}
 .md-p-nav2 li a em.md-plus-news{color:#fff;background:#ed0c0a;font-size:12px;line-height:10px;border-radius:3px;

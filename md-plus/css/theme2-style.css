@@ -13,7 +13,6 @@
 .md-doc-item .md-plus-h{border-color:#fed2c2;}
 .md-doc-item:hover .md-plus-h,.md-doc-item h2{border-color:#fab8a0;}
 .md-doc-item:hover,.upload:hover{background:#fbd3c4;border-color:#fab8a0;}
-
 .md-ico,.md-controls-top:hover,.md-controls-bt:hover{background-image:url("../images/theme2-img/md-plus-ico.png");}
 .md-plus-pop-inner .md-mini-ico a:hover{border-bottom-color:#cc3300;}
 .md-plus-btn,.md-doc-item.current .md-plus-btn,.md-plus-btn em.md-plus-btn-r,.md-doc-item:hover .md-plus-btn{background-image:url("../images/theme2-img/md-item-btn-bg.jpg");}
@@ -34,8 +33,9 @@ a:hover .md-mi-fail,.md-mi-fail:hover{background-position:-50px -222px;}
 a:hover .md-mi-audit,.md-mi-audit:hover{background-position:-50px -242px;}
 a:hover .md-mi-ok,.md-mi-ok:hover{background-position:-50px -262px;}
 a:hover .md-mi-look,.md-mi-look:hover{background-position:-50px -282px;}
-a:hover .md-mi-print,.md-mi-print:hover,span:hover .md-mi-print{background-position:-50px -302px;}
+a:hover .md-mi-print,.md-mi-print:hover,span:hover .md-mi-print{background-position:-50px -299px;}
 a:hover .md-mi-ck,.md-mi-ck:hover,span:hover .md-mi-ck{background-position:-139px -147px;}
+a:hover .md-fork,.md-fork:hover,span:hover .md-fork{background-position:-139px -165px;}
 a:hover .md-mi-count,.md-mi-count:hover,.md-doc-item:hover .md-mi-count{background-position:-115px -161px;}
 .md-mi-cross,.md-mi-return,.md-mi-nocross{width:24px;height:20px;}
 .md-mi-cross{background-position:-50px -342px;}

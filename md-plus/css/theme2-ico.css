@@ -11,7 +11,6 @@ em.md-choose,em.md-choosed{width:16px;height:16px;font-size:0;line-height:0;back
 a.cut-table,a.cut-table:hover{width:16px;height:16px;background: url("../images/theme2-img/md-p-ico.png") 0 -140px;top:3px;right:11px;}
 .md-mi-attachment{display:inline-block;width:16px;height:18px;font-size: 0;line-height: 0;
     background: url("../images/theme2-img/md-p-ico.png");background-position:-1px -181px;vertical-align: middle;top:-2px;left:-4px;position: relative;}
-
 .md-ico{width:50px;height:50px;display:inline-block;}
 .md-mini-ico .md-ico{width:35px;height:35px;margin:5px;background: none;}
 .md-mini-ico .md-ico img{width:35px;height:35px;}
@@ -43,10 +42,11 @@ a.cut-table,a.cut-table:hover{width:16px;height:16px;background: url("../images/
 .md-mi-audit{background-position:-26px -100px;}
 .md-mi-ok{background-position:-26px -120px;}
 .md-mi-look{background-position:-26px -140px;}
-.md-mi-print{background-position:-26px -160px;top:6px;}
+.md-mi-print{background-position:-26px -157px;top:6px;}
 .md-mi-ico2{width:13px;height:13px;}
 .md-mi-eye{width:18px;height:10px;top:0;right:-3px;background-position:0 -157px;}
 .md-mi-ck{width:14px;height:17px;top:1px;right:0;background-position:-26px -203px;}
+.md-fork{width:15px;height:15px;background-position:-26px -222px;}
 .md-plus-add{width:26px;height:26px;}
 .m-p-plus,.m-p-minus{display:inline-block;width:12px;height:12px;font-size:0;line-height: 0;background:url("../images/md-p-ico.png");}
 .m-p-plus{background-position:0 -75px;}
