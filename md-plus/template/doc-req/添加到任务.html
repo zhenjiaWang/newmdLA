@@ -8,6 +8,15 @@
     <link rel="stylesheet" href="../../css/theme1-ico.css" type="text/css">
     <link rel="stylesheet" href="../../css/theme1-style.css" type="text/css">
     <script  type="text/javascript" src="../../js/jquery.js"></script>
+    <script  type="text/javascript">
+        $(function(){
+            $("#addU").click(function(){
+                $(this).hide();
+                $(this).parents(".add-user").addClass("add-focus");
+                $(this).parents(".add-user").find("input.md-int-mid").focus();
+            });
+        });
+    </script>
 </head>
 <body>
 <div class="md-plus-pop border-color1" style="width:590px;top:100px;left:50%;margin-left:-295px;">
