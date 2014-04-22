@@ -16,10 +16,12 @@
                 $(this).parents(".add-user").find("input.int-name").focus();
             });
             $("#addT").click(function(){
+                $(this).hide();
                 $(this).next("table").show();
                 $(this).nextAll("p.Tup").show();
             });
             $(".Tup").click(function(){
+                $("#addT").show();
                 $(this).hide();
                 $(this).prev("table").hide();
             });
@@ -27,10 +29,11 @@
     </script>
 </head>
 <body>
-<div class="md-plus-pop" style="width:490px;top:100px;left:50%;margin-left:-245px;">
+<div class="md-plus-pop border-color1" style="width:590px;top:100px;left:50%;margin-left:-295px;">
     <div class="md-plus-pop-inner">
         <a href="#" class="md-delect"></a>
-        <p class="font18 md-title clearfix">
+        <p class="font14 md-title clearfix">
+            <span class="Hline ThemeBGColor floatleft"></span>
             <span class="floatleft">添加到任务</span>
         </p>
         <div class="md-pop-main">
@@ -40,18 +43,18 @@
               <table class="process-table mart10 nomarl">
                   <tr>
                       <td>任务名称</td>
-                      <td><input type="text" class="md-int-mid int-name" value="流程名称"></td>
+                      <td><input type="text" class="md-int-mid width-450" value="流程名称"></td>
                   </tr>
                   <tr>
                       <td>截止日期</td>
                       <td>
                           <div class="td-inner clearfix">
-                               <div class="has-general has-error">
-                                   <div class="md-clander floatleft">
-                                       <input type="text" class="md-int-lang int-name">
+                               <div class="has-general clearfix width-450 has-error">
+                                   <div class="md-clander width-450 floatleft">
+                                       <input type="text" class="md-int-lang width-450">
                                        <a class="md-cl-ico" href=""></a>
                                    </div>
-                                   <label class="control-label" style="width: 195px; height: 15px; left: 7px; display: inline;">请输入日期</label>
+                                   <label class="control-label" style="width:100%; height: 15px; left: 7px; display: inline;">请输入日期</label>
                                </div>
                           </div>
                       </td>
@@ -93,8 +96,8 @@
                                     </li>
                                     <li class="mart5"><a href="javascript:;" class="color-p" id="addU">添加任务成员</a></li>
                                 </ul>
-                                <div class="md-clander int-name">
-                                      <input type="text" class="md-int-mid int-name nomar">
+                                <div class="md-clander width-400">
+                                      <input type="text" class="md-int-mid nomar width-400">
                                       <a class="md-ser-ico" href="#"></a>
                                 </div>
                           </div>
@@ -102,20 +105,18 @@
                   </tr>
               </table>
               <!--详细流程over-->
-              <p class="mart20 marl20" id="addT"><a href="javascript:;" class="color-p nomar">添加任务详情 <em class="md-d-triangle"></em></a></p>
-              <table class="process-table mart10 nomarl" style="display: none;">
+              <table class="process-table mart10 nomarl">
                   <tr>
                       <td style="vertical-align: top;">任务详情</td>
                       <td>
-                          <textarea class="TextArea"  placeholder="请输入任务详情" no="true" style="width:283px;height:90px;"></textarea>
+                          <textarea class="TextArea width-450"  placeholder="请输入任务详情" no="true" style="height:90px;"></textarea>
                       </td>
                   </tr>
               </table>
-              <p class="mart5 Tup" style="display: none;padding-left: 95px;"><a href="javascript:;" class="color-black nomar width-40">收起 <em class="md-d-triangle md-u-triangle"></em></a></p>
           </div>
           <p class="alignright marr30 mart20 clearfix">
+              <a href="#" class="marr20 color-p">取  消</a>
               <a href="#" class="md-plus-btn color-white">创建任务<em class="md-plus-btn-r"></em></a>
-              <a href="#" class="md-plus-btn2">取  消<em class="md-plus-btn-r"></em></a>
           </p>
         </div>
     </div>
