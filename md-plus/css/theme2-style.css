@@ -1,10 +1,10 @@
-.md-plus a,.md-ap-pro .md-num-ico,.md-title,.md-p-nav2 li a:hover,.md-p-nav2 li.current a,
+.md-plus a,.md-ap-pro .md-num-ico,.md-p-nav2 li a:hover,.md-p-nav2 li.current a,
 .md-doc-list  em,.md-results span.md-name,.phone-number,.md-doc-item table.h2 td{color:#cc3300;}
 .md-plus,.md-creation-in td,.md-creation-in th{border:1px solid #f6cec1;}
 .md-plus-top{border-bottom:1px solid #f6cec1;background:#ffebe4;color:#cc3300;}
 .md-approver-r,.md-plus-l-nav,.md-plus-l-nav,.md-plus-page a,.md-plus-page span,.make-logs td,.make-logs th,.overtime,
 .tableout table td,.tableout table th,.tableout .t_left,.tableout .t_r,.updaterDialog_Main dl dd{border-color:#f6cec1;}
-.md-value-set .md-controls-pop-in .h2,.process-table .md-make-pro dd a:hover{background:#cc3300;}
+.md-value-set .md-controls-pop-in .h2,.process-table .md-make-pro dd a:hover,.ThemeBGColor{background:#cc3300;}
 .md-plus-main-inner{border:1px solid #f6cec1;}
 .md-doc-title span,.md-p-nav ul li a:hover,.md-p-nav ul li.app-set a,.md-doc-item a,.color-p,.btn-ico:hover{color:#cc3300!important;}
 .md-doc-item,.make-logs th,.md-ap-pro ul li.current,.md-creation-in,span.md-make-btns{border-color:#f6cec1;background:#ffebe4;}
@@ -13,6 +13,9 @@
 .md-doc-item .md-plus-h{border-color:#fed2c2;}
 .md-doc-item:hover .md-plus-h,.md-doc-item h2{border-color:#fab8a0;}
 .md-doc-item:hover,.upload:hover{background:#fbd3c4;border-color:#fab8a0;}
+/*订购弹出*/
+.border-color1{border-color:#9E1600;}
+.color-color1{color: #9E1600;}
 .md-ico,.md-controls-top:hover,.md-controls-bt:hover{background-image:url("../images/theme2-img/md-plus-ico.png");}
 .md-plus-pop-inner .md-mini-ico a:hover{border-bottom-color:#cc3300;}
 .md-plus-btn,.md-doc-item.current .md-plus-btn,.md-plus-btn em.md-plus-btn-r,.md-doc-item:hover .md-plus-btn{background-image:url("../images/theme2-img/md-item-btn-bg.jpg");}
