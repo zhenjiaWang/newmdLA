@@ -205,7 +205,7 @@ a.btn-ico:hover{text-decoration: none!important;}
 .md-plus-pop-inner td{color:#837777;}
 .md-plus-pop-inner td .txt{line-height:18px;padding-right:50px;}
 .md-plus-pop .md-plus-pop-inner p{padding:0;}
-.md-plus-pop .md-plus-pop-inner p.md-title{border-radius:4px 0 0 4px;border-bottom: 1px solid #EFEFEF;}
+.md-plus-pop .md-plus-pop-inner p.md-title{border-radius:4px 0 0 4px;border-bottom: 1px solid #EFEFEF;cursor: move;}
 .md-plus-pop .md-plus-pop-inner p.md-title .pro-edit{top:20px;right:5px;}
 .md-plus-pop-inner em.md-l-tip,.md-plus-pop-inner em.md-right-tip,.md-plus-pop-inner em.md-top-tip,.md-plus-pop-inner em.md-bt-tip{position: absolute;width:10px;height:16px;display: block;font-size:0;line-height:0;}
 .md-plus-pop-inner em.md-top-tip,.md-plus-pop-inner em.md-bt-tip{width:16px;height:10px;}
@@ -315,7 +315,7 @@ textarea{width: auto;}
 .md-ap-pro ul li.no-ok span{color:#b6b6b6;}
 .md-ap-pro .md-pro-user{display:inline-block;}
 .md-title{line-height:50px;padding-left:20px;margin:0 20px;}
-.md-pop-main{margin:0 10px;padding-bottom:10px;}
+/*.md-pop-main{margin:0 10px;padding-bottom:10px;}*/
 .md-pop-main .md-ser-ico{display:inline-block;position:absolute;width:30px;height:25px;background:url("../images/md-ser-ico.jpg");top:1px;*top:2px;right:2px;font-size:0;line-height: 0;}
 .md-add-ico,.md-minus-ico{position: relative;float: right;width:16px;height:16px;right:-15px;top:6px;margin:0 2px;font-size:0;line-height:0;}
 .md-minus-ico{width: 18px;}
@@ -763,7 +763,7 @@ li:hover .txt-ico-19,.txt-ico-19{background-position: 0 -252px;}
 .ask:hover .ask-pop{display:block;top:-50px;right:-250px;}
 .buy-pop{padding:0;border:1px solid;}
 .buy-pop .md-plus-pop-inner{padding:20px 30px;}
-.old-list li{float: left;width:150px;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;display:inline-block;margin:5px 12px 7px 0;}
+.old-list li{float: left;width:130px;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;display:inline-block;margin:5px 12px 7px 0;}
 .old-list li label{color:#333;cursor: pointer;}
 .old-list li label input{margin-right:5px;}
 /*统计表*/
