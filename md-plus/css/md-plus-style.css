@@ -881,6 +881,7 @@ a.md-add-row.md-add-row2:hover{outline:0;}
 .dbline,.dbline p{font-size:0;line-height:0;border-bottom:1px dotted #ccc;}
 .dbline{padding-bottom:1px;}
 .md-pop-main .txt-prompt{margin-top:5px;}
+.md-pop-main .txt-prompt pre{word-break: break-all;word-wrap: break-word;}
 .Textarea{border-bottom:1px solid #ccc;}
 .Textarea,.Textarea div{width: 100%;min-height: 30px;position:relative;line-height:20px;word-wrap: break-word;word-break: break-all;}
 .Textarea .textlength{top:auto;bottom:0;right:10px;}
